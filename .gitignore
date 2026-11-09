@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+.env
+# `data/` is a checkout of the separate `data` branch, never committed to main
+/data

@@ -36,7 +36,7 @@ Hard constraint: **everything must be free** (hosting, scheduling, LLM, data sou
 
 ```
 GitHub Actions cron (every ~3h)
-  1. collect    sources.yml -> raw items (RSS, HN API, Reddit RSS, GitHub trending, job feeds)
+  1. collect    sources.yml -> raw items (RSS incl. Reddit + job feeds, HN API, GitHub search API for new AI repos)
   2. normalise  canonical URL, id = hash(canonical URL)
   3. dedupe     drop ids already in seen.json; cluster near-duplicate stories
   4. score      LLM (batched) -> importance, relevance, topic, whyItMatters
@@ -82,6 +82,7 @@ id, title, url, sources[], publishedAt, firstSeenAt,
 topic (A|B|E|F), importance (0-10), relevance (0-10),
 whyItMatters (one line, <= ~140 chars),
 labels: ("breaking" | "today" | "important")[],
+rank (number, computed at publish time),
 scoredBy: "llm" | "fallback"
 ```
 
@@ -111,8 +112,8 @@ because of a quota failure.
 
 ## 8. Dashboard (React + Vite + TypeScript)
 
-- Static site, no backend. Fetches `feed.json` (and archive on demand).
-- Filter chips: **Breaking · Today · Important · All**; topic chips: **A · B · E · F**.
+- Static site, no backend. Fetches `feed.json` (last 30 days). The pipeline writes older items to archive files; browsing them in the UI is deferred past v1.
+- View chips: **Top · Breaking · Today · Important · All** (Top is the default: 20 items by rank); topic chips: **A · B · E · F**.
 - Card: title, source count, relative time, the one-liner in emphasis, link out,
   topic badge.
 - Per-viewer state in `localStorage`: selected topics, muted keywords, read/unread, theme.
