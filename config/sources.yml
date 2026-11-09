@@ -1,0 +1,34 @@
+# tier 1 = primary lab / official blog, 2 = established outlet or aggregator, 3 = community / long tail.
+# URLs are checked with `npm run check-sources` (Task 6); fix or delete any that fail.
+# Anthropic has no official RSS; its news is picked up via Hacker News and the tier-2 outlets.
+sources:
+  - { id: openai, type: rss, name: OpenAI, tier: 1, url: "https://openai.com/news/rss.xml" }
+  - { id: google-ai, type: rss, name: Google AI Blog, tier: 1, url: "https://blog.google/technology/ai/rss/" }
+  - { id: deepmind, type: rss, name: Google DeepMind, tier: 1, url: "https://deepmind.google/blog/rss.xml" }
+  - { id: huggingface, type: rss, name: Hugging Face, tier: 1, url: "https://huggingface.co/blog/feed.xml" }
+  - { id: aws-ml, type: rss, name: AWS ML Blog, tier: 2, url: "https://aws.amazon.com/blogs/machine-learning/feed/" }
+  - { id: techcrunch-ai, type: rss, name: TechCrunch, tier: 2, url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
+  - { id: verge-ai, type: rss, name: The Verge, tier: 2, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+  - { id: mit-tr-ai, type: rss, name: MIT Technology Review, tier: 2, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed" }
+  - { id: reddit-localllama, type: rss, name: r/LocalLLaMA, tier: 3, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day" }
+  - { id: reddit-ml, type: rss, name: r/MachineLearning, tier: 3, url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day" }
+  - id: hn
+    type: hn
+    name: Hacker News
+    tier: 2
+    minPoints: 50
+    queries: [LLM, OpenAI, Anthropic, Claude, Gemini, "AI agent", RAG]
+  - id: github-new
+    type: github
+    name: GitHub
+    tier: 3
+    minStars: 100
+    lookbackDays: 3
+    topics: [llm, ai-agents, rag, mcp]
+  - id: jobs-wwr
+    type: rss
+    name: We Work Remotely
+    tier: 3
+    topicHint: E
+    url: "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+    include: [AI, ML, LLM, machine learning, AI engineer]

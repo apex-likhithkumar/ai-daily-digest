@@ -1,0 +1,23 @@
+topics:
+  A:
+    name: Backend & AI engineering
+    keywords: [NestJS, TypeScript, Node.js, RAG, vector database, pgvector, agent, MCP, LangChain, LangGraph, BullMQ, Postgres, FastAPI, Python, API, SDK, embeddings, fine-tuning, inference]
+  B:
+    name: Model releases & benchmarks
+    keywords: [GPT, Claude, Gemini, Llama, Mistral, DeepSeek, Qwen, Grok, benchmark, model release, open-source model, context window, reasoning model, LLM]
+  E:
+    name: AI jobs & career
+    keywords: [hiring, jobs, job, career, layoffs, salary, internship, AI engineer, ML engineer, remote]
+  F:
+    name: Tools & products
+    keywords: [Cursor, Copilot, Claude Code, Codex, Windsurf, Replit, Vercel, Ollama, Hugging Face, launch, open source, plugin, extension, framework, library]
+
+# Extra relevance points when an item mentions these (applied to LLM and fallback scores).
+boosts:
+  - keywords: [NestJS, TypeScript, LangGraph, MCP, BullMQ, pgvector]
+    relevance: 2
+  - keywords: [releases, launches, introduces, announces]
+    relevance: 1
+
+# Items matching these are dropped before scoring (saves LLM quota).
+mute: [crypto, NFT, bitcoin, memecoin, airdrop]

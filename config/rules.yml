@@ -1,0 +1,33 @@
+collect:
+  maxAgeHours: 72          # raw items older than this are ignored (stops the first run flooding)
+cluster:
+  similarity: 0.5          # Jaccard overlap of title tokens needed to call two titles the same story
+  minSharedTokens: 2
+scoring:
+  batchSize: 10
+  maxLlmItemsPerRun: 60    # protects the free quota; the rest get fallback scores
+  delayMs: 4000            # pause between batches (free-tier requests-per-minute limits)
+  snippetChars: 300
+llm:
+  # Verify these model names against each provider's current free tier before the first live run.
+  providers:
+    - { type: gemini, model: gemini-2.5-flash }
+    - { type: groq, model: llama-3.3-70b-versatile }
+fallback:
+  tierImportance: { "1": 6, "2": 4, "3": 3 }
+  perExtraSource: 1
+  maxExtraSources: 3
+  baseRelevance: 2
+  perKeywordRelevance: 2
+  defaultTopic: F
+labels:
+  breaking: { minImportance: 8, minSources: 3, maxAgeHours: 6 }
+  today: { maxAgeHours: 24 }
+  important: { minImportance: 7 }
+rank:
+  importanceWeight: 0.6
+  relevanceWeight: 0.4
+  halfLifeHours: 24
+retention:
+  feedDays: 30
+  seenDays: 60
