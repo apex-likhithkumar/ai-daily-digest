@@ -6,7 +6,18 @@ import { safeCanonicalUrl } from '../normalise';
 import type { RawItem } from '../types';
 import { stripHtml, toIso } from './util';
 
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', textNodeName: '#text' });
+// Real feeds (AWS, WeWorkRemotely) HTML-escape every description, which blows through the parser's
+// default 1000-expansion cap. Feeds are fetched over HTTPS from our own source list and the size is
+// still bounded, so a higher cap is safe.
+const MAX_ENTITY_EXPANSIONS = 200_000;
+const MAX_EXPANDED_CHARS = 5_000_000;
+
+const parser = new XMLParser({
+  ignoreAttributes: false,
+  attributeNamePrefix: '@_',
+  textNodeName: '#text',
+  processEntities: { maxTotalExpansions: MAX_ENTITY_EXPANSIONS, maxExpandedLength: MAX_EXPANDED_CHARS },
+});
 
 type XmlNode = Record<string, unknown>;
 

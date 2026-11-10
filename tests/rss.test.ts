@@ -46,6 +46,12 @@ describe('parseFeed', () => {
     expect(items[0]?.topicHint).toBe('E');
   });
 
+  it('parses large feeds with many escaped entities (real feeds exceed the parser default limit)', () => {
+    const escaped = '&lt;p&gt;a &amp; b&lt;/p&gt;'.repeat(300); // 1500 entity expansions
+    const xml = `<rss><channel><item><title>Big feed story</title><link>https://example.com/big</link><pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate><description>${escaped}</description></item></channel></rss>`;
+    expect(parseFeed(xml, SOURCE)).toHaveLength(1);
+  });
+
   it('returns nothing for non-feed XML', () => {
     expect(parseFeed('<html></html>', SOURCE)).toEqual([]);
   });
