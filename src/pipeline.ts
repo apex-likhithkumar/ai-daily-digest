@@ -36,6 +36,12 @@ export async function runPipeline(deps: PipelineDeps): Promise<PipelineSummary> 
   const collected = await deps.collect();
   collected.errors.forEach((error) => deps.log(`source error: ${error}`));
 
+  // Zero items alongside errors means an outage (or a blocked runner), not a quiet news day. Stop before
+  // writing anything, so the site keeps the last good feed instead of a fresh timestamp over stale content.
+  if (collected.items.length === 0 && collected.errors.length > 0) {
+    throw new Error(`All sources failed (${collected.errors.length} errors); not overwriting the feed`);
+  }
+
   const candidates = collected.items
     .filter((raw) => ageHours(raw.publishedAt, now) <= rules.collect.maxAgeHours)
     .filter((raw) => !matchesAny(`${raw.title} ${raw.summary}`, profile.mute));

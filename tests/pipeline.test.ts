@@ -1,11 +1,12 @@
-import { mkdtemp } from 'node:fs/promises';
+import { mkdtemp, readFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { loadConfig } from '../src/config';
 import type { LlmClient } from '../src/llm/types';
 import { runPipeline } from '../src/pipeline';
-import { readFeed } from '../src/store';
+import { itemId } from '../src/normalise';
+import { readFeed, readSeen } from '../src/store';
 import type { RawItem } from '../src/types';
 
 const config = loadConfig('config');
@@ -44,10 +45,10 @@ const RUN2 = [
 ];
 
 describe('runPipeline', () => {
-  async function run(dir: string, llm: LlmClient, items: RawItem[], now: Date) {
+  async function run(dir: string, llm: LlmClient, items: RawItem[], now: Date, errors = ['broken-source: boom']) {
     return runPipeline({
       dataDir: dir, config, llm, now,
-      collect: async () => ({ items, errors: ['broken-source: boom'] }),
+      collect: async () => ({ items, errors }),
       sleep: async () => {}, log: () => {},
     });
   }
@@ -89,7 +90,7 @@ describe('runPipeline', () => {
     const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
     await run(dir, new FakeLlm(), RUN1, T0);
     const later = new Date('2026-12-20T09:00:00.000Z'); // 41 days later
-    await run(dir, new FakeLlm(), [], later);
+    await run(dir, new FakeLlm(), [], later, []); // a quiet run: no items and no source errors
     expect((await readFeed(dir)).items).toHaveLength(0);
   });
 
@@ -97,5 +98,53 @@ describe('runPipeline', () => {
     const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
     const summary = await run(dir, new FakeLlm(), RUN1, T0);
     expect(summary).toMatchObject({ collected: 5, newStories: 2, sourceErrors: 1, totalItems: 2 });
+  });
+});
+
+// Added after review of Task 11 (not in the original plan).
+describe('runPipeline persistence and outage guard', () => {
+  async function run(dir: string, items: RawItem[], errors: string[], now: Date) {
+    return runPipeline({
+      dataDir: dir, config, llm: new FakeLlm(), now,
+      collect: async () => ({ items, errors }),
+      sleep: async () => {}, log: () => {},
+    });
+  }
+
+  it('records every published and merged item in seen.json, but not muted or stale ones', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
+    await run(dir, RUN1, [], T0);
+    await run(dir, RUN2, [], T1);
+    const { ids } = await readSeen(dir);
+    for (const url of [
+      'https://openai.com/news/gpt-5', 'https://reddit.com/r/x/1', 'https://cursor.com/blog/agent',
+      'https://news.ycombinator.com/item?id=1', // merged into an existing item, still marked seen
+    ]) {
+      expect(ids[itemId(url)]).toBeDefined();
+    }
+    expect(ids[itemId('https://example.com/coin')]).toBeUndefined(); // muted
+    expect(ids[itemId('https://example.com/old')]).toBeUndefined(); // too old
+  });
+
+  it('writes expired items to the monthly archive instead of losing them', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
+    await run(dir, RUN1, [], T0);
+    const publishedIds = (await readFeed(dir)).items.map((i) => i.id).sort();
+    await run(dir, [], [], new Date('2026-12-20T09:00:00.000Z'));
+    const archived = JSON.parse(await readFile(join(dir, 'archive', '2026-11.json'), 'utf8')) as Array<{ id: string }>;
+    expect(archived.map((i) => i.id).sort()).toEqual(publishedIds);
+  });
+
+  it('refuses to publish when every source failed, leaving the previous feed untouched', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
+    await run(dir, RUN1, [], T0);
+    const before = await readFeed(dir);
+    await expect(run(dir, [], ['a: boom', 'b: boom'], T1)).rejects.toThrow('All sources failed');
+    expect(await readFeed(dir)).toEqual(before);
+  });
+
+  it('a quiet run with no items and no errors is fine', async () => {
+    const dir = await mkdtemp(join(tmpdir(), 'digest-pipe-'));
+    await expect(run(dir, [], [], T0)).resolves.toMatchObject({ collected: 0, totalItems: 0 });
   });
 });
