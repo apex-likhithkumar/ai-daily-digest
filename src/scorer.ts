@@ -27,14 +27,19 @@ function truncate(text: string, max: number): string {
   return text.length > max ? `${text.slice(0, max - 1)}…` : text;
 }
 
+/** Feed text is untrusted: a newline in a title could forge a fake numbered item in the prompt. */
+function oneLine(text: string): string {
+  return text.replace(/\s+/g, ' ').trim();
+}
+
 export function buildPrompt(stories: Story[], profile: Profile, snippetChars: number): string {
   const interests = TOPICS.map(
     (t) => `- ${t} (${profile.topics[t].name}): ${profile.topics[t].keywords.join(', ')}`,
   ).join('\n');
   const items = stories
     .map((s, i) => {
-      const snippet = s.summary ? ` — ${s.summary.slice(0, snippetChars)}` : '';
-      return `${i}. [${s.sources.join(', ')}] ${s.title}${snippet}`;
+      const snippet = s.summary ? ` — ${oneLine(s.summary.slice(0, snippetChars))}` : '';
+      return `${i}. [${oneLine(s.sources.join(', '))}] ${oneLine(s.title)}${snippet}`;
     })
     .join('\n');
   return [
@@ -78,7 +83,7 @@ export function parseScores(text: string, count: number): Map<number, ParsedScor
     const parsed = entrySchema.safeParse(entry);
     if (!parsed.success || parsed.data.index >= count || scores.has(parsed.data.index)) continue;
     const { index, ...score } = parsed.data;
-    scores.set(index, { ...score, whyItMatters: truncate(score.whyItMatters, WHY_MAX_CHARS) });
+    scores.set(index, { ...score, whyItMatters: truncate(oneLine(score.whyItMatters), WHY_MAX_CHARS) });
   }
   return scores;
 }
@@ -120,6 +125,8 @@ export function fallbackScore(story: Story, profile: Profile, rules: Rules['fall
 async function scoreBatch(batch: Story[], deps: ScorerDeps): Promise<Map<number, ParsedScore>> {
   const prompt = buildPrompt(batch, deps.profile, deps.rules.scoring.snippetChars);
   for (let attempt = 1; attempt <= LLM_ATTEMPTS; attempt += 1) {
+    // Free-tier failures are mostly rate limits: retrying instantly would just hit the same 429.
+    if (attempt > 1) await deps.sleep(deps.rules.scoring.delayMs);
     try {
       return parseScores(await deps.llm.complete(prompt), batch.length);
     } catch (error) {
