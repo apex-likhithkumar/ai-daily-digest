@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-11-09T09:00:00.000Z",
+  "items": [
+    {
+      "id": "sample-gpt5", "title": "OpenAI releases GPT-5 with a 1M-token context window",
+      "url": "https://openai.com/news/", "sources": ["OpenAI", "Hacker News", "r/LocalLLaMA"], "bestTier": 1,
+      "publishedAt": "2026-11-09T08:00:00.000Z", "summary": "", "topic": "B", "importance": 9, "relevance": 8,
+      "whyItMatters": "Longer context changes how you design RAG: you may be able to skip chunking for mid-size corpora.",
+      "scoredBy": "llm", "firstSeenAt": "2026-11-09T08:30:00.000Z", "labels": ["breaking", "today", "important"], "rank": 8.6
+    },
+    {
+      "id": "sample-mcp", "title": "MCP gets a streamable HTTP transport in the latest spec",
+      "url": "https://modelcontextprotocol.io/", "sources": ["Hacker News"], "bestTier": 2,
+      "publishedAt": "2026-11-09T06:30:00.000Z", "summary": "", "topic": "A", "importance": 7, "relevance": 9,
+      "whyItMatters": "Remote MCP servers become much easier to host behind your NestJS API.",
+      "scoredBy": "llm", "firstSeenAt": "2026-11-09T07:00:00.000Z", "labels": ["today", "important"], "rank": 7.4
+    },
+    {
+      "id": "sample-jobs", "title": "Remote AI Engineer (TypeScript) at Acme",
+      "url": "https://weworkremotely.com/", "sources": ["We Work Remotely"], "bestTier": 3,
+      "publishedAt": "2026-11-08T15:00:00.000Z", "summary": "", "topic": "E", "importance": 4, "relevance": 7,
+      "whyItMatters": "A TypeScript-first AI engineering role that matches your stack.",
+      "scoredBy": "llm", "firstSeenAt": "2026-11-08T16:00:00.000Z", "labels": ["today"], "rank": 3.1
+    }
+  ]
+}
