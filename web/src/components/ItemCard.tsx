@@ -1,5 +1,6 @@
 import { TOPIC_NAMES } from '../lib/topics';
 import { timeAgo } from '../lib/time';
+import { safeHttpUrl } from '../lib/url';
 import type { FeedItem } from '../types';
 
 interface Props {
@@ -15,6 +16,8 @@ function sourcesLabel(sources: string[]): string {
 }
 
 export function ItemCard({ item, now, read, onRead }: Props) {
+  // The feed is untrusted input: only http(s) links become clickable (blocks javascript: and data: URLs).
+  const href = safeHttpUrl(item.url);
   return (
     <article className={`card${read ? ' card--read' : ''}`}>
       <div className="card__meta">
@@ -24,9 +27,13 @@ export function ItemCard({ item, now, read, onRead }: Props) {
         <span className="card__time">{timeAgo(item.publishedAt, now)}</span>
       </div>
       <h2 className="card__title">
-        <a href={item.url} target="_blank" rel="noopener noreferrer" onClick={() => onRead(item.id)}>
-          {item.title}
-        </a>
+        {href ? (
+          <a href={href} target="_blank" rel="noopener noreferrer" onClick={() => onRead(item.id)}>
+            {item.title}
+          </a>
+        ) : (
+          item.title
+        )}
       </h2>
       {item.whyItMatters && <p className="card__why">{item.whyItMatters}</p>}
     </article>

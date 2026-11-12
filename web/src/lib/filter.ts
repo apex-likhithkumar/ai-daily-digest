@@ -13,12 +13,24 @@ export interface FilterState {
 const byRank = (a: FeedItem, b: FeedItem) => b.rank - a.rank;
 const byDate = (a: FeedItem, b: FeedItem) => b.publishedAt.localeCompare(a.publishedAt);
 
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+/**
+ * Whole-word matcher, so muting "ai" does not hide "maintain" or "said" (same rule as the backend).
+ * Written without lookbehind, which older Safari versions reject and which would break the whole page.
+ */
+function wholeWord(word: string): RegExp {
+  return new RegExp(`(?:^|[^a-z0-9])${escapeRegExp(word)}(?:[^a-z0-9]|$)`, 'i');
+}
+
 export function filterItems(items: FeedItem[], state: FilterState): FeedItem[] {
-  const muted = state.muted.map((m) => m.trim().toLowerCase()).filter(Boolean);
+  const muted = state.muted.map((m) => m.trim()).filter(Boolean).map(wholeWord);
   const visible = items.filter((item) => {
     if (state.topics.length > 0 && !state.topics.includes(item.topic)) return false;
-    const haystack = `${item.title} ${item.whyItMatters}`.toLowerCase();
-    return !muted.some((word) => haystack.includes(word));
+    const haystack = `${item.title} ${item.whyItMatters}`;
+    return !muted.some((pattern) => pattern.test(haystack));
   });
 
   switch (state.view) {

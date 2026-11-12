@@ -37,4 +37,11 @@ describe('ItemCard', () => {
     fireEvent.click(screen.getByRole('link'));
     expect(onRead).toHaveBeenCalledWith('i1');
   });
+
+  // Added after security review: a non-http(s) URL in the feed must never become a clickable href.
+  it('renders the title as plain text, with no link, when the url is not http(s)', () => {
+    render(<ItemCard item={{ ...item, url: 'javascript:alert(1)' }} now={NOW} read={false} onRead={() => {}} />);
+    expect(screen.queryByRole('link')).toBeNull();
+    expect(screen.getByText('OpenAI releases GPT-5')).toBeInTheDocument();
+  });
 });

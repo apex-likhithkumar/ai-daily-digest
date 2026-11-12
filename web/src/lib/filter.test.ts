@@ -47,6 +47,19 @@ describe('filterItems', () => {
     const result = filterItems(items, { view: 'all', topics: [], muted: ['crypto', 'nft'] });
     expect(result.map((i) => i.id)).toEqual(['c']);
   });
+
+  // Added after review: muting "ai" must not hide "maintain" or "said" (matches the backend's whole-word rule).
+  it('muted keywords match whole words only, including punctuation-heavy ones', () => {
+    const items = [
+      mk({ id: 'maintain', title: 'How to maintain a repo' }),
+      mk({ id: 'said', whyItMatters: 'The CEO said it works' }),
+      mk({ id: 'ai', title: 'New AI model ships' }),
+      mk({ id: 'node', title: 'Node.js 24 released' }),
+      mk({ id: 'plain', title: 'Rust compiler update' }),
+    ];
+    const result = filterItems(items, { view: 'all', topics: [], muted: ['ai', 'node.js'] });
+    expect(result.map((i) => i.id).sort()).toEqual(['maintain', 'plain', 'said']);
+  });
 });
 
 describe('viewCounts', () => {
