@@ -1,1 +1,2600 @@
-{"generatedAt":"1970-01-01T00:00:00.000Z","items":[]}
+{
+  "generatedAt": "2026-11-12T05:32:57.374Z",
+  "items": [
+    {
+      "id": "cce714811b519a82",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "sources": [
+        "Google AI Blog",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.728
+    },
+    {
+      "id": "3beb9de1922ea0ed",
+      "title": "Automating AWS Agent Registry updates with push-based architecture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:52:48.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.36
+    },
+    {
+      "id": "0afd1907df33baa7",
+      "title": "Accelerating generative AI delivery with reusable assets",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T19:19:21.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.168
+    },
+    {
+      "id": "88af978e657ee974",
+      "title": "SsKanDon/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T17:24:32.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 10,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.085
+    },
+    {
+      "id": "263d7dc4e1e25dd6",
+      "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:13:16.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.998
+    },
+    {
+      "id": "71cb7085c6189427",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T17:11:56.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.92
+    },
+    {
+      "id": "6dbf5bd5b92f8aef",
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T21:05:59.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.761
+    },
+    {
+      "id": "f28f90d2895a812c",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.748
+    },
+    {
+      "id": "a0a8bd68435e7a18",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T01:18:23.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.539
+    },
+    {
+      "id": "0566809c65753b53",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:35:47.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.368
+    },
+    {
+      "id": "d8ef3fe6591f506a",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:17:05.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.338
+    },
+    {
+      "id": "7026ee2cddf14dd4",
+      "title": "UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T15:50:55.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.231
+    },
+    {
+      "id": "d8ee9ab549e424bc",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T21:54:21.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.208
+    },
+    {
+      "id": "3bb3af59874accc9",
+      "title": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T15:10:23.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.169
+    },
+    {
+      "id": "df5c4c0af68f09b1",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T03:13:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.992
+    },
+    {
+      "id": "bad6ee94c35695d3",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.975
+    },
+    {
+      "id": "8c9052413e13c82f",
+      "title": "AWS Emulator and the engineer's job when agents write the code",
+      "url": "https://allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T18:28:31.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.905
+    },
+    {
+      "id": "e879c6fc35d4933f",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "sources": [
+        "Google DeepMind"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T15:00:15.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.891
+    },
+    {
+      "id": "7a69c1b89eda0814",
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:57:45.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.781
+    },
+    {
+      "id": "efdd0bfa6110086b",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:50:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.713
+    },
+    {
+      "id": "3f42633dc5b5e54d",
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:00:50.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.706
+    },
+    {
+      "id": "cf5ad5ad4907d72b",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "url": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:33:03.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.691
+    },
+    {
+      "id": "005484e05b9e6189",
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:30:03.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.687
+    },
+    {
+      "id": "b91248042740580a",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T23:28:45.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.685
+    },
+    {
+      "id": "cd03d116301a7043",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://theverge.com/tech/1031652/jensen-huang-rumor",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T22:44:36.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.629
+    },
+    {
+      "id": "6619f09dbc0d0a8f",
+      "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.628
+    },
+    {
+      "id": "8b208eddf6e27264",
+      "title": "ICYMI: What landed for AI builders in October 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T22:26:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.606
+    },
+    {
+      "id": "f3e91f75ed135df5",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T14:10:46.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.566
+    },
+    {
+      "id": "0ac78af7c4d9dd8d",
+      "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T04:42:54.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.538
+    },
+    {
+      "id": "53bc56e14c08d499",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.53
+    },
+    {
+      "id": "2f5ac4847b023025",
+      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:45:45.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.483
+    },
+    {
+      "id": "d05830646ed0694b",
+      "title": "Emacs in the Age of Magic",
+      "url": "https://commandlinesystems.com/magic.txt",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:26:32.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.46
+    },
+    {
+      "id": "ae5556d61c0b046e",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:15:15.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.447
+    },
+    {
+      "id": "70b89fd3ef03cc10",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:12:01.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.443
+    },
+    {
+      "id": "14eef01dc0f429cb",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.431
+    },
+    {
+      "id": "bdeaa23eb9886c5a",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T20:02:14.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.431
+    },
+    {
+      "id": "4f138b59583638d1",
+      "title": "Missed Presentation [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T03:08:20.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.425
+    },
+    {
+      "id": "850c0644106f9238",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T19:54:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.422
+    },
+    {
+      "id": "0c15f2cf2a2ad1df",
+      "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T03:03:34.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.42
+    },
+    {
+      "id": "6f3c74a04fea158f",
+      "title": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T19:34:55.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.4
+    },
+    {
+      "id": "94fcbf10f80778a7",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T19:22:22.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.385
+    },
+    {
+      "id": "80b38ea7da372c49",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.361
+    },
+    {
+      "id": "55fb77d5f91b9928",
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T23:34:05.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 2.356
+    },
+    {
+      "id": "70a69d3bb5822802",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T18:21:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.316
+    },
+    {
+      "id": "12a9550d1f6a0c04",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:38:44.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.204
+    },
+    {
+      "id": "7a8ca7de71bda47a",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:16:07.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.181
+    },
+    {
+      "id": "2ed3a890d3d8bbd2",
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:14:44.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.179
+    },
+    {
+      "id": "6e11a23c0428f7b6",
+      "title": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:05:33.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.17
+    },
+    {
+      "id": "b22522d14a17f95f",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T05:01:16.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 2.167
+    },
+    {
+      "id": "f0476f4b70e90c24",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.164
+    },
+    {
+      "id": "a0384064dea3a20f",
+      "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T22:20:31.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.111
+    },
+    {
+      "id": "ddb95c61a535c749",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.102
+    },
+    {
+      "id": "0177ef12911d3825",
+      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T21:42:54.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.074
+    },
+    {
+      "id": "0ccfb511c0c877ba",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.042
+    },
+    {
+      "id": "6e40d6043154dab3",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.042
+    },
+    {
+      "id": "a30f7fce38a46d5d",
+      "title": "Have people given up on ICLR reviews? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T20:40:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.012
+    },
+    {
+      "id": "fc6b6a56df7b3650",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "sources": [
+        "Google DeepMind",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T16:03:47.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.964
+    },
+    {
+      "id": "8d8bc38f54a7d350",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.933
+    },
+    {
+      "id": "b73105fe4ec5f060",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.917
+    },
+    {
+      "id": "8c999d6885d24711",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.874
+    },
+    {
+      "id": "d2296a64c0dc3b89",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.874
+    },
+    {
+      "id": "e6df1e705a6d6026",
+      "title": "AI ‘slop’ is a social judgement [R]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T18:03:18.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.866
+    },
+    {
+      "id": "52c1a0c9377c6505",
+      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T01:07:19.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.76
+    },
+    {
+      "id": "f6b29b4e2ab3b1b9",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "sources": [
+        "Hacker News",
+        "GitHub"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T20:01:01.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.746
+    },
+    {
+      "id": "02e4a20d191af380",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T13:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.736
+    },
+    {
+      "id": "f724697ad4799a39",
+      "title": "Anthropic has its own AI-powered office suite now",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:30:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.695
+    },
+    {
+      "id": "e28ff692f1183bac",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T07:30:51.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.693
+    },
+    {
+      "id": "66ed14c6418f09b7",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.659
+    },
+    {
+      "id": "14f6b8b420073dc3",
+      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T22:35:03.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.636
+    },
+    {
+      "id": "2855a6dd0b52b57a",
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T04:56:47.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.572
+    },
+    {
+      "id": "7e343cb607009fdc",
+      "title": "Can we talk about the ML research coming from China? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T11:02:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.524
+    },
+    {
+      "id": "5175b6a2b765750a",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T18:01:15.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.434
+    },
+    {
+      "id": "7737e173e31a5988",
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:55:07.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.429
+    },
+    {
+      "id": "a5749ddac12322df",
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:55:07.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.429
+    },
+    {
+      "id": "dfad3e6674c2521c",
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:44:44.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.422
+    },
+    {
+      "id": "4e3e5904c85ae763",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.395
+    },
+    {
+      "id": "c0a7d49575128b5d",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-11T00:37:05.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.388
+    },
+    {
+      "id": "0bbf517ca2cff024",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "url": "https://theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T16:20:30.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.366
+    },
+    {
+      "id": "f8c1a7370c130fe5",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "sources": [
+        "Google DeepMind"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T12:02:28.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.327
+    },
+    {
+      "id": "46ecb159c1535b09",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.325
+    },
+    {
+      "id": "f7afa1dd4ce8d146",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T22:17:56.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.298
+    },
+    {
+      "id": "369640935efcece9",
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T22:14:03.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.295
+    },
+    {
+      "id": "571fb0494bf3f24f",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.255
+    },
+    {
+      "id": "5ca4dc7b6d88cb31",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.251
+    },
+    {
+      "id": "c012fc7ecd62b33e",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.245
+    },
+    {
+      "id": "01a8528fa117926a",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.215
+    },
+    {
+      "id": "e18f58ec7dc7acb9",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:57:52.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.213
+    },
+    {
+      "id": "7739f93bab443e21",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:23:34.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.193
+    },
+    {
+      "id": "eec6217882176ba1",
+      "title": "Saltline: First-person shooter built by Fable 5.2",
+      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:14:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.188
+    },
+    {
+      "id": "6fcd75d626ddcf98",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:03:52.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.182
+    },
+    {
+      "id": "5d01611fd6de2935",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:04:05.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.182
+    },
+    {
+      "id": "418d10f93d4edba8",
+      "title": "huawei-csl/MACaQ: SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-10T08:52:22.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.156
+    },
+    {
+      "id": "cd0c3adea5a38d8b",
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T18:11:08.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.152
+    },
+    {
+      "id": "3588ceed41552e46",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T07:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.147
+    },
+    {
+      "id": "4546981095085026",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T18:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.146
+    },
+    {
+      "id": "a548f4bc427db034",
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:32:47.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.131
+    },
+    {
+      "id": "82110824f2abb129",
+      "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T16:59:43.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.113
+    },
+    {
+      "id": "58426d8e2b3863d2",
+      "title": "Amazon Bedrock tokenomics data lake",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T16:56:36.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.112
+    },
+    {
+      "id": "724fae9251483a53",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.107
+    },
+    {
+      "id": "3229de0d919212c3",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.107
+    },
+    {
+      "id": "1484bc2b220d4e0d",
+      "title": "Queens Public Library under ransomware attack",
+      "url": "https://connect.queenslibrary.org/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T09:04:39.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.107
+    },
+    {
+      "id": "a27532638c556bde",
+      "title": "Anthropic to Seek $1.3T Valuation in IPO",
+      "url": "https://wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T12:49:32.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.987
+    },
+    {
+      "id": "7da1b2b4758f6148",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "sources": [
+        "Google DeepMind"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T19:51:47.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.983
+    },
+    {
+      "id": "252a67cf93cb8c8f",
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T12:35:27.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.98
+    },
+    {
+      "id": "1ff74ee2cb106637",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.937
+    },
+    {
+      "id": "2934d7cd62fe7050",
+      "title": "What constant surveillance is doing to children and parents",
+      "url": "https://theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T10:47:18.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.931
+    },
+    {
+      "id": "534e23320d33a495",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T10:25:58.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.921
+    },
+    {
+      "id": "9c331579e229757a",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.811
+    },
+    {
+      "id": "255b56db4a4a44d0",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T20:04:55.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.761
+    },
+    {
+      "id": "458bb1a34baf1a65",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T03:20:06.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.75
+    },
+    {
+      "id": "35743bc665289905",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T16:00:45.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.744
+    },
+    {
+      "id": "057e22ab69c04fb1",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.725
+    },
+    {
+      "id": "1b18e8c9acf73639",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T18:24:38.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.725
+    },
+    {
+      "id": "ffe8a09e969fa29a",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T18:01:10.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.717
+    },
+    {
+      "id": "5aa2811f45ceef64",
+      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T11:36:55.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.715
+    },
+    {
+      "id": "23b94c697622500f",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.698
+    },
+    {
+      "id": "932fe34bad728f30",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.698
+    },
+    {
+      "id": "831bd9db6c4fa670",
+      "title": "How skills and agents work in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T00:21:34.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.689
+    },
+    {
+      "id": "f37b680abcf7adcb",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.682
+    },
+    {
+      "id": "7b1451fc786c34f9",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.674
+    },
+    {
+      "id": "8ceada5f95028093",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T08:17:49.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.65
+    },
+    {
+      "id": "5d33272291219c49",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T22:19:12.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.649
+    },
+    {
+      "id": "9d9fe975c63c20bc",
+      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+      "url": "https://agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T22:15:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.648
+    },
+    {
+      "id": "2969b0807146033c",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T19:35:33.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.6
+    },
+    {
+      "id": "f0a7364ef803e186",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T18:39:22.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.584
+    },
+    {
+      "id": "1a46264ab61ddf35",
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "url": "https://cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T17:42:55.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.568
+    },
+    {
+      "id": "da795f2924119e2e",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T17:05:43.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.558
+    },
+    {
+      "id": "e32955d193042fab",
+      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T16:36:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.551
+    },
+    {
+      "id": "7e4af76a8edc072c",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T14:31:39.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.518
+    },
+    {
+      "id": "05bd9f0351a0c3a2",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.496
+    }
+  ]
+}
