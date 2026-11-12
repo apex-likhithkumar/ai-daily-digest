@@ -9,10 +9,15 @@ scoring:
   delayMs: 4000            # pause between batches (free-tier requests-per-minute limits)
   snippetChars: 300
 llm:
-  # Verify these model names against each provider's current free tier before the first live run.
+  # Tried in order; the first that answers wins. Checked against the providers' official docs on 2026-11-12:
+  #  - gemini-2.5-flash is deprecated (API access limited to existing users; routed to 3.5-flash-lite from 2026-12-01).
+  #  - llama-3.3-70b-versatile was shut down on Groq on 2026-08-16.
+  # Two Gemini models on purpose: free quotas are per model, so when one runs out the next can still answer.
+  # Free-tier request/day limits are only shown in AI Studio and the Groq console: re-check them if scoring falls back a lot.
   providers:
-    - { type: gemini, model: gemini-2.5-flash }
-    - { type: groq, model: llama-3.3-70b-versatile }
+    - { type: gemini, model: gemini-3.5-flash-lite }
+    - { type: gemini, model: gemini-3.8-flash }
+    - { type: groq, model: openai/gpt-oss-120b }
 fallback:
   tierImportance: { "1": 6, "2": 4, "3": 3 }
   perExtraSource: 1
