@@ -1,6 +1,302 @@
 {
-  "generatedAt": "2026-11-12T15:10:08.313Z",
+  "generatedAt": "2026-11-12T21:50:13.023Z",
   "items": [
+    {
+      "id": "a8d5fa7d24b3647f",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "sources": [
+        "Google DeepMind",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T18:00:50.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.194
+    },
+    {
+      "id": "372847c9499451eb",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.931
+    },
+    {
+      "id": "a88bddb17214a029",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.808
+    },
+    {
+      "id": "ad614f81e42f72e5",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.655
+    },
+    {
+      "id": "83054ecb029e1c53",
+      "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:41:12.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.383
+    },
+    {
+      "id": "3903c89c61e50edc",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:39:23.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.379
+    },
+    {
+      "id": "5c8a7e2ce9e472f4",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:36:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.249
+    },
+    {
+      "id": "5fb6d7fe9d2dea3c",
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.174
+    },
+    {
+      "id": "d3c21aad125298df",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T19:11:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.075
+    },
+    {
+      "id": "d3206ea89ca22b21",
+      "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:42:21.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.021
+    },
+    {
+      "id": "9ed2099ae4857f6f",
+      "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:40:24.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.017
+    },
+    {
+      "id": "e9b2308e4ac312d9",
+      "title": "Four Amazon Bedrock inference choices that affect cost",
+      "url": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T20:51:55.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.889
+    },
+    {
+      "id": "875637b2c34d1326",
+      "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T19:27:45.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.735
+    },
+    {
+      "id": "4e46e49750fb65fe",
+      "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:43:19.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.656
+    },
     {
       "id": "0990939c7d6ea9f7",
       "title": "Holiday Extras is rethinking what it can build with Codex",
@@ -20,7 +316,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.415
+      "rank": 3.641
     },
     {
       "id": "fc1a6fd9b904e236",
@@ -41,7 +337,112 @@
       "labels": [
         "today"
       ],
-      "rank": 4.406
+      "rank": 3.634
+    },
+    {
+      "id": "85bacafff42444d7",
+      "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:59:59.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.58
+    },
+    {
+      "id": "4ae3018d79171170",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.478
+    },
+    {
+      "id": "6d29ea24a6e6fee7",
+      "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "url": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:16:45.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.407
+    },
+    {
+      "id": "aff6802cc567cefa",
+      "title": "From prototype to production: Engineering agents with Agent DLC",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:38:47.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.345
+    },
+    {
+      "id": "cb86ca9a5a41005e",
+      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T21:47:07.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.195
     },
     {
       "id": "4be63b18058de757",
@@ -62,7 +463,112 @@
       "labels": [
         "today"
       ],
-      "rank": 3.85
+      "rank": 3.175
+    },
+    {
+      "id": "fc0f425d4885ad33",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T21:27:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.165
+    },
+    {
+      "id": "92467d3f16d5f88c",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T20:26:47.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.074
+    },
+    {
+      "id": "6e7f4ca7daf14e21",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.059
+    },
+    {
+      "id": "75e8b5158ffa2b00",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T19:42:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.009
+    },
+    {
+      "id": "c8c5dc29297d2e3d",
+      "title": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T19:29:55.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.991
     },
     {
       "id": "cce714811b519a82",
@@ -82,10 +588,114 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 3.581
+      "rank": 2.954
+    },
+    {
+      "id": "ab0d1799a3ff5919",
+      "title": "Rust 1.100",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:24:06.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.898
+    },
+    {
+      "id": "0e48da9eb1b141ae",
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:20:48.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.893
+    },
+    {
+      "id": "7482059e8feb089c",
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:17:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.888
+    },
+    {
+      "id": "ca1478ab4f6d6b17",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:15:48.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.886
+    },
+    {
+      "id": "78397eaf147cfe84",
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T18:06:54.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.874
     },
     {
       "id": "b8785a000ca8f940",
@@ -106,7 +716,112 @@
       "labels": [
         "today"
       ],
-      "rank": 3.468
+      "rank": 2.86
+    },
+    {
+      "id": "0a3a3741b20c2318",
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:44:33.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.843
+    },
+    {
+      "id": "322f998ba4d6dbd2",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:17:58.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.807
+    },
+    {
+      "id": "ca80552a275a9336",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:00:52.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.784
+    },
+    {
+      "id": "0cefd18c08c5c4ac",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.783
+    },
+    {
+      "id": "b0984d45fde6da18",
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "url": "https://easel.sh/blog/lambda-web-functions-idle-memory",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:59:26.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.782
     },
     {
       "id": "56dac742ff29ffe2",
@@ -127,7 +842,70 @@
       "labels": [
         "today"
       ],
-      "rank": 3.355
+      "rank": 2.768
+    },
+    {
+      "id": "aa4bf4548cc5dfc6",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:36:37.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.752
+    },
+    {
+      "id": "aff4b2c65530b3e6",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:32:33.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.746
+    },
+    {
+      "id": "11a9f97485e11126",
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:30:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.743
     },
     {
       "id": "3beb9de1922ea0ed",
@@ -145,10 +923,50 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 2.724
+    },
+    {
+      "id": "44722bd030259051",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T16:12:44.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [
         "today"
       ],
-      "rank": 3.302
+      "rank": 2.72
+    },
+    {
+      "id": "ee129214e4fa1cd8",
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:48:12.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.688
     },
     {
       "id": "8953c5202adc4820",
@@ -169,7 +987,91 @@
       "labels": [
         "today"
       ],
-      "rank": 3.255
+      "rank": 2.684
+    },
+    {
+      "id": "1447c52b300c38a1",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:37:29.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.674
+    },
+    {
+      "id": "d809846837598f60",
+      "title": "I built a small streaming text tagger that reads text word by word, so a voice agent can react mid sentence [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T06:04:53.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.665
+    },
+    {
+      "id": "0667a519c65042ee",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:23:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.656
+    },
+    {
+      "id": "bfccb2d38562aef8",
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:18:14.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.65
     },
     {
       "id": "660711644cdc9dc9",
@@ -190,7 +1092,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.188
+      "rank": 2.63
+    },
+    {
+      "id": "eb0c65b2b58fbc7a",
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:01:31.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.629
     },
     {
       "id": "0afd1907df33baa7",
@@ -208,10 +1131,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.157
+      "labels": [],
+      "rank": 2.604
     },
     {
       "id": "755d073ce92d3323",
@@ -232,7 +1153,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.109
+      "rank": 2.564
     },
     {
       "id": "88af978e657ee974",
@@ -251,10 +1172,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.094
+      "labels": [],
+      "rank": 2.552
     },
     {
       "id": "3725c536bfca37b1",
@@ -275,7 +1194,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.084
+      "rank": 2.544
+    },
+    {
+      "id": "8e60012da5d1451a",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T13:52:29.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.543
     },
     {
       "id": "24d7fb83f2c2988f",
@@ -296,7 +1236,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.044
+      "rank": 2.511
     },
     {
       "id": "263d7dc4e1e25dd6",
@@ -317,7 +1257,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.028
+      "rank": 2.498
     },
     {
       "id": "9818440638d9a933",
@@ -336,10 +1276,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.012
+      "labels": [],
+      "rank": 2.484
     },
     {
       "id": "71cb7085c6189427",
@@ -357,10 +1295,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.969
+      "labels": [],
+      "rank": 2.449
     },
     {
       "id": "f101ffad2bb3a113",
@@ -381,7 +1317,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.901
+      "rank": 2.393
+    },
+    {
+      "id": "bd81e92a6269231e",
+      "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T18:55:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.39
     },
     {
       "id": "6dbf5bd5b92f8aef",
@@ -399,10 +1356,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.848
+      "labels": [],
+      "rank": 2.349
     },
     {
       "id": "f28f90d2895a812c",
@@ -423,7 +1378,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.839
+      "rank": 2.342
     },
     {
       "id": "b06379671ede1f62",
@@ -444,7 +1399,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.839
+      "rank": 2.342
     },
     {
       "id": "02d1a8e57148d657",
@@ -465,7 +1420,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.818
+      "rank": 2.325
     },
     {
       "id": "d679e07c8ae630a5",
@@ -486,7 +1441,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.793
+      "rank": 2.304
     },
     {
       "id": "e615adee1bf7d019",
@@ -507,7 +1462,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.776
+      "rank": 2.29
+    },
+    {
+      "id": "60e40c578e381928",
+      "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T17:16:46.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.279
     },
     {
       "id": "2666796f7b2d3a46",
@@ -528,7 +1504,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.747
+      "rank": 2.266
     },
     {
       "id": "a0a8bd68435e7a18",
@@ -549,7 +1525,49 @@
       "labels": [
         "today"
       ],
-      "rank": 2.68
+      "rank": 2.211
+    },
+    {
+      "id": "2c7dd6bc41305b29",
+      "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T16:02:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.199
+    },
+    {
+      "id": "8246025563b0a52f",
+      "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T15:41:18.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.177
     },
     {
       "id": "37a493c78580e73b",
@@ -570,7 +1588,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.581
+      "rank": 2.129
     },
     {
       "id": "0566809c65753b53",
@@ -591,7 +1609,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.551
+      "rank": 2.104
+    },
+    {
+      "id": "dad2ce3e2f15f4f9",
+      "title": "CVPR 2027 Author enrollment form [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T14:30:15.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.104
     },
     {
       "id": "d8ef3fe6591f506a",
@@ -612,7 +1651,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.528
+      "rank": 2.085
     },
     {
       "id": "9a978998a3bbd10a",
@@ -633,7 +1672,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.51
+      "rank": 2.07
+    },
+    {
+      "id": "30f7a6b76e69d066",
+      "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T13:51:58.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.065
     },
     {
       "id": "bc41e68b99a725a6",
@@ -654,7 +1714,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.457
+      "rank": 2.027
     },
     {
       "id": "f0c25258d53f64ef",
@@ -675,7 +1735,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.45
+      "rank": 2.021
     },
     {
       "id": "7026ee2cddf14dd4",
@@ -693,10 +1753,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.448
+      "labels": [],
+      "rank": 2.019
     },
     {
       "id": "d8ee9ab549e424bc",
@@ -717,7 +1775,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.43
+      "rank": 2.004
     },
     {
       "id": "3bb3af59874accc9",
@@ -735,10 +1793,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.4
+      "labels": [],
+      "rank": 1.98
     },
     {
       "id": "ca8b70b1d0d6cf56",
@@ -759,7 +1815,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.335
+      "rank": 1.926
+    },
+    {
+      "id": "c5de80afa617eff7",
+      "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T01:51:47.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.91
     },
     {
       "id": "df5c4c0af68f09b1",
@@ -780,7 +1857,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.266
+      "rank": 1.869
     },
     {
       "id": "bad6ee94c35695d3",
@@ -798,10 +1875,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.253
+      "labels": [],
+      "rank": 1.859
     },
     {
       "id": "8c9052413e13c82f",
@@ -819,10 +1894,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.2
+      "labels": [],
+      "rank": 1.815
     },
     {
       "id": "e879c6fc35d4933f",
@@ -841,7 +1914,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 2.19
+      "rank": 1.806
     },
     {
       "id": "293629a8c0d48c95",
@@ -862,7 +1935,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.109
+      "rank": 1.74
     },
     {
       "id": "7a69c1b89eda0814",
@@ -880,10 +1953,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.106
+      "labels": [],
+      "rank": 1.737
     },
     {
       "id": "efdd0bfa6110086b",
@@ -904,7 +1975,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.055
+      "rank": 1.695
     },
     {
       "id": "3f42633dc5b5e54d",
@@ -922,10 +1993,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.049
+      "labels": [],
+      "rank": 1.69
     },
     {
       "id": "cf5ad5ad4907d72b",
@@ -946,7 +2015,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.038
+      "rank": 1.681
     },
     {
       "id": "005484e05b9e6189",
@@ -967,7 +2036,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.035
+      "rank": 1.679
     },
     {
       "id": "b91248042740580a",
@@ -988,7 +2057,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.034
+      "rank": 1.678
     },
     {
       "id": "cd03d116301a7043",
@@ -1010,7 +2079,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.991
+      "rank": 1.642
     },
     {
       "id": "6619f09dbc0d0a8f",
@@ -1029,7 +2098,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.99
+      "rank": 1.642
     },
     {
       "id": "857ba7b7a6108c1f",
@@ -1047,10 +2116,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.979
+      "labels": [],
+      "rank": 1.632
     },
     {
       "id": "8b208eddf6e27264",
@@ -1071,7 +2138,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.974
+      "rank": 1.628
     },
     {
       "id": "f3e91f75ed135df5",
@@ -1090,7 +2157,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.944
+      "rank": 1.603
     },
     {
       "id": "0ac78af7c4d9dd8d",
@@ -1111,7 +2178,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.922
+      "rank": 1.586
     },
     {
       "id": "53bc56e14c08d499",
@@ -1129,10 +2196,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.916
+      "labels": [],
+      "rank": 1.58
     },
     {
       "id": "2f5ac4847b023025",
@@ -1150,10 +2215,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.881
+      "labels": [],
+      "rank": 1.551
     },
     {
       "id": "d05830646ed0694b",
@@ -1171,10 +2234,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.863
+      "labels": [],
+      "rank": 1.537
     },
     {
       "id": "ae5556d61c0b046e",
@@ -1192,10 +2253,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.853
+      "labels": [],
+      "rank": 1.529
     },
     {
       "id": "70b89fd3ef03cc10",
@@ -1213,10 +2272,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.85
+      "labels": [],
+      "rank": 1.526
     },
     {
       "id": "bdeaa23eb9886c5a",
@@ -1234,10 +2291,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.842
+      "labels": [],
+      "rank": 1.519
     },
     {
       "id": "14eef01dc0f429cb",
@@ -1256,7 +2311,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.841
+      "rank": 1.518
     },
     {
       "id": "4f138b59583638d1",
@@ -1277,7 +2332,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.837
+      "rank": 1.515
     },
     {
       "id": "850c0644106f9238",
@@ -1295,10 +2350,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.834
+      "labels": [],
+      "rank": 1.513
     },
     {
       "id": "0c15f2cf2a2ad1df",
@@ -1319,7 +2372,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.833
+      "rank": 1.512
     },
     {
       "id": "2e387caa6a4fa8ec",
@@ -1337,10 +2390,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.821
+      "labels": [],
+      "rank": 1.502
     },
     {
       "id": "3a6e419e308849e0",
@@ -1361,7 +2412,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.819
+      "rank": 1.5
     },
     {
       "id": "6f3c74a04fea158f",
@@ -1379,10 +2430,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.817
+      "labels": [],
+      "rank": 1.499
     },
     {
       "id": "94fcbf10f80778a7",
@@ -1400,10 +2449,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.807
+      "labels": [],
+      "rank": 1.49
     },
     {
       "id": "80b38ea7da372c49",
@@ -1422,7 +2469,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.789
+      "rank": 1.475
     },
     {
       "id": "55fb77d5f91b9928",
@@ -1441,7 +2488,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.784
+      "rank": 1.472
     },
     {
       "id": "d5d770161b3f2ac9",
@@ -1459,10 +2506,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.768
+      "labels": [],
+      "rank": 1.458
     },
     {
       "id": "592cfe6edf5ce4bd",
@@ -1483,7 +2528,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.757
+      "rank": 1.449
     },
     {
       "id": "70a69d3bb5822802",
@@ -1501,10 +2546,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.447
+    },
+    {
+      "id": "91765523ff0b0fa7",
+      "title": "For game world models, the action labels are the bottleneck, not the video. What makes game data actually trainable? [D]",
+      "url": "https://reddit.com/r/MachineLearning/comments/1xtymuk/for_game_world_models_the_action_labels_are_the",
+      "sources": [
+        "r/MachineLearning"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T00:36:15.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [
         "today"
       ],
-      "rank": 1.754
+      "rank": 1.408
     },
     {
       "id": "12a9550d1f6a0c04",
@@ -1522,10 +2586,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.67
+      "labels": [],
+      "rank": 1.377
     },
     {
       "id": "7a8ca7de71bda47a",
@@ -1543,10 +2605,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.652
+      "labels": [],
+      "rank": 1.362
     },
     {
       "id": "2ed3a890d3d8bbd2",
@@ -1564,10 +2624,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.651
+      "labels": [],
+      "rank": 1.361
     },
     {
       "id": "6e11a23c0428f7b6",
@@ -1585,10 +2643,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.643
+      "labels": [],
+      "rank": 1.355
     },
     {
       "id": "b22522d14a17f95f",
@@ -1607,7 +2663,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.641
+      "rank": 1.354
     },
     {
       "id": "f0476f4b70e90c24",
@@ -1625,10 +2681,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.639
+      "labels": [],
+      "rank": 1.352
     },
     {
       "id": "2775ee0dc24533d6",
@@ -1650,7 +2704,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.601
+      "rank": 1.321
     },
     {
       "id": "a0384064dea3a20f",
@@ -1671,7 +2725,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.599
+      "rank": 1.319
     },
     {
       "id": "ddb95c61a535c749",
@@ -1690,7 +2744,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.592
+      "rank": 1.313
     },
     {
       "id": "576d29469f053bde",
@@ -1711,7 +2765,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.581
+      "rank": 1.304
     },
     {
       "id": "0177ef12911d3825",
@@ -1729,10 +2783,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.571
+      "labels": [],
+      "rank": 1.295
     },
     {
       "id": "0ccfb511c0c877ba",
@@ -1751,7 +2803,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.547
+      "rank": 1.276
     },
     {
       "id": "6e40d6043154dab3",
@@ -1770,7 +2822,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.547
+      "rank": 1.276
     },
     {
       "id": "a30f7fce38a46d5d",
@@ -1788,10 +2840,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.524
+      "labels": [],
+      "rank": 1.257
     },
     {
       "id": "fc6b6a56df7b3650",
@@ -1813,7 +2863,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.488
+      "rank": 1.227
     },
     {
       "id": "8d8bc38f54a7d350",
@@ -1832,7 +2882,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.464
+      "rank": 1.207
     },
     {
       "id": "12149c8999a27fe5",
@@ -1850,10 +2900,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.463
+      "labels": [],
+      "rank": 1.207
     },
     {
       "id": "b73105fe4ec5f060",
@@ -1872,7 +2920,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.452
+      "rank": 1.198
     },
     {
       "id": "927181826b8abf66",
@@ -1890,10 +2938,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.436
+      "labels": [],
+      "rank": 1.184
     },
     {
       "id": "831ee70abf077ea9",
@@ -1911,10 +2957,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.425
+      "labels": [],
+      "rank": 1.175
     },
     {
       "id": "8c999d6885d24711",
@@ -1933,7 +2977,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.42
+      "rank": 1.171
     },
     {
       "id": "d2296a64c0dc3b89",
@@ -1952,7 +2996,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.42
+      "rank": 1.171
     },
     {
       "id": "416d511596b938c6",
@@ -1970,10 +3014,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.414
+      "labels": [],
+      "rank": 1.166
     },
     {
       "id": "e6df1e705a6d6026",
@@ -1991,10 +3033,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.413
+      "labels": [],
+      "rank": 1.165
     },
     {
       "id": "d2e0003308f41c4f",
@@ -2012,10 +3052,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.343
+      "labels": [],
+      "rank": 1.108
     },
     {
       "id": "52c1a0c9377c6505",
@@ -2034,7 +3072,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.333
+      "rank": 1.1
     },
     {
       "id": "f6b29b4e2ab3b1b9",
@@ -2055,7 +3093,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.323
+      "rank": 1.091
     },
     {
       "id": "02e4a20d191af380",
@@ -2074,7 +3112,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.315
+      "rank": 1.085
     },
     {
       "id": "f724697ad4799a39",
@@ -2093,7 +3131,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.284
+      "rank": 1.059
     },
     {
       "id": "e28ff692f1183bac",
@@ -2112,7 +3150,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.283
+      "rank": 1.058
     },
     {
       "id": "66ed14c6418f09b7",
@@ -2131,7 +3169,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.257
+      "rank": 1.037
     },
     {
       "id": "14f6b8b420073dc3",
@@ -2150,7 +3188,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.239
+      "rank": 1.022
     },
     {
       "id": "2855a6dd0b52b57a",
@@ -2169,7 +3207,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.191
+      "rank": 0.982
     },
     {
       "id": "7e343cb607009fdc",
@@ -2188,7 +3226,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.154
+      "rank": 0.952
     },
     {
       "id": "5175b6a2b765750a",
@@ -2207,7 +3245,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.086
+      "rank": 0.896
     },
     {
       "id": "7737e173e31a5988",
@@ -2226,7 +3264,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.083
+      "rank": 0.893
     },
     {
       "id": "a5749ddac12322df",
@@ -2245,7 +3283,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.083
+      "rank": 0.893
     },
     {
       "id": "dfad3e6674c2521c",
@@ -2264,7 +3302,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.077
+      "rank": 0.889
     },
     {
       "id": "4e3e5904c85ae763",
@@ -2283,7 +3321,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.057
+      "rank": 0.872
     },
     {
       "id": "c0a7d49575128b5d",
@@ -2302,7 +3340,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.051
+      "rank": 0.867
     },
     {
       "id": "0bbf517ca2cff024",
@@ -2321,7 +3359,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.034
+      "rank": 0.853
     },
     {
       "id": "f8c1a7370c130fe5",
@@ -2340,7 +3378,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.005
+      "rank": 0.829
     },
     {
       "id": "46ecb159c1535b09",
@@ -2359,7 +3397,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.004
+      "rank": 0.828
     },
     {
       "id": "f7afa1dd4ce8d146",
@@ -2378,7 +3416,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.983
+      "rank": 0.811
     },
     {
       "id": "369640935efcece9",
@@ -2397,7 +3435,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.981
+      "rank": 0.809
     },
     {
       "id": "571fb0494bf3f24f",
@@ -2416,7 +3454,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.951
+      "rank": 0.784
     },
     {
       "id": "5ca4dc7b6d88cb31",
@@ -2435,7 +3473,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.947
+      "rank": 0.781
     },
     {
       "id": "c012fc7ecd62b33e",
@@ -2454,7 +3492,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.943
+      "rank": 0.778
     },
     {
       "id": "01a8528fa117926a",
@@ -2473,7 +3511,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.92
+      "rank": 0.759
     },
     {
       "id": "e18f58ec7dc7acb9",
@@ -2492,7 +3530,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.919
+      "rank": 0.758
     },
     {
       "id": "7739f93bab443e21",
@@ -2511,7 +3549,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.904
+      "rank": 0.745
     },
     {
       "id": "eec6217882176ba1",
@@ -2530,26 +3568,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.9
-    },
-    {
-      "id": "6fcd75d626ddcf98",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
-      "sources": [
-        "TechCrunch"
-      ],
-      "bestTier": 2,
-      "publishedAt": "2026-11-10T19:03:52.000Z",
-      "summary": "",
-      "topic": "F",
-      "importance": 4,
-      "relevance": 2,
-      "whyItMatters": "",
-      "scoredBy": "fallback",
-      "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [],
-      "rank": 0.895
+      "rank": 0.742
     },
     {
       "id": "5d01611fd6de2935",
@@ -2568,7 +3587,26 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.895
+      "rank": 0.739
+    },
+    {
+      "id": "6fcd75d626ddcf98",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T19:03:52.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 0.738
     },
     {
       "id": "418d10f93d4edba8",
@@ -2588,7 +3626,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.875
+      "rank": 0.722
     },
     {
       "id": "cd0c3adea5a38d8b",
@@ -2607,7 +3645,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.873
+      "rank": 0.72
     },
     {
       "id": "3588ceed41552e46",
@@ -2626,7 +3664,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.869
+      "rank": 0.717
     },
     {
       "id": "4546981095085026",
@@ -2645,7 +3683,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.868
+      "rank": 0.716
     },
     {
       "id": "a548f4bc427db034",
@@ -2664,7 +3702,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.857
+      "rank": 0.707
     },
     {
       "id": "9a6164117272b000",
@@ -2683,7 +3721,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.85
+      "rank": 0.701
     },
     {
       "id": "82110824f2abb129",
@@ -2702,7 +3740,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.843
+      "rank": 0.696
     },
     {
       "id": "58426d8e2b3863d2",
@@ -2721,7 +3759,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.842
+      "rank": 0.695
     },
     {
       "id": "724fae9251483a53",
@@ -2740,7 +3778,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.839
+      "rank": 0.692
     },
     {
       "id": "3229de0d919212c3",
@@ -2759,7 +3797,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.839
+      "rank": 0.692
     },
     {
       "id": "1484bc2b220d4e0d",
@@ -2778,7 +3816,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.839
+      "rank": 0.692
     },
     {
       "id": "a8cc20c7d5a48243",
@@ -2797,7 +3835,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.797
+      "rank": 0.657
     },
     {
       "id": "a27532638c556bde",
@@ -2816,7 +3854,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.748
+      "rank": 0.617
     },
     {
       "id": "7da1b2b4758f6148",
@@ -2835,7 +3873,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.744
+      "rank": 0.614
     },
     {
       "id": "252a67cf93cb8c8f",
@@ -2854,7 +3892,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.743
+      "rank": 0.613
     },
     {
       "id": "1ff74ee2cb106637",
@@ -2873,7 +3911,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.71
+      "rank": 0.585
     },
     {
       "id": "2934d7cd62fe7050",
@@ -2892,7 +3930,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.705
+      "rank": 0.581
     },
     {
       "id": "534e23320d33a495",
@@ -2911,7 +3949,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.698
+      "rank": 0.576
     },
     {
       "id": "de5b3076bff447f1",
@@ -2930,7 +3968,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.695
+      "rank": 0.573
     },
     {
       "id": "9c331579e229757a",
@@ -2949,7 +3987,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.614
+      "rank": 0.507
     },
     {
       "id": "255b56db4a4a44d0",
@@ -2968,7 +4006,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.576
+      "rank": 0.475
     },
     {
       "id": "458bb1a34baf1a65",
@@ -2987,7 +4025,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.568
+      "rank": 0.469
     },
     {
       "id": "35743bc665289905",
@@ -3006,7 +4044,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.564
+      "rank": 0.465
     },
     {
       "id": "057e22ab69c04fb1",
@@ -3025,7 +4063,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.549
+      "rank": 0.453
     },
     {
       "id": "1b18e8c9acf73639",
@@ -3044,7 +4082,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.549
+      "rank": 0.453
     },
     {
       "id": "ffe8a09e969fa29a",
@@ -3063,7 +4101,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.543
+      "rank": 0.448
     },
     {
       "id": "5aa2811f45ceef64",
@@ -3082,7 +4120,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.541
+      "rank": 0.447
     },
     {
       "id": "23b94c697622500f",
@@ -3101,7 +4139,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.528
+      "rank": 0.436
     },
     {
       "id": "932fe34bad728f30",
@@ -3120,7 +4158,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.528
+      "rank": 0.436
     },
     {
       "id": "831bd9db6c4fa670",
@@ -3139,7 +4177,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.522
+      "rank": 0.43
     },
     {
       "id": "f37b680abcf7adcb",
@@ -3158,7 +4196,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.517
+      "rank": 0.426
     },
     {
       "id": "7b1451fc786c34f9",
@@ -3177,7 +4215,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.51
+      "rank": 0.421
     },
     {
       "id": "8ceada5f95028093",
@@ -3196,7 +4234,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.492
+      "rank": 0.406
     },
     {
       "id": "5d33272291219c49",
@@ -3215,7 +4253,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.492
+      "rank": 0.406
     },
     {
       "id": "9d9fe975c63c20bc",
@@ -3234,7 +4272,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.491
+      "rank": 0.405
     },
     {
       "id": "2969b0807146033c",
@@ -3253,7 +4291,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.455
+      "rank": 0.375
     },
     {
       "id": "f0a7364ef803e186",
@@ -3272,7 +4310,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.442
+      "rank": 0.365
     },
     {
       "id": "1a46264ab61ddf35",
@@ -3291,7 +4329,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.431
+      "rank": 0.355
     },
     {
       "id": "da795f2924119e2e",
@@ -3310,7 +4348,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.423
+      "rank": 0.349
     },
     {
       "id": "e32955d193042fab",
@@ -3329,7 +4367,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.417
+      "rank": 0.344
     },
     {
       "id": "7e4af76a8edc072c",
@@ -3348,7 +4386,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.393
+      "rank": 0.324
     },
     {
       "id": "05bd9f0351a0c3a2",
@@ -3367,7 +4405,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.376
+      "rank": 0.31
     }
   ]
 }
