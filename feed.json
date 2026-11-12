@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-11-12T05:32:57.374Z",
+  "generatedAt": "2026-11-12T15:10:08.313Z",
   "items": [
+    {
+      "id": "0990939c7d6ea9f7",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T09:30:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.415
+    },
+    {
+      "id": "fc1a6fd9b904e236",
+      "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T10:47:24.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.406
+    },
+    {
+      "id": "4be63b18058de757",
+      "title": "After four years of development, are LLMs capable of writing high-quality prose?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T12:09:12.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.85
+    },
     {
       "id": "cce714811b519a82",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -22,7 +85,49 @@
         "today",
         "important"
       ],
-      "rank": 4.728
+      "rank": 3.581
+    },
+    {
+      "id": "b8785a000ca8f940",
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T13:52:29.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.468
+    },
+    {
+      "id": "56dac742ff29ffe2",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.355
     },
     {
       "id": "3beb9de1922ea0ed",
@@ -43,7 +148,49 @@
       "labels": [
         "today"
       ],
-      "rank": 4.36
+      "rank": 3.302
+    },
+    {
+      "id": "8953c5202adc4820",
+      "title": "Edge0/Edge0-145B-q3k · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T13:39:19.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.255
+    },
+    {
+      "id": "660711644cdc9dc9",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers&#8217; chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T15:02:28.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.188
     },
     {
       "id": "0afd1907df33baa7",
@@ -64,7 +211,28 @@
       "labels": [
         "today"
       ],
-      "rank": 4.168
+      "rank": 3.157
+    },
+    {
+      "id": "755d073ce92d3323",
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "url": "https://theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T14:10:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.109
     },
     {
       "id": "88af978e657ee974",
@@ -86,7 +254,49 @@
       "labels": [
         "today"
       ],
-      "rank": 4.085
+      "rank": 3.094
+    },
+    {
+      "id": "3725c536bfca37b1",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "url": "https://theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T13:53:16.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.084
+    },
+    {
+      "id": "24d7fb83f2c2988f",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T13:26:25.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.044
     },
     {
       "id": "263d7dc4e1e25dd6",
@@ -107,7 +317,29 @@
       "labels": [
         "today"
       ],
-      "rank": 3.998
+      "rank": 3.028
+    },
+    {
+      "id": "9818440638d9a933",
+      "title": "op7418/guizang-game-skill: 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T16:28:54.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 10,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.012
     },
     {
       "id": "71cb7085c6189427",
@@ -128,7 +360,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.92
+      "rank": 2.969
+    },
+    {
+      "id": "f101ffad2bb3a113",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T11:46:41.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.901
     },
     {
       "id": "6dbf5bd5b92f8aef",
@@ -149,7 +402,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.761
+      "rank": 2.848
     },
     {
       "id": "f28f90d2895a812c",
@@ -170,7 +423,112 @@
       "labels": [
         "today"
       ],
-      "rank": 3.748
+      "rank": 2.839
+    },
+    {
+      "id": "b06379671ede1f62",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.839
+    },
+    {
+      "id": "02d1a8e57148d657",
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "url": "https://curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-12T10:46:20.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.818
+    },
+    {
+      "id": "d679e07c8ae630a5",
+      "title": "huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T08:21:26.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.793
+    },
+    {
+      "id": "e615adee1bf7d019",
+      "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T00:50:08.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.776
+    },
+    {
+      "id": "2666796f7b2d3a46",
+      "title": "chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T07:47:12.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.747
     },
     {
       "id": "a0a8bd68435e7a18",
@@ -191,7 +549,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.539
+      "rank": 2.68
+    },
+    {
+      "id": "37a493c78580e73b",
+      "title": "Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T05:37:54.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.581
     },
     {
       "id": "0566809c65753b53",
@@ -212,7 +591,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.368
+      "rank": 2.551
     },
     {
       "id": "d8ef3fe6591f506a",
@@ -233,7 +612,70 @@
       "labels": [
         "today"
       ],
-      "rank": 3.338
+      "rank": 2.528
+    },
+    {
+      "id": "9a978998a3bbd10a",
+      "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T13:56:51.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.51
+    },
+    {
+      "id": "bc41e68b99a725a6",
+      "title": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T13:12:53.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.457
+    },
+    {
+      "id": "f0c25258d53f64ef",
+      "title": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T03:49:33.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.45
     },
     {
       "id": "7026ee2cddf14dd4",
@@ -254,7 +696,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.231
+      "rank": 2.448
     },
     {
       "id": "d8ee9ab549e424bc",
@@ -275,7 +717,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.208
+      "rank": 2.43
     },
     {
       "id": "3bb3af59874accc9",
@@ -296,7 +738,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.169
+      "rank": 2.4
+    },
+    {
+      "id": "ca8b70b1d0d6cf56",
+      "title": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T11:27:07.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.335
     },
     {
       "id": "df5c4c0af68f09b1",
@@ -317,7 +780,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.992
+      "rank": 2.266
     },
     {
       "id": "bad6ee94c35695d3",
@@ -338,7 +801,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.975
+      "rank": 2.253
     },
     {
       "id": "8c9052413e13c82f",
@@ -359,7 +822,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.905
+      "rank": 2.2
     },
     {
       "id": "e879c6fc35d4933f",
@@ -377,10 +840,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 2.19
+    },
+    {
+      "id": "293629a8c0d48c95",
+      "title": "Architecture trends: From full to local attention",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T22:38:09.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [
         "today"
       ],
-      "rank": 2.891
+      "rank": 2.109
     },
     {
       "id": "7a69c1b89eda0814",
@@ -401,7 +883,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.781
+      "rank": 2.106
     },
     {
       "id": "efdd0bfa6110086b",
@@ -422,7 +904,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.713
+      "rank": 2.055
     },
     {
       "id": "3f42633dc5b5e54d",
@@ -443,7 +925,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.706
+      "rank": 2.049
     },
     {
       "id": "cf5ad5ad4907d72b",
@@ -464,7 +946,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.691
+      "rank": 2.038
     },
     {
       "id": "005484e05b9e6189",
@@ -485,7 +967,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.687
+      "rank": 2.035
     },
     {
       "id": "b91248042740580a",
@@ -506,14 +988,15 @@
       "labels": [
         "today"
       ],
-      "rank": 2.685
+      "rank": 2.034
     },
     {
       "id": "cd03d116301a7043",
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "url": "https://theverge.com/tech/1031652/jensen-huang-rumor",
       "sources": [
-        "The Verge"
+        "The Verge",
+        "r/LocalLLaMA"
       ],
       "bestTier": 2,
       "publishedAt": "2026-11-11T22:44:36.000Z",
@@ -527,7 +1010,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.629
+      "rank": 1.991
     },
     {
       "id": "6619f09dbc0d0a8f",
@@ -545,10 +1028,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.99
+    },
+    {
+      "id": "857ba7b7a6108c1f",
+      "title": "Open source self driving is here!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T16:34:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [
         "today"
       ],
-      "rank": 2.628
+      "rank": 1.979
     },
     {
       "id": "8b208eddf6e27264",
@@ -569,7 +1071,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.606
+      "rank": 1.974
     },
     {
       "id": "f3e91f75ed135df5",
@@ -587,10 +1089,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.566
+      "labels": [],
+      "rank": 1.944
     },
     {
       "id": "0ac78af7c4d9dd8d",
@@ -611,7 +1111,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.538
+      "rank": 1.922
     },
     {
       "id": "53bc56e14c08d499",
@@ -632,7 +1132,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.53
+      "rank": 1.916
     },
     {
       "id": "2f5ac4847b023025",
@@ -653,7 +1153,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.483
+      "rank": 1.881
     },
     {
       "id": "d05830646ed0694b",
@@ -674,7 +1174,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.46
+      "rank": 1.863
     },
     {
       "id": "ae5556d61c0b046e",
@@ -695,7 +1195,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.447
+      "rank": 1.853
     },
     {
       "id": "70b89fd3ef03cc10",
@@ -716,28 +1216,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.443
-    },
-    {
-      "id": "14eef01dc0f429cb",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-      "sources": [
-        "Google AI Blog"
-      ],
-      "bestTier": 1,
-      "publishedAt": "2026-11-11T09:00:00.000Z",
-      "summary": "",
-      "topic": "F",
-      "importance": 6,
-      "relevance": 2,
-      "whyItMatters": "",
-      "scoredBy": "fallback",
-      "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.431
+      "rank": 1.85
     },
     {
       "id": "bdeaa23eb9886c5a",
@@ -758,7 +1237,26 @@
       "labels": [
         "today"
       ],
-      "rank": 2.431
+      "rank": 1.842
+    },
+    {
+      "id": "14eef01dc0f429cb",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.841
     },
     {
       "id": "4f138b59583638d1",
@@ -779,7 +1277,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.425
+      "rank": 1.837
     },
     {
       "id": "850c0644106f9238",
@@ -800,7 +1298,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.422
+      "rank": 1.834
     },
     {
       "id": "0c15f2cf2a2ad1df",
@@ -821,7 +1319,49 @@
       "labels": [
         "today"
       ],
-      "rank": 2.42
+      "rank": 1.833
+    },
+    {
+      "id": "2e387caa6a4fa8ec",
+      "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T17:32:40.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.821
+    },
+    {
+      "id": "3a6e419e308849e0",
+      "title": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T02:47:50.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.819
     },
     {
       "id": "6f3c74a04fea158f",
@@ -842,7 +1382,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.4
+      "rank": 1.817
     },
     {
       "id": "94fcbf10f80778a7",
@@ -863,7 +1403,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.385
+      "rank": 1.807
     },
     {
       "id": "80b38ea7da372c49",
@@ -881,10 +1421,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.361
+      "labels": [],
+      "rank": 1.789
     },
     {
       "id": "55fb77d5f91b9928",
@@ -903,7 +1441,49 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 2.356
+      "rank": 1.784
+    },
+    {
+      "id": "d5d770161b3f2ac9",
+      "title": "KRAFTON/Raon-1-nano · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T16:31:38.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.768
+    },
+    {
+      "id": "592cfe6edf5ce4bd",
+      "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T01:36:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.757
     },
     {
       "id": "70a69d3bb5822802",
@@ -924,7 +1504,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.316
+      "rank": 1.754
     },
     {
       "id": "12a9550d1f6a0c04",
@@ -945,7 +1525,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.204
+      "rank": 1.67
     },
     {
       "id": "7a8ca7de71bda47a",
@@ -966,7 +1546,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.181
+      "rank": 1.652
     },
     {
       "id": "2ed3a890d3d8bbd2",
@@ -987,7 +1567,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.179
+      "rank": 1.651
     },
     {
       "id": "6e11a23c0428f7b6",
@@ -1008,7 +1588,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.17
+      "rank": 1.643
     },
     {
       "id": "b22522d14a17f95f",
@@ -1027,7 +1607,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 2.167
+      "rank": 1.641
     },
     {
       "id": "f0476f4b70e90c24",
@@ -1048,7 +1628,29 @@
       "labels": [
         "today"
       ],
-      "rank": 2.164
+      "rank": 1.639
+    },
+    {
+      "id": "2775ee0dc24533d6",
+      "title": "DandanLLab/SnowCatQQ: SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
+      "url": "https://github.com/DandanLLab/SnowCatQQ",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T22:23:10.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.601
     },
     {
       "id": "a0384064dea3a20f",
@@ -1069,7 +1671,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.111
+      "rank": 1.599
     },
     {
       "id": "ddb95c61a535c749",
@@ -1087,10 +1689,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.592
+    },
+    {
+      "id": "576d29469f053bde",
+      "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T21:56:29.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [
         "today"
       ],
-      "rank": 2.102
+      "rank": 1.581
     },
     {
       "id": "0177ef12911d3825",
@@ -1111,7 +1732,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.074
+      "rank": 1.571
     },
     {
       "id": "0ccfb511c0c877ba",
@@ -1129,10 +1750,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.042
+      "labels": [],
+      "rank": 1.547
     },
     {
       "id": "6e40d6043154dab3",
@@ -1150,10 +1769,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.042
+      "labels": [],
+      "rank": 1.547
     },
     {
       "id": "a30f7fce38a46d5d",
@@ -1174,7 +1791,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.012
+      "rank": 1.524
     },
     {
       "id": "fc6b6a56df7b3650",
@@ -1196,7 +1813,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.964
+      "rank": 1.488
     },
     {
       "id": "8d8bc38f54a7d350",
@@ -1214,10 +1831,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
+      "labels": [],
+      "rank": 1.464
+    },
+    {
+      "id": "12149c8999a27fe5",
+      "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T19:15:33.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [
         "today"
       ],
-      "rank": 1.933
+      "rank": 1.463
     },
     {
       "id": "b73105fe4ec5f060",
@@ -1236,7 +1872,49 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.917
+      "rank": 1.452
+    },
+    {
+      "id": "927181826b8abf66",
+      "title": "New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T18:36:37.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.436
+    },
+    {
+      "id": "831ee70abf077ea9",
+      "title": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T18:20:57.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.425
     },
     {
       "id": "8c999d6885d24711",
@@ -1255,7 +1933,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.874
+      "rank": 1.42
     },
     {
       "id": "d2296a64c0dc3b89",
@@ -1274,7 +1952,28 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.874
+      "rank": 1.42
+    },
+    {
+      "id": "416d511596b938c6",
+      "title": "Microsoft files a patent application to train AI models on idle consumer GPUs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T18:05:04.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.414
     },
     {
       "id": "e6df1e705a6d6026",
@@ -1295,7 +1994,28 @@
       "labels": [
         "today"
       ],
-      "rank": 1.866
+      "rank": 1.413
+    },
+    {
+      "id": "d2e0003308f41c4f",
+      "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-11T16:17:55.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.343
     },
     {
       "id": "52c1a0c9377c6505",
@@ -1314,7 +2034,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.76
+      "rank": 1.333
     },
     {
       "id": "f6b29b4e2ab3b1b9",
@@ -1335,7 +2055,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.746
+      "rank": 1.323
     },
     {
       "id": "02e4a20d191af380",
@@ -1354,7 +2074,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.736
+      "rank": 1.315
     },
     {
       "id": "f724697ad4799a39",
@@ -1373,7 +2093,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.695
+      "rank": 1.284
     },
     {
       "id": "e28ff692f1183bac",
@@ -1391,10 +2111,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.693
+      "labels": [],
+      "rank": 1.283
     },
     {
       "id": "66ed14c6418f09b7",
@@ -1413,7 +2131,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.659
+      "rank": 1.257
     },
     {
       "id": "14f6b8b420073dc3",
@@ -1432,7 +2150,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.636
+      "rank": 1.239
     },
     {
       "id": "2855a6dd0b52b57a",
@@ -1451,7 +2169,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.572
+      "rank": 1.191
     },
     {
       "id": "7e343cb607009fdc",
@@ -1469,10 +2187,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.524
+      "labels": [],
+      "rank": 1.154
     },
     {
       "id": "5175b6a2b765750a",
@@ -1491,7 +2207,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.434
+      "rank": 1.086
     },
     {
       "id": "7737e173e31a5988",
@@ -1510,7 +2226,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.429
+      "rank": 1.083
     },
     {
       "id": "a5749ddac12322df",
@@ -1529,7 +2245,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.429
+      "rank": 1.083
     },
     {
       "id": "dfad3e6674c2521c",
@@ -1548,7 +2264,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.422
+      "rank": 1.077
     },
     {
       "id": "4e3e5904c85ae763",
@@ -1567,7 +2283,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.395
+      "rank": 1.057
     },
     {
       "id": "c0a7d49575128b5d",
@@ -1586,7 +2302,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.388
+      "rank": 1.051
     },
     {
       "id": "0bbf517ca2cff024",
@@ -1605,7 +2321,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.366
+      "rank": 1.034
     },
     {
       "id": "f8c1a7370c130fe5",
@@ -1624,7 +2340,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.327
+      "rank": 1.005
     },
     {
       "id": "46ecb159c1535b09",
@@ -1643,7 +2359,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.325
+      "rank": 1.004
     },
     {
       "id": "f7afa1dd4ce8d146",
@@ -1662,7 +2378,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.298
+      "rank": 0.983
     },
     {
       "id": "369640935efcece9",
@@ -1681,7 +2397,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.295
+      "rank": 0.981
     },
     {
       "id": "571fb0494bf3f24f",
@@ -1700,7 +2416,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.255
+      "rank": 0.951
     },
     {
       "id": "5ca4dc7b6d88cb31",
@@ -1719,7 +2435,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.251
+      "rank": 0.947
     },
     {
       "id": "c012fc7ecd62b33e",
@@ -1738,7 +2454,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.245
+      "rank": 0.943
     },
     {
       "id": "01a8528fa117926a",
@@ -1757,7 +2473,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.215
+      "rank": 0.92
     },
     {
       "id": "e18f58ec7dc7acb9",
@@ -1776,7 +2492,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.213
+      "rank": 0.919
     },
     {
       "id": "7739f93bab443e21",
@@ -1795,7 +2511,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.193
+      "rank": 0.904
     },
     {
       "id": "eec6217882176ba1",
@@ -1814,7 +2530,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.188
+      "rank": 0.9
     },
     {
       "id": "6fcd75d626ddcf98",
@@ -1833,7 +2549,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.182
+      "rank": 0.895
     },
     {
       "id": "5d01611fd6de2935",
@@ -1852,7 +2568,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.182
+      "rank": 0.895
     },
     {
       "id": "418d10f93d4edba8",
@@ -1872,7 +2588,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.156
+      "rank": 0.875
     },
     {
       "id": "cd0c3adea5a38d8b",
@@ -1891,7 +2607,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.152
+      "rank": 0.873
     },
     {
       "id": "3588ceed41552e46",
@@ -1910,7 +2626,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.147
+      "rank": 0.869
     },
     {
       "id": "4546981095085026",
@@ -1929,7 +2645,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.146
+      "rank": 0.868
     },
     {
       "id": "a548f4bc427db034",
@@ -1948,7 +2664,26 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.131
+      "rank": 0.857
+    },
+    {
+      "id": "9a6164117272b000",
+      "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+      "url": "https://github.com/OpenTSLM/TimeNet",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T17:16:09.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [],
+      "rank": 0.85
     },
     {
       "id": "82110824f2abb129",
@@ -1967,7 +2702,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.113
+      "rank": 0.843
     },
     {
       "id": "58426d8e2b3863d2",
@@ -1986,7 +2721,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.112
+      "rank": 0.842
     },
     {
       "id": "724fae9251483a53",
@@ -2005,7 +2740,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.107
+      "rank": 0.839
     },
     {
       "id": "3229de0d919212c3",
@@ -2024,7 +2759,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.107
+      "rank": 0.839
     },
     {
       "id": "1484bc2b220d4e0d",
@@ -2043,7 +2778,26 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.107
+      "rank": 0.839
+    },
+    {
+      "id": "a8cc20c7d5a48243",
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T15:01:19.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [],
+      "rank": 0.797
     },
     {
       "id": "a27532638c556bde",
@@ -2062,7 +2816,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.987
+      "rank": 0.748
     },
     {
       "id": "7da1b2b4758f6148",
@@ -2081,7 +2835,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.983
+      "rank": 0.744
     },
     {
       "id": "252a67cf93cb8c8f",
@@ -2100,7 +2854,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.98
+      "rank": 0.743
     },
     {
       "id": "1ff74ee2cb106637",
@@ -2119,7 +2873,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.937
+      "rank": 0.71
     },
     {
       "id": "2934d7cd62fe7050",
@@ -2138,7 +2892,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.931
+      "rank": 0.705
     },
     {
       "id": "534e23320d33a495",
@@ -2157,7 +2911,26 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.921
+      "rank": 0.698
+    },
+    {
+      "id": "de5b3076bff447f1",
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-10T10:18:22.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-12T15:10:08.313Z",
+      "labels": [],
+      "rank": 0.695
     },
     {
       "id": "9c331579e229757a",
@@ -2176,7 +2949,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.811
+      "rank": 0.614
     },
     {
       "id": "255b56db4a4a44d0",
@@ -2195,7 +2968,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.761
+      "rank": 0.576
     },
     {
       "id": "458bb1a34baf1a65",
@@ -2214,7 +2987,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.75
+      "rank": 0.568
     },
     {
       "id": "35743bc665289905",
@@ -2233,7 +3006,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.744
+      "rank": 0.564
     },
     {
       "id": "057e22ab69c04fb1",
@@ -2252,7 +3025,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.725
+      "rank": 0.549
     },
     {
       "id": "1b18e8c9acf73639",
@@ -2271,7 +3044,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.725
+      "rank": 0.549
     },
     {
       "id": "ffe8a09e969fa29a",
@@ -2290,7 +3063,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.717
+      "rank": 0.543
     },
     {
       "id": "5aa2811f45ceef64",
@@ -2309,7 +3082,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.715
+      "rank": 0.541
     },
     {
       "id": "23b94c697622500f",
@@ -2328,7 +3101,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.698
+      "rank": 0.528
     },
     {
       "id": "932fe34bad728f30",
@@ -2347,7 +3120,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.698
+      "rank": 0.528
     },
     {
       "id": "831bd9db6c4fa670",
@@ -2366,7 +3139,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.689
+      "rank": 0.522
     },
     {
       "id": "f37b680abcf7adcb",
@@ -2385,7 +3158,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.682
+      "rank": 0.517
     },
     {
       "id": "7b1451fc786c34f9",
@@ -2404,7 +3177,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.674
+      "rank": 0.51
     },
     {
       "id": "8ceada5f95028093",
@@ -2423,7 +3196,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.65
+      "rank": 0.492
     },
     {
       "id": "5d33272291219c49",
@@ -2442,7 +3215,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.649
+      "rank": 0.492
     },
     {
       "id": "9d9fe975c63c20bc",
@@ -2461,7 +3234,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.648
+      "rank": 0.491
     },
     {
       "id": "2969b0807146033c",
@@ -2480,7 +3253,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.6
+      "rank": 0.455
     },
     {
       "id": "f0a7364ef803e186",
@@ -2499,7 +3272,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.584
+      "rank": 0.442
     },
     {
       "id": "1a46264ab61ddf35",
@@ -2518,7 +3291,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.568
+      "rank": 0.431
     },
     {
       "id": "da795f2924119e2e",
@@ -2537,7 +3310,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.558
+      "rank": 0.423
     },
     {
       "id": "e32955d193042fab",
@@ -2556,7 +3329,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.551
+      "rank": 0.417
     },
     {
       "id": "7e4af76a8edc072c",
@@ -2575,7 +3348,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.518
+      "rank": 0.393
     },
     {
       "id": "05bd9f0351a0c3a2",
@@ -2594,7 +3367,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.496
+      "rank": 0.376
     }
   ]
 }
