@@ -1,6 +1,111 @@
 {
-  "generatedAt": "2026-11-13T17:11:51.005Z",
+  "generatedAt": "2026-11-13T23:30:54.315Z",
   "items": [
+    {
+      "id": "94d8e8d36570e022",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T22:30:12.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.662
+    },
+    {
+      "id": "81edf0fb751b6510",
+      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T19:23:54.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.439
+    },
+    {
+      "id": "38741df50e34ad24",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T19:37:57.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.291
+    },
+    {
+      "id": "e504c61a39ac2d49",
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T18:01:15.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.096
+    },
+    {
+      "id": "db2e460523131f5f",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T23:22:09.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.983
+    },
     {
       "id": "40e78db6601d46e6",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
@@ -20,7 +125,70 @@
       "labels": [
         "today"
       ],
-      "rank": 4.754
+      "rank": 3.961
+    },
+    {
+      "id": "21ab7432dba474e0",
+      "title": "Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T22:39:15.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.902
+    },
+    {
+      "id": "41b9d660ec27f386",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T21:53:40.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.817
+    },
+    {
+      "id": "2427bacb74a96b4b",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.753
     },
     {
       "id": "8400bdfe1e2afd49",
@@ -41,7 +209,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.38
+      "rank": 3.65
     },
     {
       "id": "1bd099ba94a31657",
@@ -62,7 +230,91 @@
       "labels": [
         "today"
       ],
-      "rank": 4.377
+      "rank": 3.647
+    },
+    {
+      "id": "a05d08fd0b1ba6de",
+      "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T19:35:35.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.572
+    },
+    {
+      "id": "7e4a82aae5902afd",
+      "title": "llama.cpp v1.0 is here 🦙",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T14:07:33.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 7,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.507
+    },
+    {
+      "id": "773ec8d2db34b976",
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T18:44:02.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.484
+    },
+    {
+      "id": "a114c8a499e5f08f",
+      "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T16:31:47.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.433
     },
     {
       "id": "44da454e7900959c",
@@ -83,7 +335,217 @@
       "labels": [
         "today"
       ],
-      "rank": 3.933
+      "rank": 3.277
+    },
+    {
+      "id": "ad639fbc6552b9e9",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.127
+    },
+    {
+      "id": "2d8033c89156b761",
+      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+      "url": "https://news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T22:16:11.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.087
+    },
+    {
+      "id": "99d40623cf51112d",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T22:02:39.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.067
+    },
+    {
+      "id": "abc9750b7fe9f819",
+      "title": "inferencekit: open-source plugin to optimize any model on any hardware using coding agents",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T00:14:11.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 10,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.961
+    },
+    {
+      "id": "d450ad1a277fe530",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.955
+    },
+    {
+      "id": "48a3214bd8ba72a8",
+      "title": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T04:06:06.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.854
+    },
+    {
+      "id": "4b5788c8e2161043",
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://nature.com/articles/d41586-026-03638-3",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T19:25:21.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.843
+    },
+    {
+      "id": "15feea836be2f2af",
+      "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T13:08:10.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.816
+    },
+    {
+      "id": "f17748102e2c4282",
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.783
+    },
+    {
+      "id": "25c39c4b8cc05b5d",
+      "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T16:03:56.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.742
     },
     {
       "id": "22bcd83804c6c356",
@@ -104,7 +566,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.281
+      "rank": 2.734
+    },
+    {
+      "id": "4a36f6adfa9f6485",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T17:55:23.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.723
     },
     {
       "id": "e473304c12859b7b",
@@ -126,7 +609,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.167
+      "rank": 2.638
     },
     {
       "id": "e05cb3b1495b1944",
@@ -145,10 +628,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.11
+      "labels": [],
+      "rank": 2.592
     },
     {
       "id": "a4ef297b6d8f415f",
@@ -167,10 +648,28 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
+      "labels": [],
+      "rank": 2.59
+    },
+    {
+      "id": "4170bd017fe6c15b",
+      "title": "Doug-218/blender-ai-copilot-forge: A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP server. · blender-ai-copilot-forge · blender · blender 3d · blender addon · blender plugin · blender ext…",
+      "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+      "sources": [
+        "GitHub"
       ],
-      "rank": 3.109
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T19:35:10.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 10,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [],
+      "rank": 2.589
     },
     {
       "id": "db266b9ed87d7e2f",
@@ -189,10 +688,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.104
+      "labels": [],
+      "rank": 2.587
     },
     {
       "id": "d9006d3b1f354a9f",
@@ -211,10 +708,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.103
+      "labels": [],
+      "rank": 2.585
     },
     {
       "id": "4e379f6cb9d33e5a",
@@ -235,7 +730,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.092
+      "rank": 2.576
     },
     {
       "id": "5d09d1e98e76f00d",
@@ -256,7 +751,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.985
+      "rank": 2.487
     },
     {
       "id": "025a6c711bf81c35",
@@ -277,7 +772,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.981
+      "rank": 2.484
     },
     {
       "id": "a8d5fa7d24b3647f",
@@ -297,10 +792,51 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 2.969
+      "rank": 2.474
+    },
+    {
+      "id": "4f31dbe9014ddf9a",
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T14:28:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.465
+    },
+    {
+      "id": "87c4205595694d85",
+      "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+      "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-13T14:25:46.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.461
     },
     {
       "id": "e4d1c656df3fa2a2",
@@ -321,7 +857,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.847
+      "rank": 2.372
     },
     {
       "id": "e00ed907e42f1c2a",
@@ -342,7 +878,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.824
+      "rank": 2.353
     },
     {
       "id": "372847c9499451eb",
@@ -360,10 +896,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.819
+      "labels": [],
+      "rank": 2.349
     },
     {
       "id": "69b43a95305bbe20",
@@ -384,7 +918,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.792
+      "rank": 2.326
     },
     {
       "id": "f41c719b0c126243",
@@ -405,7 +939,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.754
+      "rank": 2.295
     },
     {
       "id": "a88bddb17214a029",
@@ -423,10 +957,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.749
+      "labels": [],
+      "rank": 2.29
     },
     {
       "id": "44b701950cb62925",
@@ -445,10 +977,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.683
+      "labels": [],
+      "rank": 2.236
     },
     {
       "id": "6d0f1469bd9c4bc1",
@@ -467,10 +997,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.667
+      "labels": [],
+      "rank": 2.222
     },
     {
       "id": "b3c84623c44d3655",
@@ -491,7 +1019,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.665
+      "rank": 2.22
     },
     {
       "id": "ad614f81e42f72e5",
@@ -509,10 +1037,50 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 2.217
+    },
+    {
+      "id": "bb5e9f110578a157",
+      "title": "Uncensored models are awesome",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T00:19:26.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 2.661
+      "rank": 2.15
+    },
+    {
+      "id": "2c4041f79b956f03",
+      "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T16:37:41.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.131
     },
     {
       "id": "ff63b36970cf9576",
@@ -533,7 +1101,70 @@
       "labels": [
         "today"
       ],
-      "rank": 2.546
+      "rank": 2.122
+    },
+    {
+      "id": "3cbdcee5dac1e73a",
+      "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-12T23:31:29.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.101
+    },
+    {
+      "id": "ade879a83ff45d2d",
+      "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T16:00:36.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.093
+    },
+    {
+      "id": "bb8dea94fd73491a",
+      "title": "e-means: 10x faster k-means at equal loss",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T15:56:37.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.089
     },
     {
       "id": "83054ecb029e1c53",
@@ -551,10 +1182,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.505
+      "labels": [],
+      "rank": 2.088
     },
     {
       "id": "3903c89c61e50edc",
@@ -572,10 +1201,50 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 2.086
+    },
+    {
+      "id": "2f5047a279483429",
+      "title": "Look what my son gave me!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T15:49:27.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 2.503
+      "rank": 2.082
+    },
+    {
+      "id": "2bb91ee3179820cd",
+      "title": "CXMT almost tripling RAM production from 2025 to 2028",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T15:21:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.054
     },
     {
       "id": "9280db37a82b4aee",
@@ -596,7 +1265,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.449
+      "rank": 2.04
     },
     {
       "id": "e4635503d6296e72",
@@ -617,14 +1286,15 @@
       "labels": [
         "today"
       ],
-      "rank": 2.447
+      "rank": 2.039
     },
     {
       "id": "5c8a7e2ce9e472f4",
       "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
       "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
       "sources": [
-        "TechCrunch"
+        "TechCrunch",
+        "r/LocalLLaMA"
       ],
       "bestTier": 2,
       "publishedAt": "2026-11-12T17:36:40.000Z",
@@ -635,10 +1305,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.429
+      "labels": [],
+      "rank": 2.024
     },
     {
       "id": "5fb6d7fe9d2dea3c",
@@ -657,7 +1325,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 2.386
+      "rank": 1.988
     },
     {
       "id": "4e2810e47ea31ac4",
@@ -675,10 +1343,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.345
+      "labels": [],
+      "rank": 1.954
     },
     {
       "id": "d3c21aad125298df",
@@ -696,10 +1362,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.33
+      "labels": [],
+      "rank": 1.941
     },
     {
       "id": "d3206ea89ca22b21",
@@ -718,7 +1382,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 2.299
+      "rank": 1.915
     },
     {
       "id": "9ed2099ae4857f6f",
@@ -737,7 +1401,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 2.297
+      "rank": 1.914
     },
     {
       "id": "8af226d2b9f4a115",
@@ -755,10 +1419,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.293
+      "labels": [],
+      "rank": 1.91
     },
     {
       "id": "90d79223706ea3ab",
@@ -777,7 +1439,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 2.238
+      "rank": 1.864
     },
     {
       "id": "e9b2308e4ac312d9",
@@ -795,10 +1457,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.223
+      "labels": [],
+      "rank": 1.853
     },
     {
       "id": "21108e3aebe49970",
@@ -819,7 +1479,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.164
+      "rank": 1.803
     },
     {
       "id": "9f3eebffef935d6d",
@@ -840,7 +1500,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.153
+      "rank": 1.794
     },
     {
       "id": "875637b2c34d1326",
@@ -858,10 +1518,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.779
+    },
+    {
+      "id": "264dfda5e7c31f7b",
+      "title": "Gemma 4 E2B on a 8GB RAM netbook",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T00:31:33.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 2.135
+      "rank": 1.75
     },
     {
       "id": "4e46e49750fb65fe",
@@ -879,10 +1558,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.09
+      "labels": [],
+      "rank": 1.741
     },
     {
       "id": "0990939c7d6ea9f7",
@@ -901,7 +1578,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 2.082
+      "rank": 1.735
     },
     {
       "id": "fc1a6fd9b904e236",
@@ -920,7 +1597,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 2.078
+      "rank": 1.731
     },
     {
       "id": "85bacafff42444d7",
@@ -938,10 +1615,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.705
+    },
+    {
+      "id": "817048d612d682ea",
+      "title": "Google is asking",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T08:20:28.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 2.047
+      "rank": 1.677
     },
     {
       "id": "4ae3018d79171170",
@@ -960,7 +1656,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.989
+      "rank": 1.657
     },
     {
       "id": "7a5b5aeb105da684",
@@ -981,7 +1677,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.984
+      "rank": 1.653
     },
     {
       "id": "6d29ea24a6e6fee7",
@@ -1000,7 +1696,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.948
+      "rank": 1.623
     },
     {
       "id": "aff6802cc567cefa",
@@ -1019,7 +1715,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.912
+      "rank": 1.593
     },
     {
       "id": "82d9be95873a98db",
@@ -1037,10 +1733,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.858
+      "labels": [],
+      "rank": 1.548
     },
     {
       "id": "ec886a92fa12a05a",
@@ -1058,10 +1752,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.841
+      "labels": [],
+      "rank": 1.534
     },
     {
       "id": "cb86ca9a5a41005e",
@@ -1079,10 +1771,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.827
+      "labels": [],
+      "rank": 1.522
     },
     {
       "id": "4be63b18058de757",
@@ -1101,7 +1791,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.815
+      "rank": 1.513
     },
     {
       "id": "fc0f425d4885ad33",
@@ -1119,10 +1809,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.507
+    },
+    {
+      "id": "632ba4294e27a4d6",
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T04:03:28.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 1.809
+      "rank": 1.482
     },
     {
       "id": "92467d3f16d5f88c",
@@ -1140,17 +1849,37 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.464
+    },
+    {
+      "id": "bcae3f6ad9209295",
+      "title": "A100 prices down 20-30% since my post about them collapsing",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T03:31:32.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 1.757
+      "rank": 1.46
     },
     {
       "id": "6e7f4ca7daf14e21",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "url": "https://technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
       "sources": [
-        "MIT Technology Review"
+        "MIT Technology Review",
+        "r/LocalLLaMA"
       ],
       "bestTier": 2,
       "publishedAt": "2026-11-12T20:16:24.000Z",
@@ -1161,10 +1890,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.749
+      "labels": [],
+      "rank": 1.457
     },
     {
       "id": "75e8b5158ffa2b00",
@@ -1182,10 +1909,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.434
+    },
+    {
+      "id": "4aca5735f30891f4",
+      "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T02:47:47.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 1.72
+      "rank": 1.429
     },
     {
       "id": "c8c5dc29297d2e3d",
@@ -1203,10 +1949,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.71
+      "labels": [],
+      "rank": 1.425
     },
     {
       "id": "27662b1aab3647b2",
@@ -1227,7 +1971,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.696
+      "rank": 1.413
     },
     {
       "id": "cce714811b519a82",
@@ -1249,7 +1993,28 @@
       "labels": [
         "important"
       ],
-      "rank": 1.689
+      "rank": 1.407
+    },
+    {
+      "id": "6291f7872f2c8d9c",
+      "title": "Stories coming out about Jensen",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T01:58:53.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.396
     },
     {
       "id": "ab0d1799a3ff5919",
@@ -1267,10 +2032,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.657
+      "labels": [],
+      "rank": 1.38
     },
     {
       "id": "0e48da9eb1b141ae",
@@ -1288,10 +2051,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.654
+      "labels": [],
+      "rank": 1.378
     },
     {
       "id": "7482059e8feb089c",
@@ -1309,10 +2070,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.651
+      "labels": [],
+      "rank": 1.376
     },
     {
       "id": "ca1478ab4f6d6b17",
@@ -1330,10 +2089,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.375
+    },
+    {
+      "id": "ec2785f219cccfbb",
+      "title": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T01:25:20.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 1.65
+      "rank": 1.374
     },
     {
       "id": "78397eaf147cfe84",
@@ -1351,10 +2129,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.643
+      "labels": [],
+      "rank": 1.369
     },
     {
       "id": "b8785a000ca8f940",
@@ -1373,7 +2149,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.635
+      "rank": 1.363
     },
     {
       "id": "217499e0c25837fd",
@@ -1391,10 +2167,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.631
+      "labels": [],
+      "rank": 1.359
     },
     {
       "id": "0a3a3741b20c2318",
@@ -1412,10 +2186,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.625
+      "labels": [],
+      "rank": 1.354
     },
     {
       "id": "322f998ba4d6dbd2",
@@ -1433,10 +2205,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
+      "labels": [],
+      "rank": 1.337
+    },
+    {
+      "id": "b41a9019933b08d4",
+      "title": "If open weights dry up, what are you archiving?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xuthme/if_open_weights_dry_up_what_are_you_archiving",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-13T00:27:45.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [
         "today"
       ],
-      "rank": 1.605
+      "rank": 1.336
     },
     {
       "id": "3c4d561992cbe328",
@@ -1457,7 +2248,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.602
+      "rank": 1.335
     },
     {
       "id": "ca80552a275a9336",
@@ -1476,7 +2267,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.592
+      "rank": 1.326
     },
     {
       "id": "0cefd18c08c5c4ac",
@@ -1495,7 +2286,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.591
+      "rank": 1.326
     },
     {
       "id": "b0984d45fde6da18",
@@ -1514,7 +2305,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.59
+      "rank": 1.325
     },
     {
       "id": "089e249fb74d4122",
@@ -1533,7 +2324,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 1.585
+      "rank": 1.321
     },
     {
       "id": "56dac742ff29ffe2",
@@ -1552,7 +2343,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.582
+      "rank": 1.318
     },
     {
       "id": "aa4bf4548cc5dfc6",
@@ -1571,7 +2362,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.573
+      "rank": 1.311
     },
     {
       "id": "aff4b2c65530b3e6",
@@ -1590,7 +2381,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.57
+      "rank": 1.308
     },
     {
       "id": "11a9f97485e11126",
@@ -1609,7 +2400,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.568
+      "rank": 1.307
     },
     {
       "id": "3beb9de1922ea0ed",
@@ -1628,7 +2419,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.557
+      "rank": 1.297
     },
     {
       "id": "44722bd030259051",
@@ -1647,7 +2438,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.555
+      "rank": 1.296
     },
     {
       "id": "ee129214e4fa1cd8",
@@ -1666,7 +2457,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.537
+      "rank": 1.281
     },
     {
       "id": "8953c5202adc4820",
@@ -1685,7 +2476,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.535
+      "rank": 1.279
     },
     {
       "id": "1447c52b300c38a1",
@@ -1704,7 +2495,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.529
+      "rank": 1.274
     },
     {
       "id": "d809846837598f60",
@@ -1723,7 +2514,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.523
+      "rank": 1.269
     },
     {
       "id": "0667a519c65042ee",
@@ -1742,7 +2533,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.518
+      "rank": 1.265
     },
     {
       "id": "bfccb2d38562aef8",
@@ -1761,7 +2552,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.515
+      "rank": 1.262
     },
     {
       "id": "32ba33d00b9d1b74",
@@ -1779,10 +2570,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.514
+      "labels": [],
+      "rank": 1.262
     },
     {
       "id": "660711644cdc9dc9",
@@ -1801,7 +2590,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.503
+      "rank": 1.253
     },
     {
       "id": "eb0c65b2b58fbc7a",
@@ -1820,7 +2609,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.503
+      "rank": 1.252
     },
     {
       "id": "0afd1907df33baa7",
@@ -1839,7 +2628,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.489
+      "rank": 1.24
     },
     {
       "id": "74e971f5c16a1495",
@@ -1857,10 +2646,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.476
+      "labels": [],
+      "rank": 1.23
     },
     {
       "id": "755d073ce92d3323",
@@ -1879,7 +2666,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.466
+      "rank": 1.221
     },
     {
       "id": "88af978e657ee974",
@@ -1899,7 +2686,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.459
+      "rank": 1.216
     },
     {
       "id": "3725c536bfca37b1",
@@ -1918,7 +2705,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.454
+      "rank": 1.212
     },
     {
       "id": "8e60012da5d1451a",
@@ -1937,7 +2724,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.454
+      "rank": 1.211
     },
     {
       "id": "24d7fb83f2c2988f",
@@ -1956,7 +2743,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.435
+      "rank": 1.196
     },
     {
       "id": "263d7dc4e1e25dd6",
@@ -1975,7 +2762,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.428
+      "rank": 1.19
     },
     {
       "id": "9818440638d9a933",
@@ -1995,7 +2782,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.42
+      "rank": 1.183
     },
     {
       "id": "71cb7085c6189427",
@@ -2014,7 +2801,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.4
+      "rank": 1.167
     },
     {
       "id": "f101ffad2bb3a113",
@@ -2033,7 +2820,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.368
+      "rank": 1.14
     },
     {
       "id": "bd81e92a6269231e",
@@ -2051,10 +2838,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.366
+      "labels": [],
+      "rank": 1.138
     },
     {
       "id": "6dbf5bd5b92f8aef",
@@ -2073,7 +2858,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.343
+      "rank": 1.119
     },
     {
       "id": "f28f90d2895a812c",
@@ -2092,7 +2877,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.339
+      "rank": 1.116
     },
     {
       "id": "b06379671ede1f62",
@@ -2111,7 +2896,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.339
+      "rank": 1.116
     },
     {
       "id": "02d1a8e57148d657",
@@ -2130,7 +2915,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.329
+      "rank": 1.107
     },
     {
       "id": "d679e07c8ae630a5",
@@ -2149,7 +2934,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.317
+      "rank": 1.097
     },
     {
       "id": "e615adee1bf7d019",
@@ -2168,7 +2953,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.309
+      "rank": 1.091
     },
     {
       "id": "60e40c578e381928",
@@ -2186,10 +2971,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.303
+      "labels": [],
+      "rank": 1.086
     },
     {
       "id": "2666796f7b2d3a46",
@@ -2208,7 +2991,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.295
+      "rank": 1.079
     },
     {
       "id": "a0a8bd68435e7a18",
@@ -2227,7 +3010,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.264
+      "rank": 1.053
     },
     {
       "id": "2c7dd6bc41305b29",
@@ -2246,7 +3029,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.257
+      "rank": 1.047
     },
     {
       "id": "8246025563b0a52f",
@@ -2265,7 +3048,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.245
+      "rank": 1.037
     },
     {
       "id": "37a493c78580e73b",
@@ -2284,7 +3067,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.217
+      "rank": 1.014
     },
     {
       "id": "0566809c65753b53",
@@ -2303,7 +3086,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.203
+      "rank": 1.002
     },
     {
       "id": "dad2ce3e2f15f4f9",
@@ -2322,7 +3105,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.203
+      "rank": 1.002
     },
     {
       "id": "d8ef3fe6591f506a",
@@ -2341,7 +3124,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.192
+      "rank": 0.993
     },
     {
       "id": "9a978998a3bbd10a",
@@ -2360,7 +3143,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.184
+      "rank": 0.986
     },
     {
       "id": "30f7a6b76e69d066",
@@ -2379,7 +3162,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.181
+      "rank": 0.984
     },
     {
       "id": "bc41e68b99a725a6",
@@ -2398,7 +3181,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.159
+      "rank": 0.965
     },
     {
       "id": "f0c25258d53f64ef",
@@ -2417,7 +3200,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.155
+      "rank": 0.963
     },
     {
       "id": "7026ee2cddf14dd4",
@@ -2436,7 +3219,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.154
+      "rank": 0.962
     },
     {
       "id": "d8ee9ab549e424bc",
@@ -2455,7 +3238,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.146
+      "rank": 0.955
     },
     {
       "id": "3bb3af59874accc9",
@@ -2474,7 +3257,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.132
+      "rank": 0.943
     },
     {
       "id": "ca8b70b1d0d6cf56",
@@ -2493,7 +3276,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 1.101
+      "rank": 0.918
     },
     {
       "id": "c5de80afa617eff7",
@@ -2512,7 +3295,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 1.092
+      "rank": 0.91
     },
     {
       "id": "df5c4c0af68f09b1",
@@ -2531,7 +3314,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.069
+      "rank": 0.89
     },
     {
       "id": "bad6ee94c35695d3",
@@ -2550,7 +3333,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.063
+      "rank": 0.885
     },
     {
       "id": "8c9052413e13c82f",
@@ -2569,7 +3352,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.038
+      "rank": 0.865
     },
     {
       "id": "e879c6fc35d4933f",
@@ -2588,7 +3371,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 1.032
+      "rank": 0.86
     },
     {
       "id": "293629a8c0d48c95",
@@ -2607,7 +3390,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.995
+      "rank": 0.829
     },
     {
       "id": "7a69c1b89eda0814",
@@ -2626,7 +3409,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.993
+      "rank": 0.828
     },
     {
       "id": "efdd0bfa6110086b",
@@ -2645,7 +3428,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.969
+      "rank": 0.807
     },
     {
       "id": "3f42633dc5b5e54d",
@@ -2664,7 +3447,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.966
+      "rank": 0.805
     },
     {
       "id": "cf5ad5ad4907d72b",
@@ -2683,7 +3466,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.961
+      "rank": 0.801
     },
     {
       "id": "005484e05b9e6189",
@@ -2702,7 +3485,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.96
+      "rank": 0.8
     },
     {
       "id": "b91248042740580a",
@@ -2721,7 +3504,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.959
+      "rank": 0.799
     },
     {
       "id": "cd03d116301a7043",
@@ -2741,7 +3524,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.939
+      "rank": 0.782
     },
     {
       "id": "6619f09dbc0d0a8f",
@@ -2760,7 +3543,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.939
+      "rank": 0.782
     },
     {
       "id": "857ba7b7a6108c1f",
@@ -2779,7 +3562,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.933
+      "rank": 0.778
     },
     {
       "id": "8b208eddf6e27264",
@@ -2798,7 +3581,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.931
+      "rank": 0.776
     },
     {
       "id": "b36c4c9db0462ea8",
@@ -2817,7 +3600,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.927
+      "rank": 0.773
     },
     {
       "id": "f3e91f75ed135df5",
@@ -2836,7 +3619,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.917
+      "rank": 0.764
     },
     {
       "id": "0ac78af7c4d9dd8d",
@@ -2855,7 +3638,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.907
+      "rank": 0.755
     },
     {
       "id": "53bc56e14c08d499",
@@ -2874,7 +3657,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.903
+      "rank": 0.753
     },
     {
       "id": "2f5ac4847b023025",
@@ -2893,7 +3676,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.887
+      "rank": 0.739
     },
     {
       "id": "d05830646ed0694b",
@@ -2912,7 +3695,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.879
+      "rank": 0.732
     },
     {
       "id": "ae5556d61c0b046e",
@@ -2931,7 +3714,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.874
+      "rank": 0.728
     },
     {
       "id": "70b89fd3ef03cc10",
@@ -2950,7 +3733,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.872
+      "rank": 0.727
     },
     {
       "id": "bdeaa23eb9886c5a",
@@ -2969,7 +3752,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.868
+      "rank": 0.724
     },
     {
       "id": "14eef01dc0f429cb",
@@ -2988,7 +3771,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.868
+      "rank": 0.723
     },
     {
       "id": "4f138b59583638d1",
@@ -3007,7 +3790,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.866
+      "rank": 0.722
     },
     {
       "id": "850c0644106f9238",
@@ -3026,7 +3809,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.865
+      "rank": 0.721
     },
     {
       "id": "0c15f2cf2a2ad1df",
@@ -3045,7 +3828,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.864
+      "rank": 0.72
     },
     {
       "id": "2e387caa6a4fa8ec",
@@ -3064,7 +3847,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.859
+      "rank": 0.715
     },
     {
       "id": "3a6e419e308849e0",
@@ -3083,7 +3866,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.858
+      "rank": 0.715
     },
     {
       "id": "6f3c74a04fea158f",
@@ -3102,7 +3885,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.857
+      "rank": 0.714
     },
     {
       "id": "94fcbf10f80778a7",
@@ -3121,7 +3904,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.852
+      "rank": 0.71
     },
     {
       "id": "80b38ea7da372c49",
@@ -3140,7 +3923,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.843
+      "rank": 0.703
     },
     {
       "id": "55fb77d5f91b9928",
@@ -3159,7 +3942,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.841
+      "rank": 0.701
     },
     {
       "id": "d5d770161b3f2ac9",
@@ -3178,7 +3961,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.834
+      "rank": 0.695
     },
     {
       "id": "592cfe6edf5ce4bd",
@@ -3197,7 +3980,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.829
+      "rank": 0.69
     },
     {
       "id": "70a69d3bb5822802",
@@ -3216,7 +3999,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.827
+      "rank": 0.689
     },
     {
       "id": "91765523ff0b0fa7",
@@ -3235,7 +4018,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.805
+      "rank": 0.671
     },
     {
       "id": "12a9550d1f6a0c04",
@@ -3254,7 +4037,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.787
+      "rank": 0.656
     },
     {
       "id": "7a8ca7de71bda47a",
@@ -3273,7 +4056,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.779
+      "rank": 0.649
     },
     {
       "id": "2ed3a890d3d8bbd2",
@@ -3292,7 +4075,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.778
+      "rank": 0.648
     },
     {
       "id": "6e11a23c0428f7b6",
@@ -3311,7 +4094,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.775
+      "rank": 0.646
     },
     {
       "id": "b22522d14a17f95f",
@@ -3330,7 +4113,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.774
+      "rank": 0.645
     },
     {
       "id": "f0476f4b70e90c24",
@@ -3349,7 +4132,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.773
+      "rank": 0.644
     },
     {
       "id": "2775ee0dc24533d6",
@@ -3369,7 +4152,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.755
+      "rank": 0.629
     },
     {
       "id": "a0384064dea3a20f",
@@ -3388,7 +4171,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.754
+      "rank": 0.628
     },
     {
       "id": "ddb95c61a535c749",
@@ -3407,7 +4190,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.751
+      "rank": 0.626
     },
     {
       "id": "576d29469f053bde",
@@ -3426,7 +4209,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.745
+      "rank": 0.621
     },
     {
       "id": "0177ef12911d3825",
@@ -3445,7 +4228,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.741
+      "rank": 0.617
     },
     {
       "id": "0ccfb511c0c877ba",
@@ -3464,7 +4247,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.729
+      "rank": 0.608
     },
     {
       "id": "6e40d6043154dab3",
@@ -3483,7 +4266,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.729
+      "rank": 0.608
     },
     {
       "id": "a30f7fce38a46d5d",
@@ -3502,7 +4285,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.719
+      "rank": 0.599
     },
     {
       "id": "fc6b6a56df7b3650",
@@ -3524,7 +4307,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.702
+      "rank": 0.585
     },
     {
       "id": "8d8bc38f54a7d350",
@@ -3543,7 +4326,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.69
+      "rank": 0.575
     },
     {
       "id": "12149c8999a27fe5",
@@ -3562,7 +4345,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.69
+      "rank": 0.575
     },
     {
       "id": "b73105fe4ec5f060",
@@ -3581,7 +4364,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.685
+      "rank": 0.571
     },
     {
       "id": "927181826b8abf66",
@@ -3600,7 +4383,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.677
+      "rank": 0.564
     },
     {
       "id": "831ee70abf077ea9",
@@ -3619,7 +4402,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.672
+      "rank": 0.56
     },
     {
       "id": "8c999d6885d24711",
@@ -3638,7 +4421,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.669
+      "rank": 0.558
     },
     {
       "id": "d2296a64c0dc3b89",
@@ -3657,7 +4440,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.669
+      "rank": 0.558
     },
     {
       "id": "416d511596b938c6",
@@ -3676,7 +4459,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.667
+      "rank": 0.556
     },
     {
       "id": "e6df1e705a6d6026",
@@ -3695,7 +4478,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.666
+      "rank": 0.555
     },
     {
       "id": "d2e0003308f41c4f",
@@ -3714,7 +4497,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.633
+      "rank": 0.528
     },
     {
       "id": "52c1a0c9377c6505",
@@ -3733,7 +4516,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.629
+      "rank": 0.524
     },
     {
       "id": "f6b29b4e2ab3b1b9",
@@ -3754,7 +4537,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.624
+      "rank": 0.52
     },
     {
       "id": "02e4a20d191af380",
@@ -3773,7 +4556,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.62
+      "rank": 0.517
     },
     {
       "id": "f29d4062b1cd5790",
@@ -3793,7 +4576,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.606
+      "rank": 0.505
     },
     {
       "id": "f724697ad4799a39",
@@ -3812,7 +4595,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.605
+      "rank": 0.504
     },
     {
       "id": "e28ff692f1183bac",
@@ -3831,7 +4614,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.605
+      "rank": 0.504
     },
     {
       "id": "66ed14c6418f09b7",
@@ -3850,7 +4633,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.593
+      "rank": 0.494
     },
     {
       "id": "14f6b8b420073dc3",
@@ -3869,7 +4652,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.584
+      "rank": 0.487
     },
     {
       "id": "2855a6dd0b52b57a",
@@ -3888,7 +4671,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.562
+      "rank": 0.468
     },
     {
       "id": "7e343cb607009fdc",
@@ -3907,7 +4690,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.544
+      "rank": 0.453
     },
     {
       "id": "5175b6a2b765750a",
@@ -3926,7 +4709,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.512
+      "rank": 0.427
     },
     {
       "id": "7737e173e31a5988",
@@ -3945,7 +4728,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.511
+      "rank": 0.425
     },
     {
       "id": "a5749ddac12322df",
@@ -3964,7 +4747,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.511
+      "rank": 0.425
     },
     {
       "id": "dfad3e6674c2521c",
@@ -3983,7 +4766,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.508
+      "rank": 0.423
     },
     {
       "id": "4e3e5904c85ae763",
@@ -4002,7 +4785,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.498
+      "rank": 0.415
     },
     {
       "id": "c0a7d49575128b5d",
@@ -4021,7 +4804,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.496
+      "rank": 0.413
     },
     {
       "id": "0bbf517ca2cff024",
@@ -4040,7 +4823,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.488
+      "rank": 0.406
     },
     {
       "id": "f8c1a7370c130fe5",
@@ -4059,7 +4842,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.474
+      "rank": 0.395
     },
     {
       "id": "46ecb159c1535b09",
@@ -4078,7 +4861,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.473
+      "rank": 0.394
     },
     {
       "id": "f7afa1dd4ce8d146",
@@ -4097,7 +4880,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.463
+      "rank": 0.386
     },
     {
       "id": "369640935efcece9",
@@ -4116,7 +4899,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.463
+      "rank": 0.385
     },
     {
       "id": "571fb0494bf3f24f",
@@ -4135,7 +4918,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.448
+      "rank": 0.374
     },
     {
       "id": "5ca4dc7b6d88cb31",
@@ -4154,7 +4937,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.447
+      "rank": 0.372
     },
     {
       "id": "c012fc7ecd62b33e",
@@ -4173,7 +4956,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.445
+      "rank": 0.371
     },
     {
       "id": "01a8528fa117926a",
@@ -4192,7 +4975,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.434
+      "rank": 0.362
     },
     {
       "id": "e18f58ec7dc7acb9",
@@ -4211,7 +4994,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.433
+      "rank": 0.361
     },
     {
       "id": "7739f93bab443e21",
@@ -4230,7 +5013,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.426
+      "rank": 0.355
     },
     {
       "id": "eec6217882176ba1",
@@ -4249,7 +5032,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.424
+      "rank": 0.354
     },
     {
       "id": "5d01611fd6de2935",
@@ -4268,7 +5051,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.422
+      "rank": 0.352
     },
     {
       "id": "6fcd75d626ddcf98",
@@ -4287,7 +5070,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.422
+      "rank": 0.352
     },
     {
       "id": "418d10f93d4edba8",
@@ -4307,7 +5090,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.413
+      "rank": 0.344
     },
     {
       "id": "cd0c3adea5a38d8b",
@@ -4326,7 +5109,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.412
+      "rank": 0.343
     },
     {
       "id": "3588ceed41552e46",
@@ -4345,7 +5128,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.41
+      "rank": 0.341
     },
     {
       "id": "4546981095085026",
@@ -4364,7 +5147,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.409
+      "rank": 0.341
     },
     {
       "id": "a548f4bc427db034",
@@ -4383,7 +5166,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.404
+      "rank": 0.337
     },
     {
       "id": "9a6164117272b000",
@@ -4402,7 +5185,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.401
+      "rank": 0.334
     },
     {
       "id": "82110824f2abb129",
@@ -4421,7 +5204,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.398
+      "rank": 0.331
     },
     {
       "id": "58426d8e2b3863d2",
@@ -4440,7 +5223,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.397
+      "rank": 0.331
     },
     {
       "id": "724fae9251483a53",
@@ -4459,7 +5242,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.396
+      "rank": 0.33
     },
     {
       "id": "3229de0d919212c3",
@@ -4478,7 +5261,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.396
+      "rank": 0.33
     },
     {
       "id": "1484bc2b220d4e0d",
@@ -4497,7 +5280,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.395
+      "rank": 0.33
     },
     {
       "id": "a8cc20c7d5a48243",
@@ -4516,7 +5299,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.376
+      "rank": 0.313
     },
     {
       "id": "a27532638c556bde",
@@ -4535,7 +5318,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.353
+      "rank": 0.294
     },
     {
       "id": "7da1b2b4758f6148",
@@ -4554,7 +5337,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.351
+      "rank": 0.292
     },
     {
       "id": "252a67cf93cb8c8f",
@@ -4573,7 +5356,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.35
+      "rank": 0.292
     },
     {
       "id": "1ff74ee2cb106637",
@@ -4592,7 +5375,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.335
+      "rank": 0.279
     },
     {
       "id": "2934d7cd62fe7050",
@@ -4611,7 +5394,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.332
+      "rank": 0.277
     },
     {
       "id": "534e23320d33a495",
@@ -4630,7 +5413,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.329
+      "rank": 0.274
     },
     {
       "id": "de5b3076bff447f1",
@@ -4649,7 +5432,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.328
+      "rank": 0.273
     },
     {
       "id": "9c331579e229757a",
@@ -4668,7 +5451,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.29
+      "rank": 0.241
     },
     {
       "id": "255b56db4a4a44d0",
@@ -4687,7 +5470,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.272
+      "rank": 0.226
     },
     {
       "id": "458bb1a34baf1a65",
@@ -4706,7 +5489,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.268
+      "rank": 0.223
     },
     {
       "id": "35743bc665289905",
@@ -4725,7 +5508,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.266
+      "rank": 0.221
     },
     {
       "id": "057e22ab69c04fb1",
@@ -4744,7 +5527,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.259
+      "rank": 0.216
     },
     {
       "id": "1b18e8c9acf73639",
@@ -4763,7 +5546,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.259
+      "rank": 0.216
     },
     {
       "id": "ffe8a09e969fa29a",
@@ -4782,7 +5565,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.256
+      "rank": 0.213
     },
     {
       "id": "5aa2811f45ceef64",
@@ -4801,7 +5584,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.255
+      "rank": 0.213
     },
     {
       "id": "23b94c697622500f",
@@ -4820,7 +5603,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.249
+      "rank": 0.208
     },
     {
       "id": "932fe34bad728f30",
@@ -4839,7 +5622,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.249
+      "rank": 0.208
     },
     {
       "id": "831bd9db6c4fa670",
@@ -4858,7 +5641,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.246
+      "rank": 0.205
     },
     {
       "id": "f37b680abcf7adcb",
@@ -4877,7 +5660,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.244
+      "rank": 0.203
     },
     {
       "id": "7b1451fc786c34f9",
@@ -4896,7 +5679,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.241
+      "rank": 0.2
     },
     {
       "id": "8ceada5f95028093",
@@ -4915,7 +5698,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.232
+      "rank": 0.193
     },
     {
       "id": "5d33272291219c49",
@@ -4934,7 +5717,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.232
+      "rank": 0.193
     },
     {
       "id": "9d9fe975c63c20bc",
@@ -4953,7 +5736,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.231
+      "rank": 0.193
     },
     {
       "id": "2969b0807146033c",
@@ -4972,7 +5755,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.214
+      "rank": 0.179
     },
     {
       "id": "f0a7364ef803e186",
@@ -4991,7 +5774,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.209
+      "rank": 0.174
     },
     {
       "id": "1a46264ab61ddf35",
@@ -5010,7 +5793,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.203
+      "rank": 0.169
     },
     {
       "id": "da795f2924119e2e",
@@ -5029,7 +5812,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.199
+      "rank": 0.166
     },
     {
       "id": "e32955d193042fab",
@@ -5048,7 +5831,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.197
+      "rank": 0.164
     },
     {
       "id": "7e4af76a8edc072c",
@@ -5067,7 +5850,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.185
+      "rank": 0.154
     },
     {
       "id": "05bd9f0351a0c3a2",
@@ -5086,7 +5869,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.177
+      "rank": 0.148
     }
   ]
 }
