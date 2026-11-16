@@ -7,7 +7,8 @@ import { useFeed } from './hooks/useFeed';
 import { filterItems, viewCounts, type View } from './lib/filter';
 import { hoursSince } from './lib/time';
 
-const STALE_AFTER_HOURS = 6;
+// GitHub delays scheduled workflows under load: real gaps between runs were 6-10h, so a 6h threshold showed the banner constantly.
+const STALE_AFTER_HOURS = 12;
 const EMPTY_FEED_ITEMS: never[] = [];
 
 export default function App() {
