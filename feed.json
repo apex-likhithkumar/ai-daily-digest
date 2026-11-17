@@ -1,6 +1,321 @@
 {
-  "generatedAt": "2026-11-17T03:50:13.102Z",
+  "generatedAt": "2026-11-17T15:57:19.806Z",
   "items": [
+    {
+      "id": "3b8e320f7d2acebe",
+      "title": "everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T14:26:03.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.785
+    },
+    {
+      "id": "df92921082e9f46d",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.669
+    },
+    {
+      "id": "069078b2b4e3b49a",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T10:20:40.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.082
+    },
+    {
+      "id": "fe5458ef4ec8ffa7",
+      "title": "[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T13:48:41.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.196
+    },
+    {
+      "id": "114f285b26b81e69",
+      "title": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T13:33:05.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.172
+    },
+    {
+      "id": "ed47f6db4915840c",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:50:58.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.099
+    },
+    {
+      "id": "98ef486c7d4edc83",
+      "title": "Research Reports",
+      "url": "https://technologyreview.com/2026/11/17/1148203/research-reports",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:39:46.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.083
+    },
+    {
+      "id": "6755813e5cbe36f0",
+      "title": "Science Corporation&#8217;s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:26:46.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.063
+    },
+    {
+      "id": "32f8d5504c1bca9c",
+      "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T12:02:09.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.036
+    },
+    {
+      "id": "2a8f3e96bb721abc",
+      "title": "Nvidia&#8217;s first big move after Jensen Huang&#8217;s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:05:30.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.032
+    },
+    {
+      "id": "47464bcdd529060b",
+      "title": "Spotify&#8217;s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.024
+    },
+    {
+      "id": "8c82fb18b1997b12",
+      "title": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T11:34:46.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.996
+    },
+    {
+      "id": "09d8dd31391c32c8",
+      "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T04:04:39.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.98
+    },
+    {
+      "id": "d219ebc99cf95704",
+      "title": "Hugging Face switched its language model inference routing to OpenRouter",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T03:16:54.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.913
+    },
+    {
+      "id": "8c5b4e01285e983d",
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T12:21:57.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.885
+    },
     {
       "id": "c9c5a9f419118c3f",
       "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
@@ -20,7 +335,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.076
+      "rank": 2.873
     },
     {
       "id": "94ec9ff9d4729a9e",
@@ -41,7 +356,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.067
+      "rank": 2.866
     },
     {
       "id": "0761da68e54fd0db",
@@ -62,7 +377,92 @@
       "labels": [
         "today"
       ],
-      "rank": 4.043
+      "rank": 2.849
+    },
+    {
+      "id": "590cb0b9c5dd23f2",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.775
+    },
+    {
+      "id": "58da9c66b1456ac9",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.775
+    },
+    {
+      "id": "a70cae4c16f0fdc6",
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T18:40:04.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.704
+    },
+    {
+      "id": "d4875a92aea85dac",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T01:35:16.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.641
     },
     {
       "id": "773cc78ee17a9631",
@@ -84,7 +484,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.681
+      "rank": 2.594
     },
     {
       "id": "9567fc17c1fdcddf",
@@ -105,7 +505,91 @@
       "labels": [
         "today"
       ],
-      "rank": 3.641
+      "rank": 2.566
+    },
+    {
+      "id": "c5889c25eb98be1b",
+      "title": "SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T15:14:24.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.547
+    },
+    {
+      "id": "7477ce2bcc916b0a",
+      "title": "OVH announces Olala mini 7A1B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T10:14:35.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 3,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.544
+    },
+    {
+      "id": "7fbae503f1fb4b3a",
+      "title": "Are those that advocate against open weight models public enemy #1 ?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T14:18:43.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.479
+    },
+    {
+      "id": "e86a87f3e04452b0",
+      "title": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T04:35:28.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.449
     },
     {
       "id": "51273f0e0cc7ceef",
@@ -126,7 +610,112 @@
       "labels": [
         "today"
       ],
-      "rank": 3.384
+      "rank": 2.385
+    },
+    {
+      "id": "7fa007a918edb437",
+      "title": "Gemma on a printer",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T12:48:09.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.374
+    },
+    {
+      "id": "fba921a586ecf039",
+      "title": "Your daily dose of Qwopium:",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T23:36:36.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 5,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.37
+    },
+    {
+      "id": "0d4396ccbaa3455d",
+      "title": "GPU prices - Big \"discounts\"",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T12:15:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.336
+    },
+    {
+      "id": "05f5c2153dbc8552",
+      "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T11:29:34.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.286
+    },
+    {
+      "id": "3ad115755ec36d30",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T20:29:48.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.28
     },
     {
       "id": "f26f2a4dfd6b9b95",
@@ -147,7 +736,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.218
+      "rank": 2.267
     },
     {
       "id": "b1c71d07875ac772",
@@ -168,7 +757,48 @@
       "labels": [
         "today"
       ],
-      "rank": 3.218
+      "rank": 2.267
+    },
+    {
+      "id": "8129f68e260304e7",
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T12:10:36.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 8,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [],
+      "rank": 2.242
+    },
+    {
+      "id": "ee7c95d2a97bf5e2",
+      "title": "AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.cpp.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T17:10:54.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 6,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.176
     },
     {
       "id": "c24f64cfec57e23b",
@@ -189,7 +819,26 @@
       "labels": [
         "today"
       ],
-      "rank": 3.075
+      "rank": 2.167
+    },
+    {
+      "id": "f054a54f8228cfac",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T09:30:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [],
+      "rank": 2.158
     },
     {
       "id": "c9fb733c0d267542",
@@ -210,7 +859,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.015
+      "rank": 2.125
+    },
+    {
+      "id": "887a9d54e326095b",
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T01:18:56.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.097
     },
     {
       "id": "0bc322583e6f0775",
@@ -228,10 +898,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.951
+      "labels": [],
+      "rank": 2.079
     },
     {
       "id": "bec78e9702b1517e",
@@ -252,7 +920,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.827
+      "rank": 1.992
     },
     {
       "id": "7381db88317ca659",
@@ -270,10 +938,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.818
+      "labels": [],
+      "rank": 1.986
     },
     {
       "id": "c267813b00db4e00",
@@ -294,7 +960,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.806
+      "rank": 1.978
     },
     {
       "id": "91e58e2ea930c2fa",
@@ -312,10 +978,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.786
+      "labels": [],
+      "rank": 1.963
     },
     {
       "id": "f891bd93f3d21469",
@@ -333,10 +997,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.785
+      "labels": [],
+      "rank": 1.962
     },
     {
       "id": "81bd7f76e2a9d5f3",
@@ -357,7 +1019,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.781
+      "rank": 1.959
+    },
+    {
+      "id": "660f46fff0b603b4",
+      "title": "DSpine - Updates on PR & GGUFs",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-17T06:03:25.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.954
     },
     {
       "id": "d218f9a95b85493a",
@@ -378,7 +1061,49 @@
       "labels": [
         "today"
       ],
-      "rank": 2.761
+      "rank": 1.945
+    },
+    {
+      "id": "77b4f68a8ed7ce4e",
+      "title": "Best MoE engine?",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T20:31:36.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.94
+    },
+    {
+      "id": "52003d9b3559a3a6",
+      "title": "I am sick of doomposting about demise of local AI",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T20:01:18.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.912
     },
     {
       "id": "94350bd30999b348",
@@ -396,10 +1121,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
+      "labels": [],
+      "rank": 1.89
+    },
+    {
+      "id": "0ec449425e5c0993",
+      "title": "miHoYo Gamer: A Generalist Game Agent",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T19:11:42.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
       "labels": [
         "today"
       ],
-      "rank": 2.682
+      "rank": 1.867
     },
     {
       "id": "8c824024c9147b94",
@@ -420,7 +1164,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.633
+      "rank": 1.855
     },
     {
       "id": "dca31e1cbc0198f3",
@@ -441,7 +1185,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.603
+      "rank": 1.835
     },
     {
       "id": "9e970491d09ffa39",
@@ -459,10 +1203,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.597
+      "labels": [],
+      "rank": 1.83
     },
     {
       "id": "a7baa208561a2ac2",
@@ -483,7 +1225,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.588
+      "rank": 1.824
     },
     {
       "id": "f819d90d809da36c",
@@ -504,7 +1246,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.586
+      "rank": 1.823
     },
     {
       "id": "d4f453f89d8da08e",
@@ -522,10 +1264,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
+      "labels": [],
+      "rank": 1.819
+    },
+    {
+      "id": "ba33c9d72629ae8a",
+      "title": "nvidia/Nemotron-Labs-Sigma 8B/3B",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T18:06:03.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 3,
+      "relevance": 4,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
       "labels": [
         "today"
       ],
-      "rank": 2.581
+      "rank": 1.809
     },
     {
       "id": "21c8b2b44c9b90b8",
@@ -546,7 +1307,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.534
+      "rank": 1.786
     },
     {
       "id": "45451d9f3b42edbc",
@@ -567,7 +1328,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.509
+      "rank": 1.768
     },
     {
       "id": "1931521e6b01d440",
@@ -588,7 +1349,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.508
+      "rank": 1.767
     },
     {
       "id": "668b96b1a1259e1f",
@@ -609,7 +1370,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.494
+      "rank": 1.757
     },
     {
       "id": "ebd9eb94963902d2",
@@ -627,10 +1388,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.481
+      "labels": [],
+      "rank": 1.748
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -651,7 +1410,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.454
+      "rank": 1.729
     },
     {
       "id": "adc690e60e2014e6",
@@ -672,7 +1431,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.422
+      "rank": 1.706
     },
     {
       "id": "46f3af91286dc8db",
@@ -693,7 +1452,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.395
+      "rank": 1.688
     },
     {
       "id": "5166861594076bda",
@@ -711,10 +1470,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.383
+      "labels": [],
+      "rank": 1.679
     },
     {
       "id": "030a040e02b27922",
@@ -735,7 +1492,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.382
+      "rank": 1.678
     },
     {
       "id": "b4d0f21c2c604500",
@@ -756,7 +1513,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.373
+      "rank": 1.673
     },
     {
       "id": "e9a68a300e49f431",
@@ -775,10 +1532,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.358
+      "labels": [],
+      "rank": 1.662
     },
     {
       "id": "d3a67d4f7f1ae331",
@@ -799,7 +1554,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.351
+      "rank": 1.657
     },
     {
       "id": "7157ce3b54a8a376",
@@ -820,7 +1575,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.345
+      "rank": 1.652
     },
     {
       "id": "99f66f454c3bc11f",
@@ -841,7 +1596,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.343
+      "rank": 1.651
     },
     {
       "id": "b0ded74e06b06613",
@@ -859,10 +1614,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.342
+      "labels": [],
+      "rank": 1.65
     },
     {
       "id": "cfcc7acb02e9ca79",
@@ -880,10 +1633,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.342
+      "labels": [],
+      "rank": 1.65
     },
     {
       "id": "e3915f7e4cf071c4",
@@ -902,7 +1653,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
       "labels": [],
-      "rank": 2.327
+      "rank": 1.64
     },
     {
       "id": "853b24ff0d6ecd3f",
@@ -921,7 +1672,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
       "labels": [],
-      "rank": 2.327
+      "rank": 1.64
     },
     {
       "id": "3899b6e8ee3cc1f1",
@@ -940,7 +1691,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
       "labels": [],
-      "rank": 2.327
+      "rank": 1.64
     },
     {
       "id": "9a0a199ccf61e4f1",
@@ -958,10 +1709,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.298
+      "labels": [],
+      "rank": 1.619
     },
     {
       "id": "cc69239e629b14a0",
@@ -982,7 +1731,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.287
+      "rank": 1.612
     },
     {
       "id": "b2955c38ff71d9a1",
@@ -1003,7 +1752,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.278
+      "rank": 1.606
     },
     {
       "id": "ecf75091a6e7b0bd",
@@ -1021,10 +1770,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.278
+      "labels": [],
+      "rank": 1.605
     },
     {
       "id": "6516c66961953bb6",
@@ -1042,10 +1789,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.265
+      "labels": [],
+      "rank": 1.596
     },
     {
       "id": "f978b1cf70930b8f",
@@ -1063,10 +1808,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.26
+      "labels": [],
+      "rank": 1.593
     },
     {
       "id": "c636885b9662b9ce",
@@ -1084,10 +1827,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.259
+      "labels": [],
+      "rank": 1.592
     },
     {
       "id": "772ccdf8e8c79868",
@@ -1105,10 +1846,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.211
+      "labels": [],
+      "rank": 1.558
     },
     {
       "id": "87d7014c15ee68a3",
@@ -1127,7 +1866,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 2.197
+      "rank": 1.548
     },
     {
       "id": "5c136724c0dea211",
@@ -1145,10 +1884,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.196
+      "labels": [],
+      "rank": 1.548
     },
     {
       "id": "6f2a9b6c6347bf67",
@@ -1166,10 +1903,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.175
+      "labels": [],
+      "rank": 1.533
     },
     {
       "id": "7cc4bd0d8db8c788",
@@ -1187,10 +1922,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.161
+      "labels": [],
+      "rank": 1.523
     },
     {
       "id": "b03813f2b2da7281",
@@ -1208,10 +1941,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.146
+      "labels": [],
+      "rank": 1.512
     },
     {
       "id": "77b6f3085a667983",
@@ -1229,10 +1960,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.127
+      "labels": [],
+      "rank": 1.499
     },
     {
       "id": "6e8e373b592761d8",
@@ -1250,10 +1979,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.085
+      "labels": [],
+      "rank": 1.469
     },
     {
       "id": "11cf973c0d595b96",
@@ -1271,10 +1998,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
+      "labels": [],
+      "rank": 1.469
+    },
+    {
+      "id": "6fcddfcae5f8e1a8",
+      "title": "I don't get all the Strata hates around here",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T19:45:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
       "labels": [
         "today"
       ],
-      "rank": 2.085
+      "rank": 1.451
     },
     {
       "id": "fcbaf2152a3da36d",
@@ -1292,10 +2038,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.055
+      "labels": [],
+      "rank": 1.448
     },
     {
       "id": "2a43afa38e944943",
@@ -1313,10 +2057,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
+      "labels": [],
+      "rank": 1.426
+    },
+    {
+      "id": "3225d53d50a70bbc",
+      "title": "Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T18:55:18.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
       "labels": [
         "today"
       ],
-      "rank": 2.024
+      "rank": 1.416
     },
     {
       "id": "18addbe0f795d115",
@@ -1337,7 +2100,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.994
+      "rank": 1.405
     },
     {
       "id": "a40405858299f9af",
@@ -1355,10 +2118,29 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
+      "labels": [],
+      "rank": 1.404
+    },
+    {
+      "id": "98cdaa98b0d935f3",
+      "title": "[NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model!",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next",
+      "sources": [
+        "r/LocalLLaMA"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T17:59:17.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "",
+      "scoredBy": "fallback",
+      "firstSeenAt": "2026-11-17T15:57:19.806Z",
       "labels": [
         "today"
       ],
-      "rank": 1.992
+      "rank": 1.379
     },
     {
       "id": "ee80689b6ade72b2",
@@ -1379,7 +2161,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.923
+      "rank": 1.355
     },
     {
       "id": "d0270849a506a4c1",
@@ -1398,7 +2180,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.885
+      "rank": 1.329
     },
     {
       "id": "4b0fc5b701ffd77d",
@@ -1417,7 +2199,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.859
+      "rank": 1.31
     },
     {
       "id": "43916558be0e93ec",
@@ -1435,10 +2217,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.805
+      "labels": [],
+      "rank": 1.272
     },
     {
       "id": "8148552b8a3c54fd",
@@ -1456,10 +2236,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.8
+      "labels": [],
+      "rank": 1.269
     },
     {
       "id": "1d62aa49050e7bfd",
@@ -1478,7 +2256,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.763
+      "rank": 1.242
     },
     {
       "id": "333a9a9a9fcc8cdc",
@@ -1498,7 +2276,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
       "labels": [],
-      "rank": 1.759
+      "rank": 1.239
     },
     {
       "id": "a218656f75dde9f6",
@@ -1516,10 +2294,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.751
+      "labels": [],
+      "rank": 1.234
     },
     {
       "id": "bf64a855e56dc3a3",
@@ -1537,10 +2313,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.74
+      "labels": [],
+      "rank": 1.226
     },
     {
       "id": "b7059d23fb76d1c2",
@@ -1558,10 +2332,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.726
+      "labels": [],
+      "rank": 1.217
     },
     {
       "id": "73da86d2fb4a310a",
@@ -1579,10 +2351,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.719
+      "labels": [],
+      "rank": 1.211
     },
     {
       "id": "d9a15b4078d3c98e",
@@ -1600,10 +2370,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.695
+      "labels": [],
+      "rank": 1.195
     },
     {
       "id": "09862cd7036c6133",
@@ -1622,7 +2390,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.683
+      "rank": 1.186
     },
     {
       "id": "294a13221fad339b",
@@ -1641,7 +2409,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.65
+      "rank": 1.163
     },
     {
       "id": "53d52b29b85fc593",
@@ -1659,10 +2427,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.631
+      "labels": [],
+      "rank": 1.149
     },
     {
       "id": "7f5f083dfa584131",
@@ -1680,10 +2446,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.59
+      "labels": [],
+      "rank": 1.121
     },
     {
       "id": "c476868ebd90d1d8",
@@ -1701,10 +2465,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.59
+      "labels": [],
+      "rank": 1.12
     },
     {
       "id": "3e15059a8a56fe59",
@@ -1722,10 +2484,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.577
+      "labels": [],
+      "rank": 1.111
     },
     {
       "id": "bfce57e293c4d3d7",
@@ -1744,7 +2504,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.558
+      "rank": 1.098
     },
     {
       "id": "0907fbf8de485d00",
@@ -1763,7 +2523,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.557
+      "rank": 1.097
     },
     {
       "id": "0f1cff2b9c213848",
@@ -1781,10 +2541,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.55
+      "labels": [],
+      "rank": 1.092
     },
     {
       "id": "327577bff8929d57",
@@ -1803,7 +2561,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.493
+      "rank": 1.052
     },
     {
       "id": "c650c89a876a2c67",
@@ -1822,7 +2580,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.485
+      "rank": 1.046
     },
     {
       "id": "fa6009f8b1e812b7",
@@ -1841,7 +2599,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.464
+      "rank": 1.032
     },
     {
       "id": "83b3b2200438f294",
@@ -1860,7 +2618,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.447
+      "rank": 1.02
     },
     {
       "id": "fc91828979fbf24c",
@@ -1879,7 +2637,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.412
+      "rank": 0.995
     },
     {
       "id": "81dddff09c62a0b0",
@@ -1897,10 +2655,8 @@
       "whyItMatters": "",
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.405
+      "labels": [],
+      "rank": 0.99
     },
     {
       "id": "13facb3dedb9af98",
@@ -1919,7 +2675,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.395
+      "rank": 0.983
     },
     {
       "id": "11c0f4326c33684d",
@@ -1938,7 +2694,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.379
+      "rank": 0.971
     },
     {
       "id": "371daa6c48bb6a42",
@@ -1957,7 +2713,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.363
+      "rank": 0.961
     },
     {
       "id": "28631383103972f6",
@@ -1976,7 +2732,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.359
+      "rank": 0.958
     },
     {
       "id": "2cb612de9116082a",
@@ -1995,7 +2751,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.35
+      "rank": 0.951
     },
     {
       "id": "0ae485d0fe26cc5a",
@@ -2014,7 +2770,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.303
+      "rank": 0.918
     },
     {
       "id": "1a811a22b701406e",
@@ -2033,7 +2789,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.289
+      "rank": 0.908
     },
     {
       "id": "b4260db782b8f2ad",
@@ -2052,7 +2808,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.288
+      "rank": 0.908
     },
     {
       "id": "aded4406ca76a14a",
@@ -2071,7 +2827,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.275
+      "rank": 0.899
     },
     {
       "id": "950ac38f23f2d5a7",
@@ -2090,7 +2846,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 1.274
+      "rank": 0.898
     },
     {
       "id": "47b57b00d8353101",
@@ -2109,7 +2865,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.269
+      "rank": 0.895
     },
     {
       "id": "fcdc7db4b4da1e11",
@@ -2128,7 +2884,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.269
+      "rank": 0.895
     },
     {
       "id": "024802442c5a3f86",
@@ -2147,7 +2903,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.249
+      "rank": 0.88
     },
     {
       "id": "76ba7c25ffe346b7",
@@ -2166,7 +2922,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.24
+      "rank": 0.874
     },
     {
       "id": "896c6f4d572a2f68",
@@ -2186,7 +2942,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.235
+      "rank": 0.87
     },
     {
       "id": "06396b67b414cccd",
@@ -2206,7 +2962,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 1.21
+      "rank": 0.853
     },
     {
       "id": "9bffc2ea3711843a",
@@ -2225,7 +2981,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.2
+      "rank": 0.845
     },
     {
       "id": "81d388bb70bd7b81",
@@ -2244,7 +3000,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.194
+      "rank": 0.841
     },
     {
       "id": "6495c9c2076f9f28",
@@ -2263,7 +3019,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 1.168
+      "rank": 0.823
     },
     {
       "id": "e99985acb7c94c98",
@@ -2282,7 +3038,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.139
+      "rank": 0.803
     },
     {
       "id": "af206fb2ed9bd6fd",
@@ -2301,7 +3057,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.101
+      "rank": 0.776
     },
     {
       "id": "eb675a228a01b602",
@@ -2320,7 +3076,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 1.062
+      "rank": 0.748
     },
     {
       "id": "6fdb9cf64c8f5904",
@@ -2339,7 +3095,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 1.042
+      "rank": 0.735
     },
     {
       "id": "6e09eb3c54ce7719",
@@ -2358,7 +3114,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 1.03
+      "rank": 0.726
     },
     {
       "id": "7421d0b88afec836",
@@ -2377,7 +3133,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.993
+      "rank": 0.699
     },
     {
       "id": "743df5f4d175f14c",
@@ -2396,7 +3152,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 0.988
+      "rank": 0.696
     },
     {
       "id": "1278034560fb117a",
@@ -2415,7 +3171,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.972
+      "rank": 0.685
     },
     {
       "id": "cea3f174f4c69a3c",
@@ -2434,7 +3190,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 0.968
+      "rank": 0.682
     },
     {
       "id": "16de5ad1f961f2f5",
@@ -2453,7 +3209,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 0.937
+      "rank": 0.66
     },
     {
       "id": "244834c218660387",
@@ -2472,7 +3228,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.904
+      "rank": 0.637
     },
     {
       "id": "e6c323ceba462eb7",
@@ -2491,7 +3247,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.893
+      "rank": 0.629
     },
     {
       "id": "5f2eea2e01a384b6",
@@ -2510,7 +3266,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.862
+      "rank": 0.607
     },
     {
       "id": "1b79e94f80adc8aa",
@@ -2529,7 +3285,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 0.847
+      "rank": 0.597
     },
     {
       "id": "9e0f1b4bc4e9bc03",
@@ -2548,7 +3304,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.831
+      "rank": 0.586
     },
     {
       "id": "9a79a2981ea382af",
@@ -2568,7 +3324,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-17T03:50:13.102Z",
       "labels": [],
-      "rank": 0.831
+      "rank": 0.586
     },
     {
       "id": "52b1615201d400a3",
@@ -2587,7 +3343,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 0.824
+      "rank": 0.581
     },
     {
       "id": "566e0aa6e9c6aecd",
@@ -2606,7 +3362,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.824
+      "rank": 0.581
     },
     {
       "id": "e082643fcc6967dc",
@@ -2625,7 +3381,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.808
+      "rank": 0.569
     },
     {
       "id": "fa6f9a523c4f0651",
@@ -2645,7 +3401,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T10:45:42.324Z",
       "labels": [],
-      "rank": 0.795
+      "rank": 0.561
     },
     {
       "id": "dbfc348e99df2020",
@@ -2664,7 +3420,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.783
+      "rank": 0.552
     },
     {
       "id": "b143470fe2eb86e0",
@@ -2683,7 +3439,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.764
+      "rank": 0.538
     },
     {
       "id": "10d2418aa1cf9b35",
@@ -2702,7 +3458,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 0.756
+      "rank": 0.533
     },
     {
       "id": "ea81bb2d88846ba1",
@@ -2721,7 +3477,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T06:24:08.251Z",
       "labels": [],
-      "rank": 0.755
+      "rank": 0.532
     },
     {
       "id": "b6f34700b44ae204",
@@ -2740,7 +3496,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 0.75
+      "rank": 0.528
     },
     {
       "id": "b9d0ec1ec561e777",
@@ -2759,7 +3515,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.748
+      "rank": 0.527
     },
     {
       "id": "b08cefd9996dfc5a",
@@ -2778,7 +3534,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.742
+      "rank": 0.523
     },
     {
       "id": "d54e0c0fdbb8829b",
@@ -2797,7 +3553,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.733
+      "rank": 0.516
     },
     {
       "id": "cdf34d438f124e67",
@@ -2816,7 +3572,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.719
+      "rank": 0.507
     },
     {
       "id": "9a736294c460795d",
@@ -2835,7 +3591,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.67
+      "rank": 0.472
     },
     {
       "id": "1cd6c3ec19d73653",
@@ -2854,7 +3610,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.663
+      "rank": 0.467
     },
     {
       "id": "269538539beff671",
@@ -2873,7 +3629,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.658
+      "rank": 0.464
     },
     {
       "id": "e60c0908d6fe14ae",
@@ -2892,7 +3648,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.627
+      "rank": 0.442
     },
     {
       "id": "f75972f3ff87c8ba",
@@ -2911,7 +3667,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.612
+      "rank": 0.431
     },
     {
       "id": "e62a4b7d2357a900",
@@ -2930,7 +3686,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.598
+      "rank": 0.421
     },
     {
       "id": "d8042cbd2f3f4a14",
@@ -2949,7 +3705,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 0.582
+      "rank": 0.41
     },
     {
       "id": "2a2bfff1121f561b",
@@ -2968,7 +3724,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.578
+      "rank": 0.407
     },
     {
       "id": "616c0f4e0d4a9dd4",
@@ -2987,7 +3743,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T06:25:14.848Z",
       "labels": [],
-      "rank": 0.569
+      "rank": 0.401
     },
     {
       "id": "c000445cd74bf122",
@@ -3006,7 +3762,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.568
+      "rank": 0.401
     },
     {
       "id": "9b08084c1635df93",
@@ -3025,7 +3781,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.563
+      "rank": 0.397
     },
     {
       "id": "60996e7ae28a904a",
@@ -3045,7 +3801,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-16T19:34:30.370Z",
       "labels": [],
-      "rank": 0.563
+      "rank": 0.397
     },
     {
       "id": "19d3409769297d89",
@@ -3064,7 +3820,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.552
+      "rank": 0.389
     },
     {
       "id": "a9dc79e6aa5b9d32",
@@ -3083,7 +3839,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.544
+      "rank": 0.384
     },
     {
       "id": "e0d2c72bbcbc5888",
@@ -3102,7 +3858,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.541
+      "rank": 0.381
     },
     {
       "id": "8f2daa11c5051ada",
@@ -3121,7 +3877,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.539
+      "rank": 0.38
     },
     {
       "id": "3f060b226b666014",
@@ -3140,7 +3896,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.539
+      "rank": 0.38
     },
     {
       "id": "5bfa2e37b7da2747",
@@ -3159,7 +3915,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.538
+      "rank": 0.379
     },
     {
       "id": "4f4fa004eb68ba72",
@@ -3178,7 +3934,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.527
+      "rank": 0.371
     },
     {
       "id": "07afec2ab7fa6901",
@@ -3197,7 +3953,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.518
+      "rank": 0.365
     },
     {
       "id": "94d8e8d36570e022",
@@ -3216,7 +3972,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.514
+      "rank": 0.362
     },
     {
       "id": "517a4f65360f05c3",
@@ -3235,7 +3991,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.507
+      "rank": 0.357
     },
     {
       "id": "c46863c308104449",
@@ -3254,7 +4010,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.506
+      "rank": 0.357
     },
     {
       "id": "50082356b868c519",
@@ -3273,7 +4029,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.497
+      "rank": 0.35
     },
     {
       "id": "c049c8f471ab5be4",
@@ -3292,7 +4048,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.496
+      "rank": 0.349
     },
     {
       "id": "81edf0fb751b6510",
@@ -3311,7 +4067,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.49
+      "rank": 0.345
     },
     {
       "id": "38741df50e34ad24",
@@ -3330,7 +4086,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.473
+      "rank": 0.334
     },
     {
       "id": "5084daa6581f3d59",
@@ -3349,7 +4105,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.468
+      "rank": 0.33
     },
     {
       "id": "74288d6c5bd82cf7",
@@ -3368,7 +4124,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.466
+      "rank": 0.329
     },
     {
       "id": "386e99bc75891b4e",
@@ -3387,7 +4143,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.462
+      "rank": 0.325
     },
     {
       "id": "e504c61a39ac2d49",
@@ -3406,7 +4162,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.452
+      "rank": 0.318
     },
     {
       "id": "1b72f64791607b5c",
@@ -3425,7 +4181,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.446
+      "rank": 0.314
     },
     {
       "id": "bd63db1eed16cad0",
@@ -3444,7 +4200,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.443
+      "rank": 0.312
     },
     {
       "id": "135cf13301dcd74d",
@@ -3463,7 +4219,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.442
+      "rank": 0.311
     },
     {
       "id": "db2e460523131f5f",
@@ -3482,7 +4238,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.439
+      "rank": 0.31
     },
     {
       "id": "4d0c29e8f59af820",
@@ -3501,7 +4257,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.438
+      "rank": 0.308
     },
     {
       "id": "40e78db6601d46e6",
@@ -3520,7 +4276,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.437
+      "rank": 0.308
     },
     {
       "id": "056b1465da24b251",
@@ -3539,7 +4295,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.432
+      "rank": 0.304
     },
     {
       "id": "21ab7432dba474e0",
@@ -3558,7 +4314,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.43
+      "rank": 0.303
     },
     {
       "id": "33eeb2b9ea55fac5",
@@ -3577,7 +4333,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.428
+      "rank": 0.302
     },
     {
       "id": "41b9d660ec27f386",
@@ -3596,7 +4352,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.421
+      "rank": 0.297
     },
     {
       "id": "456080b7b5f6e9ee",
@@ -3615,7 +4371,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.418
+      "rank": 0.295
     },
     {
       "id": "c692ce1b4f8cfede",
@@ -3634,7 +4390,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.417
+      "rank": 0.294
     },
     {
       "id": "2427bacb74a96b4b",
@@ -3653,7 +4409,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.414
+      "rank": 0.292
     },
     {
       "id": "a33801e4ff465f4a",
@@ -3672,7 +4428,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.406
+      "rank": 0.286
     },
     {
       "id": "c347388e87ad9ef6",
@@ -3691,7 +4447,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.406
+      "rank": 0.286
     },
     {
       "id": "8400bdfe1e2afd49",
@@ -3710,7 +4466,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.403
+      "rank": 0.284
     },
     {
       "id": "1bd099ba94a31657",
@@ -3729,7 +4485,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.402
+      "rank": 0.284
     },
     {
       "id": "b2112fbbefb844e0",
@@ -3748,7 +4504,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T22:21:27.378Z",
       "labels": [],
-      "rank": 0.398
+      "rank": 0.28
     },
     {
       "id": "a05d08fd0b1ba6de",
@@ -3767,7 +4523,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.394
+      "rank": 0.278
     },
     {
       "id": "7e4a82aae5902afd",
@@ -3786,7 +4542,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.387
+      "rank": 0.273
     },
     {
       "id": "6c41dcbf34a2266d",
@@ -3805,7 +4561,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.385
+      "rank": 0.271
     },
     {
       "id": "773ec8d2db34b976",
@@ -3824,7 +4580,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.384
+      "rank": 0.271
     },
     {
       "id": "2de163979017a774",
@@ -3843,7 +4599,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.382
+      "rank": 0.269
     },
     {
       "id": "a114c8a499e5f08f",
@@ -3862,7 +4618,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.379
+      "rank": 0.267
     },
     {
       "id": "44da454e7900959c",
@@ -3881,7 +4637,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.362
+      "rank": 0.255
     },
     {
       "id": "43a8bca0b0770597",
@@ -3900,7 +4656,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.356
+      "rank": 0.251
     },
     {
       "id": "ad639fbc6552b9e9",
@@ -3919,7 +4675,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.345
+      "rank": 0.243
     },
     {
       "id": "6408269b99bf37fb",
@@ -3938,7 +4694,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.343
+      "rank": 0.242
     },
     {
       "id": "d5d184ada8e0b1bb",
@@ -3957,7 +4713,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.341
+      "rank": 0.24
     },
     {
       "id": "2d8033c89156b761",
@@ -3976,7 +4732,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.341
+      "rank": 0.24
     },
     {
       "id": "99d40623cf51112d",
@@ -3995,7 +4751,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.338
+      "rank": 0.238
     },
     {
       "id": "410e43ee9e80cc80",
@@ -4014,7 +4770,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.329
+      "rank": 0.232
     },
     {
       "id": "abc9750b7fe9f819",
@@ -4033,7 +4789,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.327
+      "rank": 0.23
     },
     {
       "id": "d450ad1a277fe530",
@@ -4052,7 +4808,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.326
+      "rank": 0.23
     },
     {
       "id": "2941826634cabf17",
@@ -4071,7 +4827,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.323
+      "rank": 0.228
     },
     {
       "id": "48a3214bd8ba72a8",
@@ -4090,7 +4846,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.315
+      "rank": 0.222
     },
     {
       "id": "4b5788c8e2161043",
@@ -4109,7 +4865,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.314
+      "rank": 0.221
     },
     {
       "id": "15feea836be2f2af",
@@ -4128,7 +4884,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.311
+      "rank": 0.219
     },
     {
       "id": "d1318183fe172893",
@@ -4147,7 +4903,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.31
+      "rank": 0.219
     },
     {
       "id": "f17748102e2c4282",
@@ -4166,7 +4922,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.307
+      "rank": 0.216
     },
     {
       "id": "25c39c4b8cc05b5d",
@@ -4185,7 +4941,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.303
+      "rank": 0.213
     },
     {
       "id": "22bcd83804c6c356",
@@ -4204,7 +4960,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.302
+      "rank": 0.213
     },
     {
       "id": "4a36f6adfa9f6485",
@@ -4223,7 +4979,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.3
+      "rank": 0.212
     },
     {
       "id": "e473304c12859b7b",
@@ -4243,7 +4999,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.291
+      "rank": 0.205
     },
     {
       "id": "3f3f7bf8b4b54f73",
@@ -4262,7 +5018,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.29
+      "rank": 0.204
     },
     {
       "id": "4fb62acd74c1c774",
@@ -4282,7 +5038,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.286
+      "rank": 0.202
     },
     {
       "id": "e05cb3b1495b1944",
@@ -4302,7 +5058,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.286
+      "rank": 0.202
     },
     {
       "id": "a4ef297b6d8f415f",
@@ -4322,7 +5078,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.286
+      "rank": 0.201
     },
     {
       "id": "4170bd017fe6c15b",
@@ -4342,7 +5098,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.286
+      "rank": 0.201
     },
     {
       "id": "db266b9ed87d7e2f",
@@ -4362,7 +5118,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.285
+      "rank": 0.201
     },
     {
       "id": "d9006d3b1f354a9f",
@@ -4382,7 +5138,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.285
+      "rank": 0.201
     },
     {
       "id": "4e379f6cb9d33e5a",
@@ -4401,7 +5157,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.284
+      "rank": 0.2
     },
     {
       "id": "f1dda081ead78521",
@@ -4420,7 +5176,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.281
+      "rank": 0.198
     },
     {
       "id": "5d09d1e98e76f00d",
@@ -4439,7 +5195,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.274
+      "rank": 0.193
     },
     {
       "id": "025a6c711bf81c35",
@@ -4458,7 +5214,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.274
+      "rank": 0.193
     },
     {
       "id": "b823197f6cfec895",
@@ -4477,7 +5233,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.274
+      "rank": 0.193
     },
     {
       "id": "a8d5fa7d24b3647f",
@@ -4499,7 +5255,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.273
+      "rank": 0.192
     },
     {
       "id": "4f31dbe9014ddf9a",
@@ -4518,7 +5274,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.272
+      "rank": 0.192
     },
     {
       "id": "87c4205595694d85",
@@ -4537,7 +5293,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.272
+      "rank": 0.191
     },
     {
       "id": "e794082680bd704a",
@@ -4556,7 +5312,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.265
+      "rank": 0.187
     },
     {
       "id": "e4d1c656df3fa2a2",
@@ -4575,7 +5331,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.262
+      "rank": 0.184
     },
     {
       "id": "c61b055996097ee4",
@@ -4594,7 +5350,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.261
+      "rank": 0.184
     },
     {
       "id": "e00ed907e42f1c2a",
@@ -4613,7 +5369,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.26
+      "rank": 0.183
     },
     {
       "id": "372847c9499451eb",
@@ -4632,7 +5388,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.259
+      "rank": 0.183
     },
     {
       "id": "69b43a95305bbe20",
@@ -4651,7 +5407,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.257
+      "rank": 0.181
     },
     {
       "id": "f41c719b0c126243",
@@ -4670,7 +5426,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.253
+      "rank": 0.178
     },
     {
       "id": "a6a993556e14c421",
@@ -4689,7 +5445,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T22:46:55.801Z",
       "labels": [],
-      "rank": 0.253
+      "rank": 0.178
     },
     {
       "id": "a88bddb17214a029",
@@ -4708,7 +5464,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.253
+      "rank": 0.178
     },
     {
       "id": "44b701950cb62925",
@@ -4728,7 +5484,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.247
+      "rank": 0.174
     },
     {
       "id": "6d0f1469bd9c4bc1",
@@ -4748,7 +5504,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.245
+      "rank": 0.173
     },
     {
       "id": "b3c84623c44d3655",
@@ -4767,7 +5523,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.245
+      "rank": 0.173
     },
     {
       "id": "ad614f81e42f72e5",
@@ -4786,7 +5542,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.245
+      "rank": 0.172
     },
     {
       "id": "bff35e42cfcf8b2b",
@@ -4806,7 +5562,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-15T16:20:25.548Z",
       "labels": [],
-      "rank": 0.241
+      "rank": 0.17
     },
     {
       "id": "589208bfa2b537f5",
@@ -4825,7 +5581,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T15:47:56.504Z",
       "labels": [],
-      "rank": 0.239
+      "rank": 0.169
     },
     {
       "id": "bb5e9f110578a157",
@@ -4844,7 +5600,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.237
+      "rank": 0.167
     },
     {
       "id": "2c4041f79b956f03",
@@ -4863,7 +5619,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.235
+      "rank": 0.166
     },
     {
       "id": "ff63b36970cf9576",
@@ -4882,7 +5638,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.234
+      "rank": 0.165
     },
     {
       "id": "3cbdcee5dac1e73a",
@@ -4901,7 +5657,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.232
+      "rank": 0.163
     },
     {
       "id": "ade879a83ff45d2d",
@@ -4920,7 +5676,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.231
+      "rank": 0.163
     },
     {
       "id": "bb8dea94fd73491a",
@@ -4939,7 +5695,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.231
+      "rank": 0.162
     },
     {
       "id": "83054ecb029e1c53",
@@ -4958,7 +5714,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.23
+      "rank": 0.162
     },
     {
       "id": "3903c89c61e50edc",
@@ -4977,7 +5733,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.23
+      "rank": 0.162
     },
     {
       "id": "2f5047a279483429",
@@ -4996,7 +5752,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.23
+      "rank": 0.162
     },
     {
       "id": "2bb91ee3179820cd",
@@ -5015,7 +5771,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.227
+      "rank": 0.16
     },
     {
       "id": "9280db37a82b4aee",
@@ -5034,7 +5790,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.225
+      "rank": 0.159
     },
     {
       "id": "e4635503d6296e72",
@@ -5053,7 +5809,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.225
+      "rank": 0.159
     },
     {
       "id": "5c8a7e2ce9e472f4",
@@ -5073,7 +5829,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.223
+      "rank": 0.157
     },
     {
       "id": "5fb6d7fe9d2dea3c",
@@ -5092,7 +5848,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.219
+      "rank": 0.155
     },
     {
       "id": "4e2810e47ea31ac4",
@@ -5111,7 +5867,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.216
+      "rank": 0.152
     },
     {
       "id": "d3c21aad125298df",
@@ -5130,7 +5886,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.214
+      "rank": 0.151
     },
     {
       "id": "d3206ea89ca22b21",
@@ -5149,7 +5905,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.211
+      "rank": 0.149
     },
     {
       "id": "9ed2099ae4857f6f",
@@ -5168,7 +5924,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.211
+      "rank": 0.149
     },
     {
       "id": "8af226d2b9f4a115",
@@ -5187,7 +5943,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.211
+      "rank": 0.149
     },
     {
       "id": "90d79223706ea3ab",
@@ -5206,7 +5962,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.206
+      "rank": 0.145
     },
     {
       "id": "e9b2308e4ac312d9",
@@ -5225,7 +5981,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.204
+      "rank": 0.144
     },
     {
       "id": "21108e3aebe49970",
@@ -5244,7 +6000,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.199
+      "rank": 0.14
     },
     {
       "id": "9f3eebffef935d6d",
@@ -5263,7 +6019,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.198
+      "rank": 0.139
     },
     {
       "id": "875637b2c34d1326",
@@ -5282,7 +6038,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.196
+      "rank": 0.138
     },
     {
       "id": "264dfda5e7c31f7b",
@@ -5301,7 +6057,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.193
+      "rank": 0.136
     },
     {
       "id": "4e46e49750fb65fe",
@@ -5320,7 +6076,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.192
+      "rank": 0.135
     },
     {
       "id": "0990939c7d6ea9f7",
@@ -5339,7 +6095,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.191
+      "rank": 0.135
     },
     {
       "id": "fc1a6fd9b904e236",
@@ -5358,7 +6114,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.191
+      "rank": 0.135
     },
     {
       "id": "85bacafff42444d7",
@@ -5377,7 +6133,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.188
+      "rank": 0.133
     },
     {
       "id": "1e2e1314ac1121e4",
@@ -5397,7 +6153,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-14T06:18:23.887Z",
       "labels": [],
-      "rank": 0.187
+      "rank": 0.131
     },
     {
       "id": "817048d612d682ea",
@@ -5416,7 +6172,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.185
+      "rank": 0.13
     },
     {
       "id": "4ae3018d79171170",
@@ -5435,7 +6191,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.183
+      "rank": 0.129
     },
     {
       "id": "7a5b5aeb105da684",
@@ -5454,7 +6210,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.182
+      "rank": 0.129
     },
     {
       "id": "6d29ea24a6e6fee7",
@@ -5473,7 +6229,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.179
+      "rank": 0.126
     },
     {
       "id": "aff6802cc567cefa",
@@ -5492,7 +6248,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.176
+      "rank": 0.124
     },
     {
       "id": "82d9be95873a98db",
@@ -5511,7 +6267,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.171
+      "rank": 0.12
     },
     {
       "id": "ec886a92fa12a05a",
@@ -5530,7 +6286,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.169
+      "rank": 0.119
     },
     {
       "id": "cb86ca9a5a41005e",
@@ -5549,7 +6305,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.168
+      "rank": 0.118
     },
     {
       "id": "4be63b18058de757",
@@ -5568,7 +6324,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.167
+      "rank": 0.118
     },
     {
       "id": "fc0f425d4885ad33",
@@ -5587,7 +6343,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.166
+      "rank": 0.117
     },
     {
       "id": "632ba4294e27a4d6",
@@ -5606,7 +6362,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.164
+      "rank": 0.115
     },
     {
       "id": "92467d3f16d5f88c",
@@ -5625,7 +6381,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.162
+      "rank": 0.114
     },
     {
       "id": "bcae3f6ad9209295",
@@ -5644,7 +6400,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.161
+      "rank": 0.113
     },
     {
       "id": "6e7f4ca7daf14e21",
@@ -5664,7 +6420,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.161
+      "rank": 0.113
     },
     {
       "id": "75e8b5158ffa2b00",
@@ -5683,7 +6439,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.158
+      "rank": 0.111
     },
     {
       "id": "4aca5735f30891f4",
@@ -5702,7 +6458,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.158
+      "rank": 0.111
     },
     {
       "id": "c8c5dc29297d2e3d",
@@ -5721,7 +6477,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.157
+      "rank": 0.111
     },
     {
       "id": "27662b1aab3647b2",
@@ -5740,7 +6496,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.156
+      "rank": 0.11
     },
     {
       "id": "cce714811b519a82",
@@ -5762,7 +6518,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.155
+      "rank": 0.109
     },
     {
       "id": "6291f7872f2c8d9c",
@@ -5781,7 +6537,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.154
+      "rank": 0.109
     },
     {
       "id": "ab0d1799a3ff5919",
@@ -5800,7 +6556,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.152
+      "rank": 0.107
     },
     {
       "id": "0e48da9eb1b141ae",
@@ -5819,7 +6575,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.152
+      "rank": 0.107
     },
     {
       "id": "7482059e8feb089c",
@@ -5838,7 +6594,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.152
+      "rank": 0.107
     },
     {
       "id": "ca1478ab4f6d6b17",
@@ -5857,7 +6613,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.152
+      "rank": 0.107
     },
     {
       "id": "ec2785f219cccfbb",
@@ -5876,7 +6632,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.152
+      "rank": 0.107
     },
     {
       "id": "78397eaf147cfe84",
@@ -5895,7 +6651,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.151
+      "rank": 0.106
     },
     {
       "id": "b8785a000ca8f940",
@@ -5914,7 +6670,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.15
+      "rank": 0.106
     },
     {
       "id": "217499e0c25837fd",
@@ -5933,7 +6689,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.15
+      "rank": 0.106
     },
     {
       "id": "0a3a3741b20c2318",
@@ -5952,7 +6708,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.149
+      "rank": 0.105
     },
     {
       "id": "322f998ba4d6dbd2",
@@ -5971,7 +6727,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.148
+      "rank": 0.104
     },
     {
       "id": "b41a9019933b08d4",
@@ -5990,7 +6746,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T23:30:54.315Z",
       "labels": [],
-      "rank": 0.147
+      "rank": 0.104
     },
     {
       "id": "3c4d561992cbe328",
@@ -6009,7 +6765,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.147
+      "rank": 0.104
     },
     {
       "id": "ca80552a275a9336",
@@ -6028,7 +6784,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.146
+      "rank": 0.103
     },
     {
       "id": "0cefd18c08c5c4ac",
@@ -6047,7 +6803,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.146
+      "rank": 0.103
     },
     {
       "id": "b0984d45fde6da18",
@@ -6066,7 +6822,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.146
+      "rank": 0.103
     },
     {
       "id": "089e249fb74d4122",
@@ -6085,7 +6841,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.146
+      "rank": 0.103
     },
     {
       "id": "56dac742ff29ffe2",
@@ -6104,7 +6860,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.145
+      "rank": 0.103
     },
     {
       "id": "aa4bf4548cc5dfc6",
@@ -6123,7 +6879,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.145
+      "rank": 0.102
     },
     {
       "id": "aff4b2c65530b3e6",
@@ -6142,7 +6898,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.144
+      "rank": 0.102
     },
     {
       "id": "11a9f97485e11126",
@@ -6161,7 +6917,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.144
+      "rank": 0.102
     },
     {
       "id": "3beb9de1922ea0ed",
@@ -6180,7 +6936,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.143
+      "rank": 0.101
     },
     {
       "id": "44722bd030259051",
@@ -6199,7 +6955,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.143
+      "rank": 0.101
     },
     {
       "id": "ee129214e4fa1cd8",
@@ -6218,7 +6974,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.141
+      "rank": 0.1
     },
     {
       "id": "8953c5202adc4820",
@@ -6237,7 +6993,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.141
+      "rank": 0.099
     },
     {
       "id": "1447c52b300c38a1",
@@ -6256,7 +7012,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.141
+      "rank": 0.099
     },
     {
       "id": "d809846837598f60",
@@ -6275,7 +7031,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.14
+      "rank": 0.099
     },
     {
       "id": "0667a519c65042ee",
@@ -6294,7 +7050,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.14
+      "rank": 0.098
     },
     {
       "id": "bfccb2d38562aef8",
@@ -6313,7 +7069,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.139
+      "rank": 0.098
     },
     {
       "id": "32ba33d00b9d1b74",
@@ -6332,7 +7088,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.139
+      "rank": 0.098
     },
     {
       "id": "660711644cdc9dc9",
@@ -6351,7 +7107,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.138
+      "rank": 0.097
     },
     {
       "id": "eb0c65b2b58fbc7a",
@@ -6370,7 +7126,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.138
+      "rank": 0.097
     },
     {
       "id": "0afd1907df33baa7",
@@ -6389,7 +7145,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.137
+      "rank": 0.096
     },
     {
       "id": "74e971f5c16a1495",
@@ -6408,7 +7164,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.136
+      "rank": 0.096
     },
     {
       "id": "755d073ce92d3323",
@@ -6427,7 +7183,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.135
+      "rank": 0.095
     },
     {
       "id": "88af978e657ee974",
@@ -6447,7 +7203,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.134
+      "rank": 0.095
     },
     {
       "id": "3725c536bfca37b1",
@@ -6466,7 +7222,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.134
+      "rank": 0.094
     },
     {
       "id": "8e60012da5d1451a",
@@ -6485,7 +7241,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.134
+      "rank": 0.094
     },
     {
       "id": "24d7fb83f2c2988f",
@@ -6504,7 +7260,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.132
+      "rank": 0.093
     },
     {
       "id": "263d7dc4e1e25dd6",
@@ -6523,7 +7279,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.131
+      "rank": 0.093
     },
     {
       "id": "9818440638d9a933",
@@ -6543,7 +7299,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.131
+      "rank": 0.092
     },
     {
       "id": "71cb7085c6189427",
@@ -6562,7 +7318,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.129
+      "rank": 0.091
     },
     {
       "id": "f101ffad2bb3a113",
@@ -6581,7 +7337,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.126
+      "rank": 0.089
     },
     {
       "id": "bd81e92a6269231e",
@@ -6600,7 +7356,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.126
+      "rank": 0.089
     },
     {
       "id": "6dbf5bd5b92f8aef",
@@ -6619,7 +7375,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.123
+      "rank": 0.087
     },
     {
       "id": "f28f90d2895a812c",
@@ -6638,7 +7394,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.123
+      "rank": 0.087
     },
     {
       "id": "b06379671ede1f62",
@@ -6657,7 +7413,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.123
+      "rank": 0.087
     },
     {
       "id": "02d1a8e57148d657",
@@ -6676,7 +7432,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.122
+      "rank": 0.086
     },
     {
       "id": "d679e07c8ae630a5",
@@ -6695,7 +7451,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.121
+      "rank": 0.085
     },
     {
       "id": "e615adee1bf7d019",
@@ -6714,7 +7470,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.12
+      "rank": 0.085
     },
     {
       "id": "60e40c578e381928",
@@ -6733,7 +7489,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.12
+      "rank": 0.084
     },
     {
       "id": "2666796f7b2d3a46",
@@ -6752,7 +7508,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.119
+      "rank": 0.084
     },
     {
       "id": "a0a8bd68435e7a18",
@@ -6771,7 +7527,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.116
+      "rank": 0.082
     },
     {
       "id": "2c7dd6bc41305b29",
@@ -6790,7 +7546,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.116
+      "rank": 0.081
     },
     {
       "id": "8246025563b0a52f",
@@ -6809,7 +7565,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.114
+      "rank": 0.081
     },
     {
       "id": "37a493c78580e73b",
@@ -6828,7 +7584,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.112
+      "rank": 0.079
     },
     {
       "id": "0566809c65753b53",
@@ -6847,7 +7603,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.111
+      "rank": 0.078
     },
     {
       "id": "dad2ce3e2f15f4f9",
@@ -6866,7 +7622,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.111
+      "rank": 0.078
     },
     {
       "id": "d8ef3fe6591f506a",
@@ -6885,7 +7641,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.11
+      "rank": 0.077
     },
     {
       "id": "9a978998a3bbd10a",
@@ -6904,7 +7660,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.109
+      "rank": 0.077
     },
     {
       "id": "30f7a6b76e69d066",
@@ -6923,7 +7679,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.109
+      "rank": 0.076
     },
     {
       "id": "bc41e68b99a725a6",
@@ -6942,7 +7698,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.107
+      "rank": 0.075
     },
     {
       "id": "f0c25258d53f64ef",
@@ -6961,7 +7717,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.106
+      "rank": 0.075
     },
     {
       "id": "7026ee2cddf14dd4",
@@ -6980,7 +7736,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.106
+      "rank": 0.075
     },
     {
       "id": "d8ee9ab549e424bc",
@@ -6999,7 +7755,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.105
+      "rank": 0.074
     },
     {
       "id": "3bb3af59874accc9",
@@ -7018,7 +7774,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.104
+      "rank": 0.073
     },
     {
       "id": "ca8b70b1d0d6cf56",
@@ -7037,7 +7793,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.101
+      "rank": 0.071
     },
     {
       "id": "c5de80afa617eff7",
@@ -7056,7 +7812,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.1
+      "rank": 0.071
     },
     {
       "id": "df5c4c0af68f09b1",
@@ -7075,7 +7831,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.098
+      "rank": 0.069
     },
     {
       "id": "bad6ee94c35695d3",
@@ -7094,7 +7850,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.098
+      "rank": 0.069
     },
     {
       "id": "8c9052413e13c82f",
@@ -7113,7 +7869,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.095
+      "rank": 0.067
     },
     {
       "id": "e879c6fc35d4933f",
@@ -7132,7 +7888,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.095
+      "rank": 0.067
     },
     {
       "id": "293629a8c0d48c95",
@@ -7151,7 +7907,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.091
+      "rank": 0.064
     },
     {
       "id": "7a69c1b89eda0814",
@@ -7170,7 +7926,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.091
+      "rank": 0.064
     },
     {
       "id": "efdd0bfa6110086b",
@@ -7189,7 +7945,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.089
+      "rank": 0.063
     },
     {
       "id": "3f42633dc5b5e54d",
@@ -7208,7 +7964,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.089
+      "rank": 0.063
     },
     {
       "id": "cf5ad5ad4907d72b",
@@ -7227,7 +7983,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.088
+      "rank": 0.062
     },
     {
       "id": "005484e05b9e6189",
@@ -7246,7 +8002,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.088
+      "rank": 0.062
     },
     {
       "id": "b91248042740580a",
@@ -7265,7 +8021,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.088
+      "rank": 0.062
     },
     {
       "id": "cd03d116301a7043",
@@ -7285,7 +8041,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.086
+      "rank": 0.061
     },
     {
       "id": "6619f09dbc0d0a8f",
@@ -7304,7 +8060,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.086
+      "rank": 0.061
     },
     {
       "id": "857ba7b7a6108c1f",
@@ -7323,7 +8079,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.086
+      "rank": 0.06
     },
     {
       "id": "8b208eddf6e27264",
@@ -7342,7 +8098,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.086
+      "rank": 0.06
     },
     {
       "id": "b36c4c9db0462ea8",
@@ -7361,7 +8117,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T06:41:22.218Z",
       "labels": [],
-      "rank": 0.085
+      "rank": 0.06
     },
     {
       "id": "f3e91f75ed135df5",
@@ -7380,7 +8136,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.084
+      "rank": 0.059
     },
     {
       "id": "0ac78af7c4d9dd8d",
@@ -7399,7 +8155,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.083
+      "rank": 0.059
     },
     {
       "id": "53bc56e14c08d499",
@@ -7418,7 +8174,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.083
+      "rank": 0.059
     },
     {
       "id": "2f5ac4847b023025",
@@ -7437,7 +8193,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.082
+      "rank": 0.057
     },
     {
       "id": "d05830646ed0694b",
@@ -7456,7 +8212,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.081
+      "rank": 0.057
     },
     {
       "id": "ae5556d61c0b046e",
@@ -7475,7 +8231,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.057
     },
     {
       "id": "70b89fd3ef03cc10",
@@ -7494,7 +8250,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.057
     },
     {
       "id": "bdeaa23eb9886c5a",
@@ -7513,7 +8269,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.056
     },
     {
       "id": "14eef01dc0f429cb",
@@ -7532,7 +8288,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.056
     },
     {
       "id": "4f138b59583638d1",
@@ -7551,7 +8307,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.056
     },
     {
       "id": "850c0644106f9238",
@@ -7570,7 +8326,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.08
+      "rank": 0.056
     },
     {
       "id": "0c15f2cf2a2ad1df",
@@ -7589,7 +8345,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.079
+      "rank": 0.056
     },
     {
       "id": "2e387caa6a4fa8ec",
@@ -7608,7 +8364,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.079
+      "rank": 0.056
     },
     {
       "id": "3a6e419e308849e0",
@@ -7627,7 +8383,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.079
+      "rank": 0.056
     },
     {
       "id": "6f3c74a04fea158f",
@@ -7646,7 +8402,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.079
+      "rank": 0.056
     },
     {
       "id": "94fcbf10f80778a7",
@@ -7665,7 +8421,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.078
+      "rank": 0.055
     },
     {
       "id": "80b38ea7da372c49",
@@ -7684,7 +8440,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.078
+      "rank": 0.055
     },
     {
       "id": "55fb77d5f91b9928",
@@ -7703,7 +8459,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.077
+      "rank": 0.055
     },
     {
       "id": "d5d770161b3f2ac9",
@@ -7722,7 +8478,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.077
+      "rank": 0.054
     },
     {
       "id": "592cfe6edf5ce4bd",
@@ -7741,7 +8497,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.076
+      "rank": 0.054
     },
     {
       "id": "70a69d3bb5822802",
@@ -7760,7 +8516,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.076
+      "rank": 0.054
     },
     {
       "id": "91765523ff0b0fa7",
@@ -7779,7 +8535,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T21:50:13.023Z",
       "labels": [],
-      "rank": 0.074
+      "rank": 0.052
     },
     {
       "id": "12a9550d1f6a0c04",
@@ -7798,7 +8554,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.072
+      "rank": 0.051
     },
     {
       "id": "7a8ca7de71bda47a",
@@ -7817,7 +8573,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.072
+      "rank": 0.05
     },
     {
       "id": "2ed3a890d3d8bbd2",
@@ -7836,7 +8592,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.072
+      "rank": 0.05
     },
     {
       "id": "6e11a23c0428f7b6",
@@ -7855,7 +8611,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.071
+      "rank": 0.05
     },
     {
       "id": "b22522d14a17f95f",
@@ -7874,7 +8630,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.071
+      "rank": 0.05
     },
     {
       "id": "f0476f4b70e90c24",
@@ -7893,7 +8649,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.071
+      "rank": 0.05
     },
     {
       "id": "2775ee0dc24533d6",
@@ -7913,7 +8669,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.069
+      "rank": 0.049
     },
     {
       "id": "a0384064dea3a20f",
@@ -7932,7 +8688,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.069
+      "rank": 0.049
     },
     {
       "id": "ddb95c61a535c749",
@@ -7951,7 +8707,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.069
+      "rank": 0.049
     },
     {
       "id": "576d29469f053bde",
@@ -7970,7 +8726,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.069
+      "rank": 0.048
     },
     {
       "id": "0177ef12911d3825",
@@ -7989,7 +8745,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.068
+      "rank": 0.048
     },
     {
       "id": "0ccfb511c0c877ba",
@@ -8008,7 +8764,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.067
+      "rank": 0.047
     },
     {
       "id": "6e40d6043154dab3",
@@ -8027,7 +8783,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.067
+      "rank": 0.047
     },
     {
       "id": "a30f7fce38a46d5d",
@@ -8046,7 +8802,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.066
+      "rank": 0.047
     },
     {
       "id": "fc6b6a56df7b3650",
@@ -8068,7 +8824,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.065
+      "rank": 0.045
     },
     {
       "id": "8d8bc38f54a7d350",
@@ -8087,7 +8843,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.063
+      "rank": 0.045
     },
     {
       "id": "12149c8999a27fe5",
@@ -8106,7 +8862,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.063
+      "rank": 0.045
     },
     {
       "id": "b73105fe4ec5f060",
@@ -8125,7 +8881,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.063
+      "rank": 0.044
     },
     {
       "id": "927181826b8abf66",
@@ -8144,7 +8900,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.062
+      "rank": 0.044
     },
     {
       "id": "831ee70abf077ea9",
@@ -8163,7 +8919,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.062
+      "rank": 0.044
     },
     {
       "id": "8c999d6885d24711",
@@ -8182,7 +8938,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.062
+      "rank": 0.043
     },
     {
       "id": "d2296a64c0dc3b89",
@@ -8201,7 +8957,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.062
+      "rank": 0.043
     },
     {
       "id": "416d511596b938c6",
@@ -8220,7 +8976,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.061
+      "rank": 0.043
     },
     {
       "id": "e6df1e705a6d6026",
@@ -8239,7 +8995,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.061
+      "rank": 0.043
     },
     {
       "id": "d2e0003308f41c4f",
@@ -8258,7 +9014,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.058
+      "rank": 0.041
     },
     {
       "id": "52c1a0c9377c6505",
@@ -8277,7 +9033,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.058
+      "rank": 0.041
     },
     {
       "id": "f6b29b4e2ab3b1b9",
@@ -8298,7 +9054,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.057
+      "rank": 0.04
     },
     {
       "id": "02e4a20d191af380",
@@ -8317,7 +9073,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.057
+      "rank": 0.04
     },
     {
       "id": "f29d4062b1cd5790",
@@ -8337,7 +9093,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-13T17:11:51.005Z",
       "labels": [],
-      "rank": 0.056
+      "rank": 0.039
     },
     {
       "id": "f724697ad4799a39",
@@ -8356,7 +9112,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.056
+      "rank": 0.039
     },
     {
       "id": "e28ff692f1183bac",
@@ -8375,7 +9131,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.056
+      "rank": 0.039
     },
     {
       "id": "66ed14c6418f09b7",
@@ -8394,7 +9150,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.054
+      "rank": 0.038
     },
     {
       "id": "14f6b8b420073dc3",
@@ -8413,7 +9169,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.054
+      "rank": 0.038
     },
     {
       "id": "2855a6dd0b52b57a",
@@ -8432,7 +9188,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.052
+      "rank": 0.036
     },
     {
       "id": "7e343cb607009fdc",
@@ -8451,7 +9207,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.05
+      "rank": 0.035
     },
     {
       "id": "5175b6a2b765750a",
@@ -8470,7 +9226,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.047
+      "rank": 0.033
     },
     {
       "id": "7737e173e31a5988",
@@ -8489,7 +9245,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.047
+      "rank": 0.033
     },
     {
       "id": "a5749ddac12322df",
@@ -8508,7 +9264,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.047
+      "rank": 0.033
     },
     {
       "id": "dfad3e6674c2521c",
@@ -8527,7 +9283,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.047
+      "rank": 0.033
     },
     {
       "id": "4e3e5904c85ae763",
@@ -8546,7 +9302,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.046
+      "rank": 0.032
     },
     {
       "id": "c0a7d49575128b5d",
@@ -8565,7 +9321,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.046
+      "rank": 0.032
     },
     {
       "id": "0bbf517ca2cff024",
@@ -8584,7 +9340,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.045
+      "rank": 0.032
     },
     {
       "id": "f8c1a7370c130fe5",
@@ -8603,7 +9359,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.044
+      "rank": 0.031
     },
     {
       "id": "46ecb159c1535b09",
@@ -8622,7 +9378,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.044
+      "rank": 0.031
     },
     {
       "id": "f7afa1dd4ce8d146",
@@ -8641,7 +9397,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.043
+      "rank": 0.03
     },
     {
       "id": "369640935efcece9",
@@ -8660,7 +9416,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.043
+      "rank": 0.03
     },
     {
       "id": "571fb0494bf3f24f",
@@ -8679,7 +9435,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.041
+      "rank": 0.029
     },
     {
       "id": "5ca4dc7b6d88cb31",
@@ -8698,7 +9454,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.041
+      "rank": 0.029
     },
     {
       "id": "c012fc7ecd62b33e",
@@ -8717,7 +9473,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.041
+      "rank": 0.029
     },
     {
       "id": "01a8528fa117926a",
@@ -8736,7 +9492,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.04
+      "rank": 0.028
     },
     {
       "id": "e18f58ec7dc7acb9",
@@ -8755,7 +9511,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.04
+      "rank": 0.028
     },
     {
       "id": "7739f93bab443e21",
@@ -8774,7 +9530,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.039
+      "rank": 0.028
     },
     {
       "id": "eec6217882176ba1",
@@ -8793,7 +9549,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.039
+      "rank": 0.027
     },
     {
       "id": "5d01611fd6de2935",
@@ -8812,7 +9568,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.039
+      "rank": 0.027
     },
     {
       "id": "6fcd75d626ddcf98",
@@ -8831,7 +9587,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.039
+      "rank": 0.027
     },
     {
       "id": "418d10f93d4edba8",
@@ -8851,7 +9607,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.038
+      "rank": 0.027
     },
     {
       "id": "cd0c3adea5a38d8b",
@@ -8870,7 +9626,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.038
+      "rank": 0.027
     },
     {
       "id": "3588ceed41552e46",
@@ -8889,7 +9645,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.038
+      "rank": 0.027
     },
     {
       "id": "4546981095085026",
@@ -8908,7 +9664,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.038
+      "rank": 0.027
     },
     {
       "id": "a548f4bc427db034",
@@ -8927,7 +9683,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.037
+      "rank": 0.026
     },
     {
       "id": "9a6164117272b000",
@@ -8946,7 +9702,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.037
+      "rank": 0.026
     },
     {
       "id": "82110824f2abb129",
@@ -8965,7 +9721,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.037
+      "rank": 0.026
     },
     {
       "id": "58426d8e2b3863d2",
@@ -8984,7 +9740,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.037
+      "rank": 0.026
     },
     {
       "id": "724fae9251483a53",
@@ -9003,7 +9759,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.036
+      "rank": 0.026
     },
     {
       "id": "3229de0d919212c3",
@@ -9022,7 +9778,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.036
+      "rank": 0.026
     },
     {
       "id": "1484bc2b220d4e0d",
@@ -9041,7 +9797,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.036
+      "rank": 0.026
     },
     {
       "id": "a8cc20c7d5a48243",
@@ -9060,7 +9816,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.035
+      "rank": 0.024
     },
     {
       "id": "a27532638c556bde",
@@ -9079,7 +9835,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.032
+      "rank": 0.023
     },
     {
       "id": "7da1b2b4758f6148",
@@ -9098,7 +9854,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.032
+      "rank": 0.023
     },
     {
       "id": "252a67cf93cb8c8f",
@@ -9117,7 +9873,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.032
+      "rank": 0.023
     },
     {
       "id": "1ff74ee2cb106637",
@@ -9136,7 +9892,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.031
+      "rank": 0.022
     },
     {
       "id": "2934d7cd62fe7050",
@@ -9155,7 +9911,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.031
+      "rank": 0.022
     },
     {
       "id": "534e23320d33a495",
@@ -9174,7 +9930,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.03
+      "rank": 0.021
     },
     {
       "id": "de5b3076bff447f1",
@@ -9193,7 +9949,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T15:10:08.313Z",
       "labels": [],
-      "rank": 0.03
+      "rank": 0.021
     },
     {
       "id": "9c331579e229757a",
@@ -9212,7 +9968,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.027
+      "rank": 0.019
     },
     {
       "id": "255b56db4a4a44d0",
@@ -9231,7 +9987,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.025
+      "rank": 0.018
     },
     {
       "id": "458bb1a34baf1a65",
@@ -9250,7 +10006,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.025
+      "rank": 0.017
     },
     {
       "id": "35743bc665289905",
@@ -9269,7 +10025,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.024
+      "rank": 0.017
     },
     {
       "id": "1b18e8c9acf73639",
@@ -9288,7 +10044,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.024
+      "rank": 0.017
     },
     {
       "id": "057e22ab69c04fb1",
@@ -9307,7 +10063,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.024
+      "rank": 0.017
     },
     {
       "id": "ffe8a09e969fa29a",
@@ -9326,7 +10082,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.024
+      "rank": 0.017
     },
     {
       "id": "5aa2811f45ceef64",
@@ -9345,7 +10101,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.023
+      "rank": 0.017
     },
     {
       "id": "23b94c697622500f",
@@ -9364,7 +10120,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.023
+      "rank": 0.016
     },
     {
       "id": "932fe34bad728f30",
@@ -9383,7 +10139,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.023
+      "rank": 0.016
     },
     {
       "id": "831bd9db6c4fa670",
@@ -9402,7 +10158,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.023
+      "rank": 0.016
     },
     {
       "id": "f37b680abcf7adcb",
@@ -9421,7 +10177,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.022
+      "rank": 0.016
     },
     {
       "id": "7b1451fc786c34f9",
@@ -9440,7 +10196,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.022
+      "rank": 0.016
     },
     {
       "id": "8ceada5f95028093",
@@ -9459,7 +10215,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.021
+      "rank": 0.015
     },
     {
       "id": "5d33272291219c49",
@@ -9478,7 +10234,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.021
+      "rank": 0.015
     },
     {
       "id": "9d9fe975c63c20bc",
@@ -9497,7 +10253,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.021
+      "rank": 0.015
     },
     {
       "id": "2969b0807146033c",
@@ -9516,7 +10272,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.02
+      "rank": 0.014
     },
     {
       "id": "f0a7364ef803e186",
@@ -9535,7 +10291,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.019
+      "rank": 0.014
     },
     {
       "id": "1a46264ab61ddf35",
@@ -9554,7 +10310,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.019
+      "rank": 0.013
     },
     {
       "id": "da795f2924119e2e",
@@ -9573,7 +10329,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.018
+      "rank": 0.013
     },
     {
       "id": "e32955d193042fab",
@@ -9592,7 +10348,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.018
+      "rank": 0.013
     },
     {
       "id": "7e4af76a8edc072c",
@@ -9611,7 +10367,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.017
+      "rank": 0.012
     },
     {
       "id": "05bd9f0351a0c3a2",
@@ -9630,7 +10386,7 @@
       "scoredBy": "fallback",
       "firstSeenAt": "2026-11-12T05:32:57.374Z",
       "labels": [],
-      "rank": 0.016
+      "rank": 0.011
     }
   ]
 }
