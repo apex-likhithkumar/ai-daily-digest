@@ -41,6 +41,14 @@ describe('parseFeed', () => {
     });
   });
 
+  // Found live: a TechCrunch headline showed "Huang&#8217;s exit" because numeric HTML entities were left undecoded.
+  // Numeric references (decimal and hex) are what real feeds emit (WordPress/TechCrunch); named ones beyond
+  // the parser's small built-in list (&eacute;, &rsquo;) are not decoded, and none of our sources use them.
+  it('decodes numeric HTML entities in titles (curly apostrophes, dashes)', () => {
+    const xml = `<rss><channel><item><title>Nvidia says its plan holds after Huang&#8217;s exit &#8212; R&#x26;D &amp; more</title><link>https://example.com/n</link><pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate></item></channel></rss>`;
+    expect(parseFeed(xml, SOURCE)[0]?.title).toBe('Nvidia says its plan holds after Huang’s exit — R&D & more');
+  });
+
   it('copies the source topicHint onto each item', () => {
     const items = parseFeed(RSS, { ...SOURCE, topicHint: 'E' });
     expect(items[0]?.topicHint).toBe('E');

@@ -17,6 +17,7 @@ const parser = new XMLParser({
   attributeNamePrefix: '@_',
   textNodeName: '#text',
   processEntities: { maxTotalExpansions: MAX_ENTITY_EXPANSIONS, maxExpandedLength: MAX_EXPANDED_CHARS },
+  htmlEntities: true, // feeds use &#8217; and &eacute; in titles; XML alone only knows &amp; &lt; &gt; &quot; &apos;
 });
 
 type XmlNode = Record<string, unknown>;
