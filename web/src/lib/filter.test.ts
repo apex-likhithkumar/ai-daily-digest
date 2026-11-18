@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { FeedItem } from '../types';
-import { filterItems, TOP_COUNT, viewCounts } from './filter';
+import { filterItems, MAX_PER_SOURCE_IN_TOP, TOP_COUNT, viewCounts } from './filter';
 
 function mk(over: Partial<FeedItem>): FeedItem {
   return {
@@ -18,6 +18,22 @@ describe('filterItems', () => {
     const result = filterItems(items, { view: 'top', ...none });
     expect(result).toHaveLength(TOP_COUNT);
     expect(result[0]?.id).toBe(`i${TOP_COUNT + 4}`);
+  });
+
+  // Added after live feedback: one prolific source (AWS blog) took 4 of the top 8 spots.
+  it('top: one source cannot fill the page when other sources have items', () => {
+    const aws = Array.from({ length: 6 }, (_, i) => mk({ id: `aws${i}`, sources: ['AWS ML Blog'], rank: 100 - i }));
+    const others = Array.from({ length: TOP_COUNT }, (_, i) => mk({ id: `o${i}`, sources: [`Source ${i}`], rank: i }));
+    const result = filterItems([...aws, ...others], { view: 'top', ...none });
+    expect(result).toHaveLength(TOP_COUNT);
+    expect(result.filter((i) => i.sources[0] === 'AWS ML Blog')).toHaveLength(MAX_PER_SOURCE_IN_TOP);
+  });
+
+  it('top: capped items only backfill, at the end, when the page would otherwise be short', () => {
+    const aws = Array.from({ length: 5 }, (_, i) => mk({ id: `aws${i}`, sources: ['AWS ML Blog'], rank: 10 - i }));
+    const others = Array.from({ length: 2 }, (_, i) => mk({ id: `o${i}`, sources: [`Source ${i}`], rank: 1 + i }));
+    const ids = filterItems([...aws, ...others], { view: 'top', ...none }).map((i) => i.id);
+    expect(ids).toEqual(['aws0', 'aws1', 'aws2', 'o1', 'o0', 'aws3', 'aws4']);
   });
 
   it('breaking / important / today use labels; today is newest first', () => {
