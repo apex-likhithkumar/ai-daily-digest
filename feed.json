@@ -1,1 +1,2353 @@
-{"generatedAt":"1970-01-01T00:00:00.000Z","items":[]}
+{
+  "generatedAt": "2026-11-18T03:57:25.671Z",
+  "items": [
+    {
+      "id": "c60558e98558e0e7",
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T22:52:29.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Isolate local coding agent execution in secure environments to prevent prompt injection damage.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 7.253
+    },
+    {
+      "id": "549a77347d5e1e5f",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "sources": [
+        "OpenAI",
+        "Hacker News",
+        "Simon Willison"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T17:45:00.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "B",
+      "importance": 10,
+      "relevance": 9,
+      "whyItMatters": "New flagship models lower API costs and upgrade coding capabilities for your backend systems.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 7.149
+    },
+    {
+      "id": "1796857b9a1b2f79",
+      "title": "Govern and discover records with common metadata in AWS Agent Registry",
+      "url": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T20:31:04.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 10,
+      "whyItMatters": "Enforce strict schema validation across your MCP servers and registered agents using custom metadata fields.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.615
+    },
+    {
+      "id": "3a6ddd65cb94a929",
+      "title": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T20:25:23.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 10,
+      "whyItMatters": "Implement secure OAuth token exchange patterns when your Bedrock agents connect to external databases via MCP.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.597
+    },
+    {
+      "id": "6e090bb95c89cabb",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:16:12.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 9,
+      "whyItMatters": "Expect your pull request queue to swell as agent-generated code shifts validation bottlenecks onto you.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.43
+    },
+    {
+      "id": "2c0a64e08e41f662",
+      "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T22:44:51.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Cut Bedrock agent token overhead by offloading large JSON payloads and paging results.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.366
+    },
+    {
+      "id": "206b86c970ea91d6",
+      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T23:33:26.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 7,
+      "whyItMatters": "Deploy distributed inference clusters on SageMaker without writing custom node orchestration code.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.165
+    },
+    {
+      "id": "8e21326b778b59c3",
+      "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:11:51.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Reduce latency and token costs on SageMaker by routing prompts to instances holding matching KV caches.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.088
+    },
+    {
+      "id": "6dbfd2c16f1d581a",
+      "title": "Cut generative AI costs: Code for rules, models for judgment",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:14:55.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 8,
+      "whyItMatters": "Save inference budget by routing predictable workflow paths through native code instead of LLM calls.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.602
+    },
+    {
+      "id": "0f81d901dab588c1",
+      "title": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:06:44.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Fine-tune time-series language models on SageMaker for predictive telemetry in your backend services.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.569
+    },
+    {
+      "id": "fa2d79e8a491ed5a",
+      "title": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T17:01:08.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Multi-agent orchestration patterns on Bedrock offer architectural blueprints for your own systems.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.396
+    },
+    {
+      "id": "5b0b199a3f155cec",
+      "title": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T15:57:09.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Prompt prefix caching cuts large-scale inference costs in half on managed cloud endpoints.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.232
+    },
+    {
+      "id": "8f07365d378cd3fa",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T23:04:35.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 6,
+      "whyItMatters": "Hugging Face integration plans remain stable despite leadership turnover at hardware vendors.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.211
+    },
+    {
+      "id": "069078b2b4e3b49a",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T10:20:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Adopt their verification patterns to catch hallucinations before your coding agents commit buggy TypeScript code.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.051
+    },
+    {
+      "id": "e0d2ba07cf0f2da7",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:01:43.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Self-improving CI pipelines offer a novel pattern for maintaining codebases generated by autonomous agent swarms.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.945
+    },
+    {
+      "id": "23791fed6fa0ce2c",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:25:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "New coding models offer alternative completions for your IDE setup.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.859
+    },
+    {
+      "id": "027b06d66aa2428c",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:10:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Custom decision models provide a cheaper alternative to large LLMs for backend routing logic.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.824
+    },
+    {
+      "id": "b397f013e77fa481",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T22:29:05.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Cloud giant equity stakes in Anthropic hint at future enterprise model hosting integrations.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.781
+    },
+    {
+      "id": "692230a9d797ddbd",
+      "title": "Responsible AI for agentic AI: A phased roadmap for platform and application teams",
+      "url": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:56:31.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "A phased roadmap for baking safety guardrails directly into your multi-agent architecture.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.656
+    },
+    {
+      "id": "dfdee5b6b2fccda4",
+      "title": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:48:50.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 6,
+      "whyItMatters": "Python SDK and Terraform templates simplify webhook ingestion and memory management for production chat agents.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.608
+    },
+    {
+      "id": "af19957a97c276aa",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "url": "https://latent.space/p/cloudflare",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "Edge-computed models running in milliseconds open up low-latency inference options for your APIs.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.54
+    },
+    {
+      "id": "a909c419b8fadbae",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T09:24:56.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 7,
+      "whyItMatters": "Monitor API updates let you integrate real-time search data into your existing LangChain agent loops.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.449
+    },
+    {
+      "id": "2052af3031ae30d9",
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:40:01.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Python SDK APIs for synthetic data generation can feed clean training sets into your custom fine-tuning pipelines.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.408
+    },
+    {
+      "id": "38c4a38bd61908e3",
+      "title": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T17:08:21.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 6,
+      "whyItMatters": "Enterprise agent governance patterns from re:Invent can inform your internal API security design.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.39
+    },
+    {
+      "id": "ed47f6db4915840c",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:50:58.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 4,
+      "whyItMatters": "Massive funding rounds in specialized biotech sectors signal continued high demand for deep learning infrastructure.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.383
+    },
+    {
+      "id": "8239fbdc6243950a",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T23:37:48.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 3,
+      "whyItMatters": "Chip availability shifts in Asian markets could alter your hardware procurement strategies.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.236
+    },
+    {
+      "id": "b20533735bac1c5f",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T17:20:41.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Model vulnerability findings highlight safety risks when deploying untrusted prompt handlers.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.122
+    },
+    {
+      "id": "b8930a9a56df63fc",
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:16:18.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 6,
+      "whyItMatters": "Architecture reviews can drop LLMs for deterministic code where rules suffice.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.082
+    },
+    {
+      "id": "887a9d54e326095b",
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T01:18:56.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Sandboxed authentication proxies let you safely deploy coding agents without exposing root credentials.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 3.891
+    },
+    {
+      "id": "ae6cdc6347964b56",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "url": "https://theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:09:57.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 3,
+      "whyItMatters": "Leadership instability at Nvidia might affect enterprise GPU allocation timelines and roadmaps.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 3.841
+    },
+    {
+      "id": "d4875a92aea85dac",
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T01:35:16.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 9,
+      "relevance": 7,
+      "whyItMatters": "Hardware onboarding acceleration highlights how quickly models handle low-level driver configurations.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 3.829
+    },
+    {
+      "id": "6ab4eb3121ad6e12",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T17:32:25.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 5,
+      "whyItMatters": "Desktop client updates introduce local file automation tools worth testing for workflow scripting.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.701
+    },
+    {
+      "id": "5b158888670aa71b",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:48:33.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 5,
+      "whyItMatters": "Pyodide and service workers now let you execute full Python server apps inside the browser.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.624
+    },
+    {
+      "id": "776157cf22e3ea27",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:32:11.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Domain-specific agent workflows demonstrate advanced context handling patterns applicable to your multi-agent systems.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.607
+    },
+    {
+      "id": "94ec9ff9d4729a9e",
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T22:06:08.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 10,
+      "whyItMatters": "Protocol-based skill sharing can reduce token overhead in your own agentic workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 3.462
+    },
+    {
+      "id": "48c46304656078a6",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:04:16.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Supply chain startups expand hiring options if you seek domain-specific agent roles.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.457
+    },
+    {
+      "id": "cdafd8ebe9f4be7a",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:19:03.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 3,
+      "whyItMatters": "Federal investigations into major data center operators could shift future hardware availability.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.43
+    },
+    {
+      "id": "9f7286d0bf416b1a",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T00:16:50.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Hardware revenue projections signal stability for cloud GPU availability and pricing.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.417
+    },
+    {
+      "id": "0488c951c7292232",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:58:01.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "Consumer task assistant update showcasing multi-step reasoning capabilities in latest frontier models.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.394
+    },
+    {
+      "id": "9073920a14eae64d",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:32:55.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Consumer shopping agents demonstrate new persistence patterns for multi-step autonomous tasks.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.309
+    },
+    {
+      "id": "2b699e1f4bac1f07",
+      "title": "Human.md",
+      "url": "https://human-md.ai/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T20:47:36.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 4,
+      "whyItMatters": "Explore emerging documentation patterns tailored for LLM readability in your repository setup.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.252
+    },
+    {
+      "id": "d218f9a95b85493a",
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T22:43:30.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Managed conversation state saves you from writing custom multi-tenant session storage.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 3.181
+    },
+    {
+      "id": "28fff23dec51a9bb",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:48:07.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Executive shakeups at major hardware suppliers rarely shift daily backend development patterns.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.181
+    },
+    {
+      "id": "5b6a4fa0520d8905",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:40:59.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Financial earnings updates offer little practical code or architecture guidance.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.17
+    },
+    {
+      "id": "9567fc17c1fdcddf",
+      "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T18:16:07.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 10,
+      "whyItMatters": "Expose your backend APIs as MCP tools to securely connect tenant-isolated data sources to custom enterprise AI agents.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 3.099
+    },
+    {
+      "id": "bc1083d540d97a0c",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T01:44:21.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Track portfolio valuation shifts if your infrastructure depends on hardware market stability.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.001
+    },
+    {
+      "id": "a70cae4c16f0fdc6",
+      "title": "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T18:40:04.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 9,
+      "whyItMatters": "Automated hill-climbing optimization helps tune local inference speed and TTFT for your hardware.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 2.982
+    },
+    {
+      "id": "3aa0c6065ac07d71",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:02:20.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Consumer-facing agent automation provides UX reference points for autonomous workflow design.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.937
+    },
+    {
+      "id": "8c5b4e01285e983d",
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T12:21:57.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "AI safety regulations shape how foundation models deploy APIs and enterprise guardrails.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.932
+    },
+    {
+      "id": "0761da68e54fd0db",
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T21:53:46.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 8,
+      "whyItMatters": "Design patterns from manufacturing help you structure resilient multi-agent orchestration.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.854
+    },
+    {
+      "id": "7157ce3b54a8a376",
+      "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T17:04:11.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 9,
+      "whyItMatters": "Combine GraphRAG with hybrid search to extract precise technical answers from millions of enterprise manufacturing documents.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 2.848
+    },
+    {
+      "id": "698ced14e342737d",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T23:41:18.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Macroeconomic outlook shifts from executive commentary rarely alter daily architectural choices.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.829
+    },
+    {
+      "id": "7cc4bd0d8db8c788",
+      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "url": "https://github.com/withcoral/coral",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T14:14:51.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Explore dynamic tool generation patterns where autonomous agents write and register their own execution interfaces.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 2.827
+    },
+    {
+      "id": "1e308b5aafc025fe",
+      "title": "Getting AI out of the demo and into businesses globally",
+      "url": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:05:22.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Enterprise deployment patterns highlight common failure modes when moving prototypes to production infrastructure.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.787
+    },
+    {
+      "id": "cb1d8f8bc84f7e6a",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Consumer workspace features offer little utility for your backend and AI engineering workflow.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.769
+    },
+    {
+      "id": "3a4b135687e309c5",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T18:48:23.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Privacy policy changes for consumer chat logs alter how you handle sensitive API inputs.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.764
+    },
+    {
+      "id": "7a5b841ecd5649fa",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T20:46:01.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 5,
+      "whyItMatters": "Regulatory actions against rogue agents introduce new compliance constraints for production.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 2.762
+    },
+    {
+      "id": "764198fc49a3e15f",
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T23:57:26.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 6,
+      "whyItMatters": "Upgrade your local CLI tooling to fix SQLite logging regressions caused by recent Homebrew packages.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.673
+    },
+    {
+      "id": "b4420b34b7621c1f",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:00:55.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Social media deepfake proliferation highlights ongoing risks in public-facing media generation APIs.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.619
+    },
+    {
+      "id": "df92921082e9f46d",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "New domain-specific travel assistants showcase proprietary retrieval patterns for narrow use cases.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.476
+    },
+    {
+      "id": "01ad01e5cd4126d0",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T22:42:27.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 1,
+      "whyItMatters": "Executive leadership changes at hardware suppliers have minimal bearing on backend engineering.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.406
+    },
+    {
+      "id": "735df09c2ed1f9d3",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "url": "https://latent.space/p/bfl",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T21:38:03.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "Multimodal foundation models point toward future visual inference capabilities.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.166
+    },
+    {
+      "id": "590cb0b9c5dd23f2",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 3,
+      "whyItMatters": "Defense sector security partnerships demonstrate frontier model utility for vulnerability analysis.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.141
+    },
+    {
+      "id": "c6c361c53bc4ce2d",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "CRM sales plugins target non-technical enterprise users rather than API developers.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.135
+    },
+    {
+      "id": "8129f68e260304e7",
+      "title": "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T12:10:36.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Behavior-verified incremental refactoring tools let you migrate legacy components safely into Rust.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.029
+    },
+    {
+      "id": "b2955c38ff71d9a1",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T16:04:28.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Autonomous agent guardrail failures highlight why strict API permission boundaries remain critical in production setups.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.987
+    },
+    {
+      "id": "0604bc2b50fc0c3b",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "Domain-specific legal benchmarks show specialized model performance without aiding your core stack.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.962
+    },
+    {
+      "id": "ae3ee0f483ed9177",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T06:16:26.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Philosophical programming quotes offer light reading but no concrete code improvements.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.925
+    },
+    {
+      "id": "6755813e5cbe36f0",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:26:46.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 1,
+      "whyItMatters": "Venture capital moves in biotechnology rarely alter daily backend development workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.895
+    },
+    {
+      "id": "f054a54f8228cfac",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T09:30:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Codex integration reduced coding time significantly here, offering a benchmark for your own productivity workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.878
+    },
+    {
+      "id": "e9a68a300e49f431",
+      "title": "boringmarketer/boring-marketing-skills: 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T15:09:46.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 6,
+      "whyItMatters": "Prepackaged marketing workflows give your autonomous agents structured domain tasks out of the box.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.866
+    },
+    {
+      "id": "853b24ff0d6ecd3f",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 8,
+      "relevance": 8,
+      "whyItMatters": "OpenRouter integration simplifies querying open-weight models inside your custom Python and Node scripts.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.784
+    },
+    {
+      "id": "98ef486c7d4edc83",
+      "title": "Research Reports",
+      "url": "https://technologyreview.com/2026/11/17/1148203/research-reports",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T14:39:46.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "Skip this general research link unless you specifically need academic reports for background reading.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.771
+    },
+    {
+      "id": "cfcc7acb02e9ca79",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "Computer-use agents and medical plugins provide design patterns for building complex workflow automations.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.75
+    },
+    {
+      "id": "b0ded74e06b06613",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "Specialized agent capabilities reveal architectural approaches for integrating tools into clinical software.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.75
+    },
+    {
+      "id": "a6c7c2ca104f78f1",
+      "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+      "url": "https://zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:08:45.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "Political lobbying disclosure unrelated to your day-to-day software development stack.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.706
+    },
+    {
+      "id": "b4d0f21c2c604500",
+      "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+      "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T17:29:29.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Automate legacy code refactoring pipelines with LLM-based AST extraction if you ever touch mainframe migration projects.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.7
+    },
+    {
+      "id": "c267813b00db4e00",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T23:17:34.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Executive leadership drama at hardware manufacturers rarely alters your backend inference stack.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.661
+    },
+    {
+      "id": "ebd9eb94963902d2",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sources": [
+        "OpenAI",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 4,
+      "whyItMatters": "Independent safety evaluations establish new compliance standards you may eventually need to adopt for agents.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.63
+    },
+    {
+      "id": "11cf973c0d595b96",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 5,
+      "whyItMatters": "Design enterprise agent architectures with proper middleware for orchestrating complex multi-step backend workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.623
+    },
+    {
+      "id": "81bd7f76e2a9d5f3",
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T22:58:20.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Telemetry collection in your OS means local coding assistant traces might be logged.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.559
+    },
+    {
+      "id": "a7baa208561a2ac2",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "url": "https://theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T20:29:37.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Grid capacity for data centers affects regional cloud hosting costs and availability.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.532
+    },
+    {
+      "id": "f26f2a4dfd6b9b95",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Academic grants widen model availability for researchers without changing your infrastructure code.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.53
+    },
+    {
+      "id": "294a13221fad339b",
+      "title": "Your Agent Will Pick the Hackable One",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T21:10:39.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Design your agent endpoints with stricter sandboxing to prevent exploitation by malicious actors.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "important"
+      ],
+      "rank": 1.521
+    },
+    {
+      "id": "f378d4ace0f37459",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T21:34:50.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Routine status reports on major web services bring no technical insights for your backend systems.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.331
+    },
+    {
+      "id": "91e58e2ea930c2fa",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Media partnerships expand ChatGPT distribution but change little for your backend infrastructure work.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.33
+    },
+    {
+      "id": "6f099656459b9bfa",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:50:40.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Legacy DOM manipulation library release with zero utility for your backend and AI architecture.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.266
+    },
+    {
+      "id": "3899b6e8ee3cc1f1",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Proactive background agents demonstrate patterns for autonomous reporting systems in your own backend.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.249
+    },
+    {
+      "id": "58da9c66b1456ac9",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 1,
+      "whyItMatters": "Government partnership announcements create regional startup opportunities rather than engineering jobs.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.249
+    },
+    {
+      "id": "b1c71d07875ac772",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "sources": [
+        "OpenAI",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 1,
+      "whyItMatters": "Safety tooling updates address content moderation rather than your technical architecture.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.239
+    },
+    {
+      "id": "f891bd93f3d21469",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T12:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 2,
+      "whyItMatters": "Researcher productivity surveys highlight general workflow adoption rather than engineering tooling.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.198
+    },
+    {
+      "id": "dca31e1cbc0198f3",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T20:41:28.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "Hardware chatter on local memory limits hardly shifts your current backend workflow.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.054
+    },
+    {
+      "id": "950ac38f23f2d5a7",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T12:14:06.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Deepen your grasp of context length scaling by reviewing how models process positional encodings.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.016
+    },
+    {
+      "id": "87d7014c15ee68a3",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 3,
+      "whyItMatters": "Theoretical physics proofs generated via LLMs show advanced reasoning limits without altering API tooling.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.01
+    },
+    {
+      "id": "3bc6cdb34c17f840",
+      "title": "datasette 1.0a43",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T23:20:27.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Streaming support in Datasette endpoints offers patterns for your own large export routes.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.006
+    },
+    {
+      "id": "7c04761a4076fc82",
+      "title": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T23:18:17.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Check route configurations to prevent unauthorized database downloads in custom endpoints.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.005
+    },
+    {
+      "id": "83b3b2200438f294",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T00:21:54.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "Review server resilience strategies if managing public-facing APIs under heavy load.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.992
+    },
+    {
+      "id": "c650c89a876a2c67",
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://colesgroup.com.au/updates",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T01:14:35.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "A major retail breach highlighting the need for robust backend security audits.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.971
+    },
+    {
+      "id": "4b0fc5b701ffd77d",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Research logs highlight experimental methods for applying inference models to domain-specific science.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.968
+    },
+    {
+      "id": "0bc322583e6f0775",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 1,
+      "whyItMatters": "Consumer map updates provide no utility for backend service development.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.936
+    },
+    {
+      "id": "9ccf8665576aaeb3",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T18:38:47.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "Satirical petitions offer entertainment rather than technical utility for your stack.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.841
+    },
+    {
+      "id": "4b4d48f19f03e283",
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T23:58:36.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "A quick way to render geospatial vector maps inside your data exploration tools.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.802
+    },
+    {
+      "id": "e3915f7e4cf071c4",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "UK youth training grants address early pipeline education rather than senior engineering roles.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.714
+    },
+    {
+      "id": "9ae934d441da1a71",
+      "title": "datasette-apps 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T04:02:45.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Embedded sandbox apps inside SQLite databases offer a fresh pattern for local data exploration.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.702
+    },
+    {
+      "id": "99dbc75c6e3dc5fa",
+      "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+      "url": "https://propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T15:03:25.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 1,
+      "relevance": 1,
+      "whyItMatters": "Unrelated crime news with zero relevance to software engineering or AI careers.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 0.689
+    },
+    {
+      "id": "28631383103972f6",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T22:11:43.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Monitor legacy URL shortener dependencies for unexpected domain hijacking risks.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.677
+    },
+    {
+      "id": "3ad115755ec36d30",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T20:29:48.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Wearable force sensors target hardware engineers rather than software developers.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.645
+    },
+    {
+      "id": "f047b899004cf10d",
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "url": "https://fakemetrics.com/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T18:08:04.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "A vanity metrics dashboard for indie hackers offers little value for backend architectural decisions.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.602
+    },
+    {
+      "id": "b4260db782b8f2ad",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-15T20:20:05.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "A neat procedural generation demo built entirely for browser-based rendering.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.522
+    },
+    {
+      "id": "aa7b1d783c6b1d0c",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T19:25:27.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 1,
+      "relevance": 0,
+      "whyItMatters": "Historical physics trivia with zero connection to modern backend or machine learning engineering.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 0.469
+    },
+    {
+      "id": "43916558be0e93ec",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "url": "https://github.com/ages2001/WINUDF",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T08:00:13.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "A legacy DOS and Windows driver has no utility for modern backend or AI engineering stacks.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.45
+    },
+    {
+      "id": "d9a15b4078d3c98e",
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T05:50:37.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "General maker tutorials provide hands-on hardware inspiration but lack software engineering depth.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.422
+    },
+    {
+      "id": "0907fbf8de485d00",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T02:53:30.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Watch out for phishing attempts targeting your developer email address.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.388
+    },
+    {
+      "id": "8148552b8a3c54fd",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-16T07:55:10.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 1,
+      "relevance": 1,
+      "whyItMatters": "Geometric math for rounded rectangle rendering applies to frontend UI design rather than backend logic.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 0.28
+    }
+  ]
+}
