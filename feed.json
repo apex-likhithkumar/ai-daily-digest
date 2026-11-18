@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T03:57:25.671Z",
+  "generatedAt": "2026-11-18T11:37:30.083Z",
   "items": [
+    {
+      "id": "7c37480e5f494a78",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T10:19:04.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 9,
+      "relevance": 8,
+      "whyItMatters": "Lower token costs and new frontier capabilities let you scale inference pipelines more affordably.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 8.281
+    },
     {
       "id": "c60558e98558e0e7",
       "title": "External sandboxes for coding agents",
@@ -22,7 +45,7 @@
         "today",
         "important"
       ],
-      "rank": 7.253
+      "rank": 5.812
     },
     {
       "id": "549a77347d5e1e5f",
@@ -47,7 +70,7 @@
         "today",
         "important"
       ],
-      "rank": 7.149
+      "rank": 5.729
     },
     {
       "id": "1796857b9a1b2f79",
@@ -69,7 +92,7 @@
         "today",
         "important"
       ],
-      "rank": 6.615
+      "rank": 5.301
     },
     {
       "id": "3a6ddd65cb94a929",
@@ -91,7 +114,7 @@
         "today",
         "important"
       ],
-      "rank": 6.597
+      "rank": 5.286
     },
     {
       "id": "6e090bb95c89cabb",
@@ -113,7 +136,7 @@
         "today",
         "important"
       ],
-      "rank": 6.43
+      "rank": 5.153
     },
     {
       "id": "2c0a64e08e41f662",
@@ -135,7 +158,7 @@
         "today",
         "important"
       ],
-      "rank": 6.366
+      "rank": 5.102
     },
     {
       "id": "206b86c970ea91d6",
@@ -157,7 +180,7 @@
         "today",
         "important"
       ],
-      "rank": 6.165
+      "rank": 4.94
     },
     {
       "id": "8e21326b778b59c3",
@@ -179,7 +202,50 @@
         "today",
         "important"
       ],
-      "rank": 6.088
+      "rank": 4.878
+    },
+    {
+      "id": "39e9943447463a62",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-17T16:01:04.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "AWS Trainium inference engine provides a cost-effective alternative for hosting open-source models.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.768
+    },
+    {
+      "id": "3ede266c56e21b63",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T04:14:04.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Community speculation on delayed model drops reminds you to track release timelines closely.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.524
     },
     {
       "id": "6dbfd2c16f1d581a",
@@ -200,7 +266,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.602
+      "rank": 4.489
     },
     {
       "id": "0f81d901dab588c1",
@@ -222,7 +288,7 @@
         "today",
         "important"
       ],
-      "rank": 5.569
+      "rank": 4.462
     },
     {
       "id": "fa2d79e8a491ed5a",
@@ -244,7 +310,7 @@
         "today",
         "important"
       ],
-      "rank": 5.396
+      "rank": 4.324
     },
     {
       "id": "5b0b199a3f155cec",
@@ -266,7 +332,7 @@
         "today",
         "important"
       ],
-      "rank": 5.232
+      "rank": 4.193
     },
     {
       "id": "8f07365d378cd3fa",
@@ -287,7 +353,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.211
+      "rank": 4.176
     },
     {
       "id": "069078b2b4e3b49a",
@@ -306,10 +372,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 5.051
+      "rank": 4.048
     },
     {
       "id": "e0d2ba07cf0f2da7",
@@ -330,7 +395,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.945
+      "rank": 3.963
     },
     {
       "id": "23791fed6fa0ce2c",
@@ -351,7 +416,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.859
+      "rank": 3.894
     },
     {
       "id": "027b06d66aa2428c",
@@ -372,7 +437,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.824
+      "rank": 3.865
     },
     {
       "id": "b397f013e77fa481",
@@ -393,7 +458,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.781
+      "rank": 3.832
     },
     {
       "id": "692230a9d797ddbd",
@@ -414,7 +479,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.656
+      "rank": 3.731
     },
     {
       "id": "dfdee5b6b2fccda4",
@@ -435,7 +500,28 @@
       "labels": [
         "today"
       ],
-      "rank": 4.608
+      "rank": 3.692
+    },
+    {
+      "id": "d021019fd8304ea4",
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T03:47:43.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Alternative training modalities hint at new domain-specific embedding strategies you might explore.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.669
     },
     {
       "id": "af19957a97c276aa",
@@ -458,7 +544,7 @@
         "today",
         "important"
       ],
-      "rank": 4.54
+      "rank": 3.638
     },
     {
       "id": "a909c419b8fadbae",
@@ -478,10 +564,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.449
+      "rank": 3.565
     },
     {
       "id": "2052af3031ae30d9",
@@ -502,7 +587,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.408
+      "rank": 3.532
     },
     {
       "id": "38c4a38bd61908e3",
@@ -523,7 +608,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.39
+      "rank": 3.518
     },
     {
       "id": "ed47f6db4915840c",
@@ -545,7 +630,7 @@
         "today",
         "important"
       ],
-      "rank": 4.383
+      "rank": 3.512
     },
     {
       "id": "8239fbdc6243950a",
@@ -566,7 +651,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.236
+      "rank": 3.395
     },
     {
       "id": "b20533735bac1c5f",
@@ -587,7 +672,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.122
+      "rank": 3.303
     },
     {
       "id": "b8930a9a56df63fc",
@@ -608,7 +693,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.082
+      "rank": 3.271
     },
     {
       "id": "887a9d54e326095b",
@@ -629,7 +714,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.891
+      "rank": 3.118
     },
     {
       "id": "ae6cdc6347964b56",
@@ -652,7 +737,7 @@
         "today",
         "important"
       ],
-      "rank": 3.841
+      "rank": 3.078
     },
     {
       "id": "d4875a92aea85dac",
@@ -673,7 +758,28 @@
       "labels": [
         "important"
       ],
-      "rank": 3.829
+      "rank": 3.068
+    },
+    {
+      "id": "6cab9c8cd38347e3",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Media partnership expands news access inside ChatGPT without changing your backend or AI workflow.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.002
     },
     {
       "id": "6ab4eb3121ad6e12",
@@ -694,7 +800,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.701
+      "rank": 2.966
     },
     {
       "id": "5b158888670aa71b",
@@ -716,7 +822,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.624
+      "rank": 2.904
     },
     {
       "id": "776157cf22e3ea27",
@@ -737,7 +843,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.607
+      "rank": 2.89
+    },
+    {
+      "id": "55dde3921be9b1d7",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T11:30:00.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 1,
+      "whyItMatters": "Robotics data startup funding indicates broader capital flows rather than software engineering opportunities.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.79
     },
     {
       "id": "94ec9ff9d4729a9e",
@@ -758,7 +885,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.462
+      "rank": 2.774
     },
     {
       "id": "48c46304656078a6",
@@ -779,7 +906,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.457
+      "rank": 2.771
     },
     {
       "id": "cdafd8ebe9f4be7a",
@@ -800,7 +927,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.43
+      "rank": 2.748
     },
     {
       "id": "9f7286d0bf416b1a",
@@ -821,7 +948,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.417
+      "rank": 2.738
     },
     {
       "id": "0488c951c7292232",
@@ -842,7 +969,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.394
+      "rank": 2.72
     },
     {
       "id": "9073920a14eae64d",
@@ -863,7 +990,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.309
+      "rank": 2.651
     },
     {
       "id": "2b699e1f4bac1f07",
@@ -884,7 +1011,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.252
+      "rank": 2.606
     },
     {
       "id": "d218f9a95b85493a",
@@ -905,7 +1032,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.181
+      "rank": 2.549
     },
     {
       "id": "28fff23dec51a9bb",
@@ -926,7 +1053,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.181
+      "rank": 2.549
     },
     {
       "id": "5b6a4fa0520d8905",
@@ -947,7 +1074,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.17
+      "rank": 2.54
+    },
+    {
+      "id": "03692ec60cac1bbf",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T10:20:30.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "Chemical analysis datasets for scent detection offer niche vector embedding use cases outside standard text.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T11:37:30.083Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.505
     },
     {
       "id": "9567fc17c1fdcddf",
@@ -968,7 +1116,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.099
+      "rank": 2.484
     },
     {
       "id": "bc1083d540d97a0c",
@@ -989,7 +1137,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.001
+      "rank": 2.405
     },
     {
       "id": "a70cae4c16f0fdc6",
@@ -1011,7 +1159,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.982
+      "rank": 2.39
     },
     {
       "id": "3aa0c6065ac07d71",
@@ -1032,7 +1180,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.937
+      "rank": 2.354
     },
     {
       "id": "8c5b4e01285e983d",
@@ -1053,7 +1201,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.932
+      "rank": 2.35
     },
     {
       "id": "0761da68e54fd0db",
@@ -1072,7 +1220,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.854
+      "rank": 2.287
     },
     {
       "id": "7157ce3b54a8a376",
@@ -1093,7 +1241,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.848
+      "rank": 2.282
     },
     {
       "id": "698ced14e342737d",
@@ -1114,7 +1262,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.829
+      "rank": 2.267
     },
     {
       "id": "7cc4bd0d8db8c788",
@@ -1135,7 +1283,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.827
+      "rank": 2.265
     },
     {
       "id": "1e308b5aafc025fe",
@@ -1156,7 +1304,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.787
+      "rank": 2.233
     },
     {
       "id": "cb1d8f8bc84f7e6a",
@@ -1177,7 +1325,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.769
+      "rank": 2.219
     },
     {
       "id": "3a4b135687e309c5",
@@ -1198,7 +1346,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.764
+      "rank": 2.215
     },
     {
       "id": "7a5b841ecd5649fa",
@@ -1219,7 +1367,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.762
+      "rank": 2.214
     },
     {
       "id": "764198fc49a3e15f",
@@ -1239,7 +1387,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.673
+      "rank": 2.142
     },
     {
       "id": "b4420b34b7621c1f",
@@ -1260,7 +1408,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.619
+      "rank": 2.098
     },
     {
       "id": "df92921082e9f46d",
@@ -1281,7 +1429,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.476
+      "rank": 1.984
     },
     {
       "id": "01ad01e5cd4126d0",
@@ -1302,7 +1450,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.406
+      "rank": 1.928
     },
     {
       "id": "735df09c2ed1f9d3",
@@ -1322,7 +1470,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.166
+      "rank": 1.736
     },
     {
       "id": "590cb0b9c5dd23f2",
@@ -1341,7 +1489,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.141
+      "rank": 1.716
     },
     {
       "id": "c6c361c53bc4ce2d",
@@ -1359,10 +1507,8 @@
       "whyItMatters": "CRM sales plugins target non-technical enterprise users rather than API developers.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.135
+      "labels": [],
+      "rank": 1.711
     },
     {
       "id": "8129f68e260304e7",
@@ -1382,7 +1528,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.029
+      "rank": 1.626
     },
     {
       "id": "b2955c38ff71d9a1",
@@ -1401,7 +1547,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.987
+      "rank": 1.592
     },
     {
       "id": "0604bc2b50fc0c3b",
@@ -1420,7 +1566,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.962
+      "rank": 1.573
     },
     {
       "id": "ae3ee0f483ed9177",
@@ -1439,10 +1585,8 @@
       "whyItMatters": "Philosophical programming quotes offer light reading but no concrete code improvements.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.925
+      "labels": [],
+      "rank": 1.542
     },
     {
       "id": "6755813e5cbe36f0",
@@ -1463,7 +1607,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.895
+      "rank": 1.519
     },
     {
       "id": "f054a54f8228cfac",
@@ -1482,7 +1626,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.878
+      "rank": 1.505
     },
     {
       "id": "e9a68a300e49f431",
@@ -1502,7 +1646,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.866
+      "rank": 1.495
     },
     {
       "id": "853b24ff0d6ecd3f",
@@ -1523,7 +1667,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.784
+      "rank": 1.43
     },
     {
       "id": "98ef486c7d4edc83",
@@ -1544,7 +1688,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.771
+      "rank": 1.419
     },
     {
       "id": "cfcc7acb02e9ca79",
@@ -1565,7 +1709,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.75
+      "rank": 1.403
     },
     {
       "id": "b0ded74e06b06613",
@@ -1586,7 +1730,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.75
+      "rank": 1.403
     },
     {
       "id": "a6c7c2ca104f78f1",
@@ -1607,7 +1751,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.706
+      "rank": 1.367
     },
     {
       "id": "b4d0f21c2c604500",
@@ -1626,7 +1770,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.7
+      "rank": 1.362
     },
     {
       "id": "c267813b00db4e00",
@@ -1645,7 +1789,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.661
+      "rank": 1.331
     },
     {
       "id": "ebd9eb94963902d2",
@@ -1667,7 +1811,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.63
+      "rank": 1.306
     },
     {
       "id": "11cf973c0d595b96",
@@ -1686,7 +1830,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.623
+      "rank": 1.301
     },
     {
       "id": "81bd7f76e2a9d5f3",
@@ -1705,7 +1849,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.559
+      "rank": 1.249
     },
     {
       "id": "a7baa208561a2ac2",
@@ -1724,7 +1868,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.532
+      "rank": 1.227
     },
     {
       "id": "f26f2a4dfd6b9b95",
@@ -1743,7 +1887,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.53
+      "rank": 1.226
     },
     {
       "id": "294a13221fad339b",
@@ -1764,7 +1908,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.521
+      "rank": 1.219
     },
     {
       "id": "f378d4ace0f37459",
@@ -1785,7 +1929,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.331
+      "rank": 1.067
     },
     {
       "id": "91e58e2ea930c2fa",
@@ -1804,7 +1948,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.33
+      "rank": 1.066
     },
     {
       "id": "6f099656459b9bfa",
@@ -1825,7 +1969,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.266
+      "rank": 1.014
     },
     {
       "id": "3899b6e8ee3cc1f1",
@@ -1844,7 +1988,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.249
+      "rank": 1.001
     },
     {
       "id": "58da9c66b1456ac9",
@@ -1863,7 +2007,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.249
+      "rank": 1.001
     },
     {
       "id": "b1c71d07875ac772",
@@ -1883,7 +2027,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.239
+      "rank": 0.993
     },
     {
       "id": "f891bd93f3d21469",
@@ -1902,7 +2046,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.198
+      "rank": 0.96
     },
     {
       "id": "dca31e1cbc0198f3",
@@ -1921,7 +2065,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.054
+      "rank": 0.845
     },
     {
       "id": "950ac38f23f2d5a7",
@@ -1940,7 +2084,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.016
+      "rank": 0.814
     },
     {
       "id": "87d7014c15ee68a3",
@@ -1959,7 +2103,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.01
+      "rank": 0.81
     },
     {
       "id": "3bc6cdb34c17f840",
@@ -1979,7 +2123,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.006
+      "rank": 0.807
     },
     {
       "id": "7c04761a4076fc82",
@@ -1999,7 +2143,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.005
+      "rank": 0.806
     },
     {
       "id": "83b3b2200438f294",
@@ -2018,7 +2162,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.992
+      "rank": 0.795
     },
     {
       "id": "c650c89a876a2c67",
@@ -2037,7 +2181,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.971
+      "rank": 0.778
     },
     {
       "id": "4b0fc5b701ffd77d",
@@ -2056,7 +2200,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.968
+      "rank": 0.776
     },
     {
       "id": "0bc322583e6f0775",
@@ -2075,7 +2219,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.936
+      "rank": 0.75
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -2094,7 +2238,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.841
+      "rank": 0.674
     },
     {
       "id": "4b4d48f19f03e283",
@@ -2114,7 +2258,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.802
+      "rank": 0.643
     },
     {
       "id": "e3915f7e4cf071c4",
@@ -2133,7 +2277,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.714
+      "rank": 0.572
     },
     {
       "id": "9ae934d441da1a71",
@@ -2153,7 +2297,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.702
+      "rank": 0.562
     },
     {
       "id": "99dbc75c6e3dc5fa",
@@ -2174,7 +2318,7 @@
       "labels": [
         "today"
       ],
-      "rank": 0.689
+      "rank": 0.552
     },
     {
       "id": "28631383103972f6",
@@ -2193,7 +2337,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.677
+      "rank": 0.543
     },
     {
       "id": "3ad115755ec36d30",
@@ -2212,7 +2356,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.645
+      "rank": 0.517
     },
     {
       "id": "f047b899004cf10d",
@@ -2231,7 +2375,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.602
+      "rank": 0.483
     },
     {
       "id": "b4260db782b8f2ad",
@@ -2250,7 +2394,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.522
+      "rank": 0.418
     },
     {
       "id": "aa7b1d783c6b1d0c",
@@ -2271,7 +2415,7 @@
       "labels": [
         "today"
       ],
-      "rank": 0.469
+      "rank": 0.376
     },
     {
       "id": "43916558be0e93ec",
@@ -2290,7 +2434,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.45
+      "rank": 0.36
     },
     {
       "id": "d9a15b4078d3c98e",
@@ -2309,7 +2453,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.422
+      "rank": 0.338
     },
     {
       "id": "0907fbf8de485d00",
@@ -2328,7 +2472,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.388
+      "rank": 0.311
     },
     {
       "id": "8148552b8a3c54fd",
@@ -2347,7 +2491,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.28
+      "rank": 0.225
     }
   ]
 }
