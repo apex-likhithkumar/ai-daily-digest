@@ -1,6 +1,71 @@
 {
-  "generatedAt": "2026-11-18T11:37:30.083Z",
+  "generatedAt": "2026-11-18T20:28:23.991Z",
   "items": [
+    {
+      "id": "037978009f803b44",
+      "title": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:05:45.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 7,
+      "relevance": 10,
+      "whyItMatters": "Connect private APIs and MCP servers securely within enterprise topologies to harden your agent deployments.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 7.88
+    },
+    {
+      "id": "75623b38e68bd27d",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T18:53:43.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 8,
+      "whyItMatters": "Diagnose data-loading bottlenecks to speed up your custom LLM fine-tuning pipelines.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 6.497
+    },
+    {
+      "id": "f689168723dc030d",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "New post-training optimizations might help you fine-tune open-source models with fewer hardware resources.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.495
+    },
     {
       "id": "7c37480e5f494a78",
       "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
@@ -22,7 +87,309 @@
         "today",
         "important"
       ],
-      "rank": 8.281
+      "rank": 6.414
+    },
+    {
+      "id": "11e4ac4d10922d39",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T15:44:02.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 6,
+      "whyItMatters": "Frontier labs face growing security hurdles as agentic systems discover novel zero-day vulnerabilities.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.279
+    },
+    {
+      "id": "3107113245e39d0c",
+      "title": "How Social Department built culture-aware video discovery",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:27:56.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Multimodal video search patterns provide architectural ideas for your own embedding and retrieval pipelines.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 6.216
+    },
+    {
+      "id": "881783ef802b37af",
+      "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T18:58:42.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Voice agent architectures demonstrate real-time audio integration patterns applicable to your AI services.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 6.13
+    },
+    {
+      "id": "50e3ea47cbae988d",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "sources": [
+        "Google DeepMind"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T18:13:42.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 4,
+      "whyItMatters": "Examine the architectural upgrades in this interactive environment release for agent simulation ideas.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "breaking",
+        "today",
+        "important"
+      ],
+      "rank": 5.998
+    },
+    {
+      "id": "569017a70fd8b933",
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T15:58:27.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "Large-scale C to Rust migrations via agents demonstrate automated refactoring limits for complex codebases.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.796
+    },
+    {
+      "id": "dbf7233003822774",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T15:49:34.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Autonomous auditing agents might soon replace manual compliance checks in your backend workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.596
+    },
+    {
+      "id": "2ab4deb8d86920bc",
+      "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T20:13:18.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Cross-region inference routing patterns help scale your high-throughput Python and FastAPI backend endpoints.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.559
+    },
+    {
+      "id": "66831b4cb9812f3b",
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents",
+      "sources": [
+        "AWS ML Blog"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T18:54:08.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 7,
+      "whyItMatters": "Enterprise data prep strategies help you structure pgvector pipelines for better agent context retrieval.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.543
+    },
+    {
+      "id": "bf1424b145e4fc73",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T15:00:23.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 7,
+      "whyItMatters": "Apply these time-series ingestion patterns to handle real-time streaming data alongside your vector storage.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.465
+    },
+    {
+      "id": "82df8b1098237927",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T12:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 6,
+      "relevance": 8,
+      "whyItMatters": "New enterprise document parsers may streamline how your retrieval pipelines handle unstructured data.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 5.324
+    },
+    {
+      "id": "53f2a14376dda94d",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 7,
+      "relevance": 8,
+      "whyItMatters": "Inspect the sandboxing mechanics to secure your own local agent execution environments.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 5.162
+    },
+    {
+      "id": "bfaa144bfebbdf7c",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T13:01:05.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 4,
+      "whyItMatters": "Hardware supply shifts in major markets could alter infrastructure costs for heavy inference pipelines.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.676
+    },
+    {
+      "id": "af1852b4c46dc30e",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Deploy massive Mixture-of-Experts models locally using quantization techniques that fit standard server RAM.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.65
+    },
+    {
+      "id": "2f277485244a55e7",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:56:39.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 4,
+      "whyItMatters": "Cursor and Claude Code integration expands AR development workflows, offering a glimpse into multi-tool generation.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.53
     },
     {
       "id": "c60558e98558e0e7",
@@ -45,7 +412,7 @@
         "today",
         "important"
       ],
-      "rank": 5.812
+      "rank": 4.502
     },
     {
       "id": "549a77347d5e1e5f",
@@ -67,10 +434,52 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 5.729
+      "rank": 4.437
+    },
+    {
+      "id": "2f383f35a9e21175",
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "url": "https://theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:30:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 2,
+      "whyItMatters": "Financial overviews of hardware monopolies give broad market context but offer no code to write.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.278
+    },
+    {
+      "id": "358ebcd58de33063",
+      "title": "The PSF end-of-year fundraiser",
+      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T14:44:48.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 5,
+      "whyItMatters": "Supporting the core Python ecosystem protects the package dependencies powering your FastAPI microservices.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.238
     },
     {
       "id": "1796857b9a1b2f79",
@@ -92,7 +501,7 @@
         "today",
         "important"
       ],
-      "rank": 5.301
+      "rank": 4.105
     },
     {
       "id": "3a6ddd65cb94a929",
@@ -111,10 +520,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 5.286
+      "rank": 4.094
     },
     {
       "id": "6e090bb95c89cabb",
@@ -136,7 +544,7 @@
         "today",
         "important"
       ],
-      "rank": 5.153
+      "rank": 3.991
     },
     {
       "id": "2c0a64e08e41f662",
@@ -158,7 +566,7 @@
         "today",
         "important"
       ],
-      "rank": 5.102
+      "rank": 3.951
     },
     {
       "id": "206b86c970ea91d6",
@@ -180,7 +588,7 @@
         "today",
         "important"
       ],
-      "rank": 4.94
+      "rank": 3.826
     },
     {
       "id": "8e21326b778b59c3",
@@ -202,7 +610,28 @@
         "today",
         "important"
       ],
-      "rank": 4.878
+      "rank": 3.778
+    },
+    {
+      "id": "0bd7a28301d2f52a",
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "url": "https://businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T16:41:22.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Safety coalitions critique model alignment standards relevant to your production LLM choice.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.765
     },
     {
       "id": "39e9943447463a62",
@@ -221,10 +650,30 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.768
+      "rank": 3.693
+    },
+    {
+      "id": "8b6ac2940fdc0d0e",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T06:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Review safety alignment strategies when deploying custom enterprise agents.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.687
     },
     {
       "id": "3ede266c56e21b63",
@@ -245,7 +694,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.524
+      "rank": 3.504
     },
     {
       "id": "6dbfd2c16f1d581a",
@@ -266,7 +715,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.489
+      "rank": 3.477
     },
     {
       "id": "0f81d901dab588c1",
@@ -285,10 +734,30 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.462
+      "rank": 3.456
+    },
+    {
+      "id": "5e888bac8f86cebe",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Neocloud funding structures dictate where specialized GPU instances will be available for training.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.385
     },
     {
       "id": "fa2d79e8a491ed5a",
@@ -307,10 +776,30 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.324
+      "rank": 3.349
+    },
+    {
+      "id": "6ae82bdc38649050",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T17:32:10.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Bank policies on financial agents highlight liability boundaries when deploying autonomous tools.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.307
     },
     {
       "id": "5b0b199a3f155cec",
@@ -329,10 +818,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.193
+      "rank": 3.247
     },
     {
       "id": "8f07365d378cd3fa",
@@ -353,7 +841,28 @@
       "labels": [
         "today"
       ],
-      "rank": 4.176
+      "rank": 3.234
+    },
+    {
+      "id": "bdaac6f563ec9175",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T11:16:53.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Multimodal generative additions show how automated pipelines sync disparate media types seamlessly.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.221
     },
     {
       "id": "069078b2b4e3b49a",
@@ -374,7 +883,28 @@
       "labels": [
         "important"
       ],
-      "rank": 4.048
+      "rank": 3.135
+    },
+    {
+      "id": "09b6248761ae0d2e",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "url": "https://theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:07:29.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Legislative updates outline potential liability rules for AI deployment without altering local codebases.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.078
     },
     {
       "id": "e0d2ba07cf0f2da7",
@@ -392,10 +922,29 @@
       "whyItMatters": "Self-improving CI pipelines offer a novel pattern for maintaining codebases generated by autonomous agent swarms.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 3.069
+    },
+    {
+      "id": "b832d435844d4fc4",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+      "sources": [
+        "MIT Technology Review"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T14:42:44.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Market saturation forces a shift toward practical utility over flashy consumer-facing features.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 3.963
+      "rank": 3.048
     },
     {
       "id": "23791fed6fa0ce2c",
@@ -413,10 +962,8 @@
       "whyItMatters": "New coding models offer alternative completions for your IDE setup.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.894
+      "labels": [],
+      "rank": 3.016
     },
     {
       "id": "027b06d66aa2428c",
@@ -434,10 +981,73 @@
       "whyItMatters": "Custom decision models provide a cheaper alternative to large LLMs for backend routing logic.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.994
+    },
+    {
+      "id": "c7d3ecb006439a13",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "sources": [
+        "OpenAI",
+        "Hacker News"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 7,
+      "relevance": 3,
+      "whyItMatters": "Observe how frontier models automate hardware layout optimization for specialized silicon.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 2.989
+    },
+    {
+      "id": "d414dc9f436f65c1",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "url": "https://theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Complex memory mapping architectures offer inspiration for advanced vector database retrieval patterns.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 3.865
+      "rank": 2.986
+    },
+    {
+      "id": "61a25aea71886a4b",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T18:04:05.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Temporary thread isolation in consumer search tools rarely translates to backend API design patterns.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.985
     },
     {
       "id": "b397f013e77fa481",
@@ -458,7 +1068,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.832
+      "rank": 2.967
+    },
+    {
+      "id": "2d5a3de817461fab",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T16:59:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Executive philosophy debates do not change how you write TypeScript or configure LangGraph.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.893
     },
     {
       "id": "692230a9d797ddbd",
@@ -476,10 +1107,8 @@
       "whyItMatters": "A phased roadmap for baking safety guardrails directly into your multi-agent architecture.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.731
+      "labels": [],
+      "rank": 2.89
     },
     {
       "id": "dfdee5b6b2fccda4",
@@ -497,10 +1126,8 @@
       "whyItMatters": "Python SDK and Terraform templates simplify webhook ingestion and memory management for production chat agents.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.692
+      "labels": [],
+      "rank": 2.86
     },
     {
       "id": "d021019fd8304ea4",
@@ -521,7 +1148,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.669
+      "rank": 2.842
     },
     {
       "id": "af19957a97c276aa",
@@ -541,10 +1168,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 3.638
+      "rank": 2.817
     },
     {
       "id": "a909c419b8fadbae",
@@ -566,7 +1192,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.565
+      "rank": 2.761
     },
     {
       "id": "2052af3031ae30d9",
@@ -584,10 +1210,8 @@
       "whyItMatters": "Python SDK APIs for synthetic data generation can feed clean training sets into your custom fine-tuning pipelines.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.532
+      "labels": [],
+      "rank": 2.736
     },
     {
       "id": "38c4a38bd61908e3",
@@ -605,10 +1229,8 @@
       "whyItMatters": "Enterprise agent governance patterns from re:Invent can inform your internal API security design.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.518
+      "labels": [],
+      "rank": 2.725
     },
     {
       "id": "ed47f6db4915840c",
@@ -627,10 +1249,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 3.512
+      "rank": 2.72
     },
     {
       "id": "8239fbdc6243950a",
@@ -651,7 +1272,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.395
+      "rank": 2.629
     },
     {
       "id": "b20533735bac1c5f",
@@ -669,10 +1290,8 @@
       "whyItMatters": "Model vulnerability findings highlight safety risks when deploying untrusted prompt handlers.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.303
+      "labels": [],
+      "rank": 2.558
     },
     {
       "id": "b8930a9a56df63fc",
@@ -690,10 +1309,29 @@
       "whyItMatters": "Architecture reviews can drop LLMs for deterministic code where rules suffice.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.534
+    },
+    {
+      "id": "e48dfd6c57c460dd",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "url": "https://theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T18:34:15.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "Industry commentary on leadership shifts offers little technical value for your daily architecture.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 3.271
+      "rank": 2.461
     },
     {
       "id": "887a9d54e326095b",
@@ -714,7 +1352,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.118
+      "rank": 2.415
     },
     {
       "id": "ae6cdc6347964b56",
@@ -734,10 +1372,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 3.078
+      "rank": 2.384
     },
     {
       "id": "d4875a92aea85dac",
@@ -758,7 +1395,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.068
+      "rank": 2.376
     },
     {
       "id": "6cab9c8cd38347e3",
@@ -779,7 +1416,49 @@
       "labels": [
         "today"
       ],
-      "rank": 3.002
+      "rank": 2.325
+    },
+    {
+      "id": "679cee5ea1466f1f",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "sources": [
+        "Hugging Face"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "A lightweight multilingual speech model for audio pipelines, though likely outside your usual text-centric stack.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.325
+    },
+    {
+      "id": "319e08473b4aa091",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T16:14:09.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 2,
+      "whyItMatters": "Executive commentary on hardware vendors remains tangential to your application development workflow.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.301
     },
     {
       "id": "6ab4eb3121ad6e12",
@@ -797,10 +1476,8 @@
       "whyItMatters": "Desktop client updates introduce local file automation tools worth testing for workflow scripting.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.966
+      "labels": [],
+      "rank": 2.297
     },
     {
       "id": "5b158888670aa71b",
@@ -819,10 +1496,8 @@
       "whyItMatters": "Pyodide and service workers now let you execute full Python server apps inside the browser.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.904
+      "labels": [],
+      "rank": 2.249
     },
     {
       "id": "776157cf22e3ea27",
@@ -840,10 +1515,29 @@
       "whyItMatters": "Domain-specific agent workflows demonstrate advanced context handling patterns applicable to your multi-agent systems.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.239
+    },
+    {
+      "id": "dc5855fecf52785f",
+      "title": "Codeberg seems to have vanished from DNS",
+      "url": "https://news.ycombinator.com/item?id=50542948",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T07:28:57.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Hosting alternatives face unexpected DNS outages that could disrupt open-source dependency pulls.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 2.89
+      "rank": 2.199
     },
     {
       "id": "55dde3921be9b1d7",
@@ -864,7 +1558,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.79
+      "rank": 2.161
+    },
+    {
+      "id": "727d955cd223ff9b",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T19:40:36.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "Geopolitical and entertainment news devoid of technical substance or career opportunities.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.15
     },
     {
       "id": "94ec9ff9d4729a9e",
@@ -885,7 +1600,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.774
+      "rank": 2.149
     },
     {
       "id": "48c46304656078a6",
@@ -903,10 +1618,8 @@
       "whyItMatters": "Supply chain startups expand hiring options if you seek domain-specific agent roles.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.771
+      "labels": [],
+      "rank": 2.146
     },
     {
       "id": "cdafd8ebe9f4be7a",
@@ -924,10 +1637,8 @@
       "whyItMatters": "Federal investigations into major data center operators could shift future hardware availability.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.748
+      "labels": [],
+      "rank": 2.129
     },
     {
       "id": "9f7286d0bf416b1a",
@@ -948,7 +1659,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.738
+      "rank": 2.121
     },
     {
       "id": "0488c951c7292232",
@@ -966,10 +1677,8 @@
       "whyItMatters": "Consumer task assistant update showcasing multi-step reasoning capabilities in latest frontier models.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.72
+      "labels": [],
+      "rank": 2.106
     },
     {
       "id": "9073920a14eae64d",
@@ -987,10 +1696,29 @@
       "whyItMatters": "Consumer shopping agents demonstrate new persistence patterns for multi-step autonomous tasks.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 2.054
+    },
+    {
+      "id": "f8ba41dfccb190fe",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "url": "https://theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "sources": [
+        "The Verge"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T17:50:57.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "Theme park animatronics integration provides zero utility for your backend infrastructure work.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 2.651
+      "rank": 2.039
     },
     {
       "id": "2b699e1f4bac1f07",
@@ -1011,7 +1739,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.606
+      "rank": 2.019
+    },
+    {
+      "id": "8e6075d168e06821",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "sources": [
+        "Google AI Blog"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "A consumer mobile release with no relevance to backend architecture or AI engineering.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.99
     },
     {
       "id": "d218f9a95b85493a",
@@ -1032,7 +1781,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.549
+      "rank": 1.974
     },
     {
       "id": "28fff23dec51a9bb",
@@ -1053,7 +1802,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.549
+      "rank": 1.974
     },
     {
       "id": "5b6a4fa0520d8905",
@@ -1074,7 +1823,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.54
+      "rank": 1.968
+    },
+    {
+      "id": "4b9feb41ff3655d4",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T16:18:51.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 3,
+      "relevance": 1,
+      "whyItMatters": "Historical hardware teardowns offer fascinating reading but no practical backend utility.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.951
     },
     {
       "id": "03692ec60cac1bbf",
@@ -1095,7 +1865,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.505
+      "rank": 1.94
     },
     {
       "id": "9567fc17c1fdcddf",
@@ -1116,7 +1886,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.484
+      "rank": 1.924
     },
     {
       "id": "bc1083d540d97a0c",
@@ -1137,7 +1907,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.405
+      "rank": 1.863
     },
     {
       "id": "a70cae4c16f0fdc6",
@@ -1159,7 +1929,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.39
+      "rank": 1.851
     },
     {
       "id": "3aa0c6065ac07d71",
@@ -1177,10 +1947,8 @@
       "whyItMatters": "Consumer-facing agent automation provides UX reference points for autonomous workflow design.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.354
+      "labels": [],
+      "rank": 1.823
     },
     {
       "id": "8c5b4e01285e983d",
@@ -1198,10 +1966,29 @@
       "whyItMatters": "AI safety regulations shape how foundation models deploy APIs and enterprise guardrails.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
+      "labels": [],
+      "rank": 1.82
+    },
+    {
+      "id": "e683d40fba103b5f",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "sources": [
+        "OpenAI"
+      ],
+      "bestTier": 1,
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 2,
+      "whyItMatters": "Read macro policy perspectives on AI governance without affecting your daily codebase.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
         "today"
       ],
-      "rank": 2.35
+      "rank": 1.772
     },
     {
       "id": "0761da68e54fd0db",
@@ -1220,7 +2007,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.287
+      "rank": 1.771
     },
     {
       "id": "7157ce3b54a8a376",
@@ -1241,7 +2028,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.282
+      "rank": 1.767
     },
     {
       "id": "698ced14e342737d",
@@ -1262,7 +2049,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.267
+      "rank": 1.756
     },
     {
       "id": "7cc4bd0d8db8c788",
@@ -1283,7 +2070,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.265
+      "rank": 1.754
     },
     {
       "id": "1e308b5aafc025fe",
@@ -1301,10 +2088,8 @@
       "whyItMatters": "Enterprise deployment patterns highlight common failure modes when moving prototypes to production infrastructure.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.233
+      "labels": [],
+      "rank": 1.729
     },
     {
       "id": "cb1d8f8bc84f7e6a",
@@ -1322,10 +2107,8 @@
       "whyItMatters": "Consumer workspace features offer little utility for your backend and AI engineering workflow.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.219
+      "labels": [],
+      "rank": 1.719
     },
     {
       "id": "3a4b135687e309c5",
@@ -1343,10 +2126,8 @@
       "whyItMatters": "Privacy policy changes for consumer chat logs alter how you handle sensitive API inputs.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.215
+      "labels": [],
+      "rank": 1.715
     },
     {
       "id": "7a5b841ecd5649fa",
@@ -1367,7 +2148,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.214
+      "rank": 1.714
     },
     {
       "id": "764198fc49a3e15f",
@@ -1387,7 +2168,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.142
+      "rank": 1.659
     },
     {
       "id": "b4420b34b7621c1f",
@@ -1408,7 +2189,28 @@
       "labels": [
         "today"
       ],
-      "rank": 2.098
+      "rank": 1.625
+    },
+    {
+      "id": "de9db64f82da9b0f",
+      "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie",
+      "sources": [
+        "TechCrunch"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T20:07:01.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Celebrity gossip with no relevance to your backend architecture or AI engineering work.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 1.584
     },
     {
       "id": "df92921082e9f46d",
@@ -1426,10 +2228,8 @@
       "whyItMatters": "New domain-specific travel assistants showcase proprietary retrieval patterns for narrow use cases.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.984
+      "labels": [],
+      "rank": 1.537
     },
     {
       "id": "01ad01e5cd4126d0",
@@ -1450,7 +2250,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.928
+      "rank": 1.493
     },
     {
       "id": "735df09c2ed1f9d3",
@@ -1470,7 +2270,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.736
+      "rank": 1.344
     },
     {
       "id": "590cb0b9c5dd23f2",
@@ -1489,7 +2289,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.716
+      "rank": 1.329
     },
     {
       "id": "c6c361c53bc4ce2d",
@@ -1508,7 +2308,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.711
+      "rank": 1.325
     },
     {
       "id": "8129f68e260304e7",
@@ -1528,7 +2328,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.626
+      "rank": 1.259
     },
     {
       "id": "b2955c38ff71d9a1",
@@ -1547,7 +2347,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.592
+      "rank": 1.233
     },
     {
       "id": "0604bc2b50fc0c3b",
@@ -1566,7 +2366,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.573
+      "rank": 1.218
     },
     {
       "id": "ae3ee0f483ed9177",
@@ -1586,7 +2386,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.542
+      "rank": 1.194
     },
     {
       "id": "6755813e5cbe36f0",
@@ -1604,10 +2404,8 @@
       "whyItMatters": "Venture capital moves in biotechnology rarely alter daily backend development workflows.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.519
+      "labels": [],
+      "rank": 1.176
     },
     {
       "id": "f054a54f8228cfac",
@@ -1626,7 +2424,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.505
+      "rank": 1.165
     },
     {
       "id": "e9a68a300e49f431",
@@ -1646,7 +2444,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.495
+      "rank": 1.158
     },
     {
       "id": "853b24ff0d6ecd3f",
@@ -1667,7 +2465,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.43
+      "rank": 1.107
     },
     {
       "id": "98ef486c7d4edc83",
@@ -1685,10 +2483,8 @@
       "whyItMatters": "Skip this general research link unless you specifically need academic reports for background reading.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.419
+      "labels": [],
+      "rank": 1.099
     },
     {
       "id": "cfcc7acb02e9ca79",
@@ -1709,7 +2505,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.403
+      "rank": 1.086
     },
     {
       "id": "b0ded74e06b06613",
@@ -1730,7 +2526,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.403
+      "rank": 1.086
     },
     {
       "id": "a6c7c2ca104f78f1",
@@ -1748,10 +2544,8 @@
       "whyItMatters": "Political lobbying disclosure unrelated to your day-to-day software development stack.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.367
+      "labels": [],
+      "rank": 1.059
     },
     {
       "id": "b4d0f21c2c604500",
@@ -1770,7 +2564,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.362
+      "rank": 1.055
     },
     {
       "id": "c267813b00db4e00",
@@ -1789,7 +2583,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.331
+      "rank": 1.031
     },
     {
       "id": "ebd9eb94963902d2",
@@ -1811,7 +2605,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.306
+      "rank": 1.011
     },
     {
       "id": "11cf973c0d595b96",
@@ -1830,7 +2624,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.301
+      "rank": 1.007
     },
     {
       "id": "81bd7f76e2a9d5f3",
@@ -1849,7 +2643,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.249
+      "rank": 0.967
     },
     {
       "id": "a7baa208561a2ac2",
@@ -1868,7 +2662,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.227
+      "rank": 0.951
     },
     {
       "id": "f26f2a4dfd6b9b95",
@@ -1887,7 +2681,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.226
+      "rank": 0.95
     },
     {
       "id": "294a13221fad339b",
@@ -1908,7 +2702,27 @@
       "labels": [
         "important"
       ],
-      "rank": 1.219
+      "rank": 0.944
+    },
+    {
+      "id": "479bc4e0e5b12179",
+      "title": "jackson-cmd/claude-multi-desktop: Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+      "url": "https://github.com/jackson-cmd/claude-multi-desktop",
+      "sources": [
+        "GitHub"
+      ],
+      "bestTier": 3,
+      "publishedAt": "2026-11-16T04:23:02.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 7,
+      "whyItMatters": "Isolate multi-tenant workflows or test concurrent agent setups without manually switching active sessions on your machine.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-18T20:28:23.991Z",
+      "labels": [],
+      "rank": 0.911
     },
     {
       "id": "f378d4ace0f37459",
@@ -1929,7 +2743,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.067
+      "rank": 0.826
     },
     {
       "id": "91e58e2ea930c2fa",
@@ -1948,7 +2762,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.066
+      "rank": 0.826
     },
     {
       "id": "6f099656459b9bfa",
@@ -1966,10 +2780,8 @@
       "whyItMatters": "Legacy DOM manipulation library release with zero utility for your backend and AI architecture.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.014
+      "labels": [],
+      "rank": 0.786
     },
     {
       "id": "3899b6e8ee3cc1f1",
@@ -1988,7 +2800,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.001
+      "rank": 0.775
     },
     {
       "id": "58da9c66b1456ac9",
@@ -2007,7 +2819,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.001
+      "rank": 0.775
     },
     {
       "id": "b1c71d07875ac772",
@@ -2027,7 +2839,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.993
+      "rank": 0.769
     },
     {
       "id": "f891bd93f3d21469",
@@ -2046,7 +2858,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.96
+      "rank": 0.744
     },
     {
       "id": "dca31e1cbc0198f3",
@@ -2065,7 +2877,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.845
+      "rank": 0.654
     },
     {
       "id": "950ac38f23f2d5a7",
@@ -2084,7 +2896,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.814
+      "rank": 0.631
     },
     {
       "id": "87d7014c15ee68a3",
@@ -2103,7 +2915,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.81
+      "rank": 0.627
     },
     {
       "id": "3bc6cdb34c17f840",
@@ -2123,7 +2935,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.807
+      "rank": 0.625
     },
     {
       "id": "7c04761a4076fc82",
@@ -2143,7 +2955,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.806
+      "rank": 0.624
     },
     {
       "id": "83b3b2200438f294",
@@ -2162,7 +2974,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.795
+      "rank": 0.615
     },
     {
       "id": "c650c89a876a2c67",
@@ -2181,7 +2993,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.778
+      "rank": 0.603
     },
     {
       "id": "4b0fc5b701ffd77d",
@@ -2200,7 +3012,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.776
+      "rank": 0.601
     },
     {
       "id": "0bc322583e6f0775",
@@ -2219,7 +3031,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.75
+      "rank": 0.581
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -2238,7 +3050,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.674
+      "rank": 0.522
     },
     {
       "id": "4b4d48f19f03e283",
@@ -2258,7 +3070,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.643
+      "rank": 0.498
     },
     {
       "id": "e3915f7e4cf071c4",
@@ -2277,7 +3089,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.572
+      "rank": 0.443
     },
     {
       "id": "9ae934d441da1a71",
@@ -2297,7 +3109,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.562
+      "rank": 0.436
     },
     {
       "id": "99dbc75c6e3dc5fa",
@@ -2315,10 +3127,8 @@
       "whyItMatters": "Unrelated crime news with zero relevance to software engineering or AI careers.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 0.552
+      "labels": [],
+      "rank": 0.428
     },
     {
       "id": "28631383103972f6",
@@ -2337,7 +3147,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.543
+      "rank": 0.42
     },
     {
       "id": "3ad115755ec36d30",
@@ -2356,7 +3166,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.517
+      "rank": 0.4
     },
     {
       "id": "f047b899004cf10d",
@@ -2375,7 +3185,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.483
+      "rank": 0.374
     },
     {
       "id": "b4260db782b8f2ad",
@@ -2394,7 +3204,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.418
+      "rank": 0.324
     },
     {
       "id": "aa7b1d783c6b1d0c",
@@ -2412,10 +3222,8 @@
       "whyItMatters": "Historical physics trivia with zero connection to modern backend or machine learning engineering.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 0.376
+      "labels": [],
+      "rank": 0.291
     },
     {
       "id": "43916558be0e93ec",
@@ -2434,7 +3242,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.36
+      "rank": 0.279
     },
     {
       "id": "d9a15b4078d3c98e",
@@ -2453,7 +3261,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.338
+      "rank": 0.262
     },
     {
       "id": "0907fbf8de485d00",
@@ -2472,7 +3280,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.311
+      "rank": 0.241
     },
     {
       "id": "8148552b8a3c54fd",
@@ -2491,7 +3299,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.225
+      "rank": 0.174
     }
   ]
 }
