@@ -40,6 +40,13 @@ describe('buildPrompt', () => {
     expect(prompt).toContain('1. [S] Second story');
     expect(prompt).toContain('untrusted');
   });
+
+  it('asks for varied, concrete one-liners, bans stock phrases and gives style examples', () => {
+    const prompt = buildPrompt([story({ title: 'First story' })], profile, 300);
+    expect(prompt).toContain('Never use the words "directly", "impact", "impacts" or "improves"');
+    expect(prompt).toContain('Vary the sentence openings');
+    expect(prompt).toContain('Examples of the style (do not copy them)');
+  });
 });
 
 describe('parseScores', () => {
