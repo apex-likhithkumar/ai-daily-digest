@@ -10,6 +10,7 @@ import { hoursSince } from './lib/time';
 // GitHub delays scheduled workflows under load: real gaps between runs were 6-10h, so a 6h threshold showed the banner constantly.
 const STALE_AFTER_HOURS = 12;
 const EMPTY_FEED_ITEMS: never[] = [];
+const SKELETON_CARDS = 4;
 
 export default function App() {
   const { feed, error } = useFeed();
@@ -32,6 +33,7 @@ export default function App() {
   const readSet = useMemo(() => new Set(prefs.read), [prefs.read]);
 
   const stale = feed !== null && hoursSince(feed.generatedAt, now) > STALE_AFTER_HOURS;
+  const loading = feed === null && error === null;
 
   function markRead(id: string) {
     if (!readSet.has(id)) update({ read: [id, ...prefs.read].slice(0, READ_CAP) });
@@ -40,23 +42,53 @@ export default function App() {
   return (
     <div className="app">
       <Header generatedAt={feed?.generatedAt ?? null} now={now} theme={prefs.theme} onTheme={(theme) => update({ theme })} />
-      <FilterBar
-        view={view}
-        counts={counts}
-        topics={prefs.topics}
-        muted={prefs.muted}
-        onView={setView}
-        onTopics={(topics) => update({ topics })}
-        onMuted={(muted) => update({ muted })}
-      />
-      {stale && <p className="notice">This digest is more than {STALE_AFTER_HOURS} hours old. The next update may be delayed.</p>}
-      {error && <p className="notice notice--error">Could not load the digest ({error}).</p>}
-      <main className="list">
-        {visible.map((item) => (
-          <ItemCard key={item.id} item={item} now={now} read={readSet.has(item.id)} onRead={markRead} />
-        ))}
-        {feed && visible.length === 0 && <p className="empty">Nothing here for these filters.</p>}
-      </main>
+      <div className="layout">
+        <aside className="rail">
+          <FilterBar
+            view={view}
+            counts={counts}
+            topics={prefs.topics}
+            muted={prefs.muted}
+            onView={setView}
+            onTopics={(topics) => update({ topics })}
+            onMuted={(muted) => update({ muted })}
+          />
+        </aside>
+        <div className="content">
+          {stale && <p className="notice">This digest is more than {STALE_AFTER_HOURS} hours old. The next update may be delayed.</p>}
+          {error && <p className="notice notice--error">Could not load the digest ({error}).</p>}
+          <main className="list" aria-busy={loading}>
+            {loading &&
+              Array.from({ length: SKELETON_CARDS }, (_, i) => (
+                <div key={i} className="card card--skeleton" aria-hidden="true">
+                  <span className="skeleton-line" />
+                  <span className="skeleton-line" />
+                  <span className="skeleton-line" />
+                </div>
+              ))}
+            {visible.map((item, index) => (
+              <ItemCard
+                key={item.id}
+                item={item}
+                now={now}
+                read={readSet.has(item.id)}
+                onRead={markRead}
+                lead={view === 'top' && index === 0}
+              />
+            ))}
+            {feed && visible.length === 0 && (
+              <p className="empty">
+                {view === 'breaking' && prefs.topics.length === 0 && prefs.muted.length === 0
+                  ? 'Nothing is breaking right now. Today shows everything from the last 24 hours.'
+                  : 'Nothing matches these filters. Clear a topic or unmute a word to see more.'}
+              </p>
+            )}
+          </main>
+          <footer className="foot">
+            Your topic filters, muted words and read marks stay in this browser. The feed refreshes every few hours.
+          </footer>
+        </div>
+      </div>
     </div>
   );
 }

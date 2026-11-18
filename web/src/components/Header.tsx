@@ -11,13 +11,17 @@ interface Props {
   onTheme: (theme: Theme) => void;
 }
 
+function longDate(now: Date): string {
+  return now.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
+}
+
 export function Header({ generatedAt, now, theme, onTheme }: Props) {
   return (
     <header className="header">
       <div>
         <h1 className="header__title">AI Daily Digest</h1>
         <p className="header__sub">
-          {generatedAt ? `Updated ${timeAgo(generatedAt, now)}` : 'Loading…'}
+          {generatedAt ? `${longDate(now)}, updated ${timeAgo(generatedAt, now)}` : 'Loading…'}
         </p>
       </div>
       <button

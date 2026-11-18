@@ -44,4 +44,22 @@ describe('ItemCard', () => {
     expect(screen.queryByRole('link')).toBeNull();
     expect(screen.getByText('OpenAI releases GPT-5')).toBeInTheDocument();
   });
+
+  // Redesign: importance is shown as a 5-bar signal meter with an accessible text equivalent.
+  it('shows importance as a signal meter, 5 bars for 10/10 and 3 for 5/10', () => {
+    const { container, rerender } = render(<ItemCard item={{ ...item, importance: 10 }} now={NOW} read={false} onRead={() => {}} />);
+    expect(screen.getByRole('img', { name: 'Importance 10 of 10' })).toBeInTheDocument();
+    expect(container.querySelectorAll('.signal i.on')).toHaveLength(5);
+    rerender(<ItemCard item={{ ...item, importance: 5 }} now={NOW} read={false} onRead={() => {}} />);
+    expect(container.querySelectorAll('.signal i.on')).toHaveLength(3);
+  });
+
+  it('marks breaking items and the lead story with their own card classes', () => {
+    const { container, rerender } = render(<ItemCard item={item} now={NOW} read={false} onRead={() => {}} lead />);
+    expect(container.querySelector('.card--breaking')).not.toBeNull();
+    expect(container.querySelector('.card--lead')).not.toBeNull();
+    rerender(<ItemCard item={{ ...item, labels: ['today'] }} now={NOW} read={false} onRead={() => {}} />);
+    expect(container.querySelector('.card--breaking')).toBeNull();
+    expect(container.querySelector('.card--lead')).toBeNull();
+  });
 });
