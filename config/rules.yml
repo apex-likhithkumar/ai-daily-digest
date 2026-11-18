@@ -5,7 +5,7 @@ cluster:
   minSharedTokens: 2
 scoring:
   batchSize: 10
-  maxLlmItemsPerRun: 60    # protects the free quota; the rest get fallback scores
+  maxLlmItemsPerRun: 120   # ceiling only: the first run after a reset has a ~100-story backlog, steady-state runs have far fewer new stories; at batchSize 10 that is at most 12 free-tier requests per run; the rest get fallback scores
   delayMs: 4000            # pause between batches (free-tier requests-per-minute limits)
   snippetChars: 300
 llm:

@@ -10,8 +10,10 @@ sources:
   - { id: techcrunch-ai, type: rss, name: TechCrunch, tier: 2, url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
   - { id: verge-ai, type: rss, name: The Verge, tier: 2, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
   - { id: mit-tr-ai, type: rss, name: MIT Technology Review, tier: 2, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed" }
-  - { id: reddit-localllama, type: rss, name: r/LocalLLaMA, tier: 3, url: "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day" }
-  - { id: reddit-ml, type: rss, name: r/MachineLearning, tier: 3, url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day" }
+  - { id: simon-willison, type: rss, name: Simon Willison, tier: 2, topicHint: F, url: "https://simonwillison.net/atom/everything" }
+  - { id: latent-space, type: rss, name: Latent Space, tier: 2, topicHint: A, url: "https://www.latent.space/feed" }
+  - { id: import-ai, type: rss, name: Import AI, tier: 2, topicHint: B, url: "https://importai.substack.com/feed" }
+  - { id: interconnects, type: rss, name: Interconnects, tier: 2, topicHint: B, url: "https://www.interconnects.ai/feed" }
   - id: hn
     type: hn
     name: Hacker News
