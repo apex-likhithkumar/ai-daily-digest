@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T02:33:04.069Z",
+  "generatedAt": "2026-11-19T11:35:41.148Z",
   "items": [
+    {
+      "id": "f0a746966dedf0f1",
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-19T07:07:43.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 8,
+      "relevance": 7,
+      "whyItMatters": "Google's new model shifts mid-tier pricing and capability benchmarks you should track for API cost planning.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 6.68
+    },
     {
       "id": "1980ba70462d640e",
       "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
@@ -21,7 +44,7 @@
         "today",
         "important"
       ],
-      "rank": 7.864
+      "rank": 6.056
     },
     {
       "id": "6f8f17530b912bd5",
@@ -43,7 +66,7 @@
         "today",
         "important"
       ],
-      "rank": 7.797
+      "rank": 6.005
     },
     {
       "id": "9491587c1875ac6b",
@@ -65,7 +88,7 @@
         "today",
         "important"
       ],
-      "rank": 7.727
+      "rank": 5.951
     },
     {
       "id": "a8eb0ed9ef435798",
@@ -87,7 +110,7 @@
         "today",
         "important"
       ],
-      "rank": 7.116
+      "rank": 5.48
     },
     {
       "id": "b898a1b2127c5756",
@@ -107,11 +130,10 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [
-        "breaking",
         "today",
         "important"
       ],
-      "rank": 7.101
+      "rank": 5.469
     },
     {
       "id": "037978009f803b44",
@@ -133,7 +155,29 @@
         "today",
         "important"
       ],
-      "rank": 6.612
+      "rank": 5.092
+    },
+    {
+      "id": "724823e096fd2a66",
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T17:26:28.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 8,
+      "relevance": 9,
+      "whyItMatters": "Managed cloud infrastructure for AI agents lets you offload BullMQ and state management in production.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.973
     },
     {
       "id": "44013fe75393f221",
@@ -155,7 +199,29 @@
         "today",
         "important"
       ],
-      "rank": 6.452
+      "rank": 4.969
+    },
+    {
+      "id": "c3c7756f62d48d7a",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-18T23:59:20.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "F",
+      "importance": 6,
+      "relevance": 8,
+      "whyItMatters": "Update your CLI tooling plugin to integrate Gemini 4 Neon into your local development workflows.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.863
     },
     {
       "id": "25c96fa5a216b598",
@@ -177,7 +243,29 @@
         "today",
         "important"
       ],
-      "rank": 6.227
+      "rank": 4.796
+    },
+    {
+      "id": "48cd8de2ceff03b3",
+      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "url": "https://claudia.gallery/fable",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-19T00:18:18.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 7,
+      "relevance": 6,
+      "whyItMatters": "Autonomous creative pipelines show how advanced Claude orchestration handles complex multi-step artifact generation.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 4.764
     },
     {
       "id": "59cfeb6a6aabd8c2",
@@ -198,7 +286,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.775
+      "rank": 4.448
     },
     {
       "id": "c8a4b2ac137e196f",
@@ -220,7 +308,7 @@
         "today",
         "important"
       ],
-      "rank": 5.501
+      "rank": 4.236
     },
     {
       "id": "75623b38e68bd27d",
@@ -241,7 +329,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.451
+      "rank": 4.198
     },
     {
       "id": "f689168723dc030d",
@@ -263,7 +351,7 @@
         "today",
         "important"
       ],
-      "rank": 5.449
+      "rank": 4.196
     },
     {
       "id": "7bedfda97b7a4cef",
@@ -285,7 +373,7 @@
         "today",
         "important"
       ],
-      "rank": 5.408
+      "rank": 4.165
     },
     {
       "id": "7c37480e5f494a78",
@@ -305,10 +393,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 5.381
+      "rank": 4.144
     },
     {
       "id": "11e4ac4d10922d39",
@@ -330,7 +417,7 @@
         "today",
         "important"
       ],
-      "rank": 5.268
+      "rank": 4.057
     },
     {
       "id": "3107113245e39d0c",
@@ -351,7 +438,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.216
+      "rank": 4.017
     },
     {
       "id": "21efcf41c872beed",
@@ -372,7 +459,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.145
+      "rank": 3.962
     },
     {
       "id": "881783ef802b37af",
@@ -393,7 +480,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.143
+      "rank": 3.961
     },
     {
       "id": "bc92b7a6195e0b2b",
@@ -414,7 +501,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.07
+      "rank": 3.904
     },
     {
       "id": "eacbd26a911f6855",
@@ -435,7 +522,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.063
+      "rank": 3.899
     },
     {
       "id": "50e3ea47cbae988d",
@@ -457,7 +544,28 @@
         "today",
         "important"
       ],
-      "rank": 5.033
+      "rank": 3.876
+    },
+    {
+      "id": "ef341bf9e56e70c7",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-19T00:57:20.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 4,
+      "whyItMatters": "Vision model failures in production highlight the risks of deploying multimodal systems without human oversight.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.824
     },
     {
       "id": "569017a70fd8b933",
@@ -480,7 +588,7 @@
         "today",
         "important"
       ],
-      "rank": 4.863
+      "rank": 3.745
     },
     {
       "id": "ba05f6db61a4ecf7",
@@ -501,7 +609,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.802
+      "rank": 3.698
     },
     {
       "id": "b7121aa7617648f3",
@@ -523,7 +631,7 @@
         "today",
         "important"
       ],
-      "rank": 4.761
+      "rank": 3.666
     },
     {
       "id": "dbf7233003822774",
@@ -544,7 +652,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.695
+      "rank": 3.616
     },
     {
       "id": "2ab4deb8d86920bc",
@@ -565,7 +673,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.664
+      "rank": 3.592
     },
     {
       "id": "66831b4cb9812f3b",
@@ -586,7 +694,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.65
+      "rank": 3.581
     },
     {
       "id": "bf1424b145e4fc73",
@@ -607,7 +715,28 @@
       "labels": [
         "today"
       ],
-      "rank": 4.585
+      "rank": 3.531
+    },
+    {
+      "id": "f82d195d3e1b5c14",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-19T05:09:11.000Z",
+      "summary": "",
+      "topic": "A",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Stock Rails vulnerability reminds you to audit your own backend input sanitization against remote execution vectors.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-19T11:35:41.148Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.487
     },
     {
       "id": "82df8b1098237927",
@@ -628,7 +757,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.467
+      "rank": 3.44
     },
     {
       "id": "53f2a14376dda94d",
@@ -647,10 +776,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.331
+      "rank": 3.335
     },
     {
       "id": "77ff48ef191d0b8f",
@@ -671,7 +799,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.259
+      "rank": 3.28
     },
     {
       "id": "9fa731b0ef6c1da9",
@@ -690,10 +818,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.214
+      "rank": 3.245
     },
     {
       "id": "663fa60cff593cd5",
@@ -714,7 +841,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.094
+      "rank": 3.153
     },
     {
       "id": "bfaa144bfebbdf7c",
@@ -736,7 +863,7 @@
         "today",
         "important"
       ],
-      "rank": 3.924
+      "rank": 3.022
     },
     {
       "id": "af1852b4c46dc30e",
@@ -757,7 +884,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.902
+      "rank": 3.005
     },
     {
       "id": "2cf389d7c377c9cf",
@@ -778,7 +905,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.874
+      "rank": 2.983
     },
     {
       "id": "2f277485244a55e7",
@@ -799,7 +926,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.801
+      "rank": 2.927
     },
     {
       "id": "c60558e98558e0e7",
@@ -821,7 +948,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.777
+      "rank": 2.909
     },
     {
       "id": "549a77347d5e1e5f",
@@ -845,7 +972,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.723
+      "rank": 2.867
     },
     {
       "id": "22c3131e87fdf83a",
@@ -866,7 +993,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.637
+      "rank": 2.801
     },
     {
       "id": "2f383f35a9e21175",
@@ -887,7 +1014,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.589
+      "rank": 2.764
     },
     {
       "id": "358ebcd58de33063",
@@ -909,7 +1036,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.556
+      "rank": 2.738
     },
     {
       "id": "1796857b9a1b2f79",
@@ -930,7 +1057,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.444
+      "rank": 2.653
     },
     {
       "id": "3a6ddd65cb94a929",
@@ -951,7 +1078,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.435
+      "rank": 2.645
     },
     {
       "id": "6e090bb95c89cabb",
@@ -972,7 +1099,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.348
+      "rank": 2.579
     },
     {
       "id": "2c0a64e08e41f662",
@@ -993,7 +1120,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.315
+      "rank": 2.553
     },
     {
       "id": "acb7f96633bb0398",
@@ -1014,7 +1141,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.246
+      "rank": 2.5
     },
     {
       "id": "206b86c970ea91d6",
@@ -1035,7 +1162,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.21
+      "rank": 2.472
     },
     {
       "id": "8e21326b778b59c3",
@@ -1056,7 +1183,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.17
+      "rank": 2.441
     },
     {
       "id": "0bd7a28301d2f52a",
@@ -1077,7 +1204,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.159
+      "rank": 2.433
     },
     {
       "id": "39e9943447463a62",
@@ -1098,7 +1225,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.098
+      "rank": 2.386
     },
     {
       "id": "8b6ac2940fdc0d0e",
@@ -1116,10 +1243,8 @@
       "whyItMatters": "Review safety alignment strategies when deploying custom enterprise agents.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.093
+      "labels": [],
+      "rank": 2.382
     },
     {
       "id": "3ede266c56e21b63",
@@ -1137,10 +1262,8 @@
       "whyItMatters": "Community speculation on delayed model drops reminds you to track release timelines closely.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.939
+      "labels": [],
+      "rank": 2.264
     },
     {
       "id": "6dbfd2c16f1d581a",
@@ -1159,7 +1282,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.917
+      "rank": 2.247
     },
     {
       "id": "14c609265d0e616e",
@@ -1180,7 +1303,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.914
+      "rank": 2.244
     },
     {
       "id": "0f81d901dab588c1",
@@ -1201,7 +1324,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.9
+      "rank": 2.233
     },
     {
       "id": "5e888bac8f86cebe",
@@ -1222,7 +1345,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.84
+      "rank": 2.187
     },
     {
       "id": "fa2d79e8a491ed5a",
@@ -1243,7 +1366,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.81
+      "rank": 2.164
     },
     {
       "id": "6ae82bdc38649050",
@@ -1264,7 +1387,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.775
+      "rank": 2.137
     },
     {
       "id": "5b0b199a3f155cec",
@@ -1285,7 +1408,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.724
+      "rank": 2.098
     },
     {
       "id": "8f07365d378cd3fa",
@@ -1304,7 +1427,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.714
+      "rank": 2.09
     },
     {
       "id": "bdaac6f563ec9175",
@@ -1322,10 +1445,8 @@
       "whyItMatters": "Multimodal generative additions show how automated pipelines sync disparate media types seamlessly.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.702
+      "labels": [],
+      "rank": 2.081
     },
     {
       "id": "069078b2b4e3b49a",
@@ -1346,7 +1467,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.63
+      "rank": 2.026
     },
     {
       "id": "09b6248761ae0d2e",
@@ -1367,7 +1488,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.582
+      "rank": 1.989
     },
     {
       "id": "e0d2ba07cf0f2da7",
@@ -1386,7 +1507,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.575
+      "rank": 1.983
     },
     {
       "id": "b832d435844d4fc4",
@@ -1407,7 +1528,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.557
+      "rank": 1.97
     },
     {
       "id": "23791fed6fa0ce2c",
@@ -1426,7 +1547,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.53
+      "rank": 1.949
     },
     {
       "id": "027b06d66aa2428c",
@@ -1445,7 +1566,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.512
+      "rank": 1.934
     },
     {
       "id": "c7d3ecb006439a13",
@@ -1467,7 +1588,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.508
+      "rank": 1.932
     },
     {
       "id": "d414dc9f436f65c1",
@@ -1488,7 +1609,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.505
+      "rank": 1.929
     },
     {
       "id": "61a25aea71886a4b",
@@ -1509,7 +1630,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.505
+      "rank": 1.929
     },
     {
       "id": "b397f013e77fa481",
@@ -1528,7 +1649,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.49
+      "rank": 1.917
     },
     {
       "id": "2d5a3de817461fab",
@@ -1549,7 +1670,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.427
+      "rank": 1.869
     },
     {
       "id": "692230a9d797ddbd",
@@ -1568,7 +1689,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.425
+      "rank": 1.867
     },
     {
       "id": "dfdee5b6b2fccda4",
@@ -1587,7 +1708,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.399
+      "rank": 1.848
     },
     {
       "id": "d021019fd8304ea4",
@@ -1605,10 +1726,8 @@
       "whyItMatters": "Alternative training modalities hint at new domain-specific embedding strategies you might explore.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.384
+      "labels": [],
+      "rank": 1.836
     },
     {
       "id": "af19957a97c276aa",
@@ -1630,7 +1749,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.364
+      "rank": 1.821
     },
     {
       "id": "a909c419b8fadbae",
@@ -1652,7 +1771,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.317
+      "rank": 1.784
     },
     {
       "id": "2052af3031ae30d9",
@@ -1671,7 +1790,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.295
+      "rank": 1.768
     },
     {
       "id": "38c4a38bd61908e3",
@@ -1690,7 +1809,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.286
+      "rank": 1.76
     },
     {
       "id": "ed47f6db4915840c",
@@ -1711,7 +1830,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.282
+      "rank": 1.758
     },
     {
       "id": "8239fbdc6243950a",
@@ -1730,7 +1849,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.206
+      "rank": 1.699
     },
     {
       "id": "b20533735bac1c5f",
@@ -1749,7 +1868,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.146
+      "rank": 1.653
     },
     {
       "id": "b8930a9a56df63fc",
@@ -1768,7 +1887,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 2.126
+      "rank": 1.637
     },
     {
       "id": "b527b6f0ddceafec",
@@ -1786,10 +1905,8 @@
       "whyItMatters": "Enterprise adoption patterns reveal which workflow automation features your corporate clients demand.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.107
+      "labels": [],
+      "rank": 1.622
     },
     {
       "id": "e48dfd6c57c460dd",
@@ -1810,7 +1927,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.065
+      "rank": 1.59
     },
     {
       "id": "887a9d54e326095b",
@@ -1831,7 +1948,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.026
+      "rank": 1.561
     },
     {
       "id": "74ced337548159bc",
@@ -1852,7 +1969,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.01
+      "rank": 1.548
     },
     {
       "id": "0e23395eb73494cf",
@@ -1873,7 +1990,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.002
+      "rank": 1.542
     },
     {
       "id": "ae6cdc6347964b56",
@@ -1895,7 +2012,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2
+      "rank": 1.541
     },
     {
       "id": "d4875a92aea85dac",
@@ -1916,7 +2033,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.994
+      "rank": 1.535
     },
     {
       "id": "6cab9c8cd38347e3",
@@ -1935,7 +2052,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 1.951
+      "rank": 1.502
     },
     {
       "id": "679cee5ea1466f1f",
@@ -1954,7 +2071,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.951
+      "rank": 1.502
     },
     {
       "id": "319e08473b4aa091",
@@ -1975,7 +2092,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.93
+      "rank": 1.486
     },
     {
       "id": "6ab4eb3121ad6e12",
@@ -1994,7 +2111,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.927
+      "rank": 1.484
     },
     {
       "id": "54bca3b9a46d02f4",
@@ -2015,7 +2132,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.927
+      "rank": 1.484
     },
     {
       "id": "246fea28a78903d1",
@@ -2036,7 +2153,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.903
+      "rank": 1.465
     },
     {
       "id": "5b158888670aa71b",
@@ -2056,7 +2173,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.887
+      "rank": 1.453
     },
     {
       "id": "776157cf22e3ea27",
@@ -2075,7 +2192,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.878
+      "rank": 1.446
     },
     {
       "id": "dc5855fecf52785f",
@@ -2093,10 +2210,8 @@
       "whyItMatters": "Hosting alternatives face unexpected DNS outages that could disrupt open-source dependency pulls.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.845
+      "labels": [],
+      "rank": 1.421
     },
     {
       "id": "55dde3921be9b1d7",
@@ -2114,10 +2229,8 @@
       "whyItMatters": "Robotics data startup funding indicates broader capital flows rather than software engineering opportunities.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.813
+      "labels": [],
+      "rank": 1.396
     },
     {
       "id": "727d955cd223ff9b",
@@ -2138,7 +2251,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.804
+      "rank": 1.389
     },
     {
       "id": "94ec9ff9d4729a9e",
@@ -2159,7 +2272,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.803
+      "rank": 1.388
     },
     {
       "id": "48c46304656078a6",
@@ -2178,7 +2291,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.8
+      "rank": 1.387
     },
     {
       "id": "cdafd8ebe9f4be7a",
@@ -2197,7 +2310,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.786
+      "rank": 1.375
     },
     {
       "id": "9f7286d0bf416b1a",
@@ -2216,7 +2329,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.779
+      "rank": 1.37
     },
     {
       "id": "0488c951c7292232",
@@ -2235,7 +2348,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.767
+      "rank": 1.361
     },
     {
       "id": "9073920a14eae64d",
@@ -2254,7 +2367,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.723
+      "rank": 1.327
     },
     {
       "id": "f8ba41dfccb190fe",
@@ -2275,7 +2388,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.711
+      "rank": 1.318
     },
     {
       "id": "2b699e1f4bac1f07",
@@ -2294,7 +2407,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.694
+      "rank": 1.304
     },
     {
       "id": "8e6075d168e06821",
@@ -2315,7 +2428,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.67
+      "rank": 1.286
     },
     {
       "id": "d218f9a95b85493a",
@@ -2336,7 +2449,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.656
+      "rank": 1.276
     },
     {
       "id": "28fff23dec51a9bb",
@@ -2355,7 +2468,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.656
+      "rank": 1.276
     },
     {
       "id": "5b6a4fa0520d8905",
@@ -2374,7 +2487,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.651
+      "rank": 1.271
     },
     {
       "id": "4b9feb41ff3655d4",
@@ -2395,7 +2508,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.637
+      "rank": 1.261
     },
     {
       "id": "03692ec60cac1bbf",
@@ -2413,10 +2526,8 @@
       "whyItMatters": "Chemical analysis datasets for scent detection offer niche vector embedding use cases outside standard text.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 1.628
+      "labels": [],
+      "rank": 1.254
     },
     {
       "id": "9567fc17c1fdcddf",
@@ -2437,7 +2548,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.614
+      "rank": 1.243
     },
     {
       "id": "bc1083d540d97a0c",
@@ -2456,7 +2567,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.563
+      "rank": 1.204
     },
     {
       "id": "a70cae4c16f0fdc6",
@@ -2478,7 +2589,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.553
+      "rank": 1.196
     },
     {
       "id": "3aa0c6065ac07d71",
@@ -2497,7 +2608,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.529
+      "rank": 1.178
     },
     {
       "id": "8c5b4e01285e983d",
@@ -2516,7 +2627,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.527
+      "rank": 1.176
     },
     {
       "id": "e683d40fba103b5f",
@@ -2535,7 +2646,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.486
+      "rank": 1.145
     },
     {
       "id": "0761da68e54fd0db",
@@ -2554,7 +2665,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.486
+      "rank": 1.145
     },
     {
       "id": "7157ce3b54a8a376",
@@ -2575,7 +2686,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.483
+      "rank": 1.142
     },
     {
       "id": "698ced14e342737d",
@@ -2594,7 +2705,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.473
+      "rank": 1.134
     },
     {
       "id": "7cc4bd0d8db8c788",
@@ -2615,7 +2726,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.472
+      "rank": 1.134
     },
     {
       "id": "1e308b5aafc025fe",
@@ -2634,7 +2745,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.451
+      "rank": 1.118
     },
     {
       "id": "cb1d8f8bc84f7e6a",
@@ -2653,7 +2764,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.442
+      "rank": 1.111
     },
     {
       "id": "3a4b135687e309c5",
@@ -2672,7 +2783,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.439
+      "rank": 1.108
     },
     {
       "id": "7a5b841ecd5649fa",
@@ -2693,7 +2804,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.438
+      "rank": 1.108
     },
     {
       "id": "764198fc49a3e15f",
@@ -2713,7 +2824,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.392
+      "rank": 1.072
     },
     {
       "id": "b4420b34b7621c1f",
@@ -2732,7 +2843,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.364
+      "rank": 1.05
     },
     {
       "id": "de9db64f82da9b0f",
@@ -2753,7 +2864,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.329
+      "rank": 1.023
     },
     {
       "id": "df92921082e9f46d",
@@ -2772,7 +2883,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.289
+      "rank": 0.993
     },
     {
       "id": "01ad01e5cd4126d0",
@@ -2791,7 +2902,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.253
+      "rank": 0.965
     },
     {
       "id": "735df09c2ed1f9d3",
@@ -2811,7 +2922,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.128
+      "rank": 0.869
     },
     {
       "id": "590cb0b9c5dd23f2",
@@ -2830,7 +2941,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.115
+      "rank": 0.859
     },
     {
       "id": "c6c361c53bc4ce2d",
@@ -2849,7 +2960,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.112
+      "rank": 0.856
     },
     {
       "id": "8129f68e260304e7",
@@ -2869,7 +2980,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.056
+      "rank": 0.814
     },
     {
       "id": "b2955c38ff71d9a1",
@@ -2888,7 +2999,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.034
+      "rank": 0.797
     },
     {
       "id": "0604bc2b50fc0c3b",
@@ -2907,7 +3018,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.022
+      "rank": 0.787
     },
     {
       "id": "ae3ee0f483ed9177",
@@ -2927,7 +3038,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.002
+      "rank": 0.772
     },
     {
       "id": "6755813e5cbe36f0",
@@ -2946,7 +3057,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.987
+      "rank": 0.76
     },
     {
       "id": "f054a54f8228cfac",
@@ -2965,7 +3076,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.978
+      "rank": 0.753
     },
     {
       "id": "e9a68a300e49f431",
@@ -2985,7 +3096,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.972
+      "rank": 0.748
     },
     {
       "id": "853b24ff0d6ecd3f",
@@ -3006,7 +3117,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.929
+      "rank": 0.715
     },
     {
       "id": "98ef486c7d4edc83",
@@ -3025,7 +3136,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.922
+      "rank": 0.71
     },
     {
       "id": "cfcc7acb02e9ca79",
@@ -3046,7 +3157,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.911
+      "rank": 0.702
     },
     {
       "id": "b0ded74e06b06613",
@@ -3067,7 +3178,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.911
+      "rank": 0.702
     },
     {
       "id": "a6c7c2ca104f78f1",
@@ -3086,7 +3197,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.888
+      "rank": 0.684
     },
     {
       "id": "b4d0f21c2c604500",
@@ -3105,7 +3216,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.885
+      "rank": 0.682
     },
     {
       "id": "c267813b00db4e00",
@@ -3124,7 +3235,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.865
+      "rank": 0.666
     },
     {
       "id": "ebd9eb94963902d2",
@@ -3146,7 +3257,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.849
+      "rank": 0.654
     },
     {
       "id": "11cf973c0d595b96",
@@ -3165,7 +3276,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.845
+      "rank": 0.651
     },
     {
       "id": "81bd7f76e2a9d5f3",
@@ -3184,7 +3295,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.812
+      "rank": 0.625
     },
     {
       "id": "a7baa208561a2ac2",
@@ -3203,7 +3314,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.798
+      "rank": 0.614
     },
     {
       "id": "f26f2a4dfd6b9b95",
@@ -3222,7 +3333,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.797
+      "rank": 0.614
     },
     {
       "id": "294a13221fad339b",
@@ -3243,7 +3354,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.792
+      "rank": 0.61
     },
     {
       "id": "479bc4e0e5b12179",
@@ -3263,7 +3374,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.764
+      "rank": 0.589
     },
     {
       "id": "f378d4ace0f37459",
@@ -3282,7 +3393,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.693
+      "rank": 0.534
     },
     {
       "id": "91e58e2ea930c2fa",
@@ -3301,7 +3412,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.693
+      "rank": 0.533
     },
     {
       "id": "6f099656459b9bfa",
@@ -3320,7 +3431,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.659
+      "rank": 0.508
     },
     {
       "id": "3899b6e8ee3cc1f1",
@@ -3339,7 +3450,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.65
+      "rank": 0.501
     },
     {
       "id": "58da9c66b1456ac9",
@@ -3358,7 +3469,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.65
+      "rank": 0.501
     },
     {
       "id": "b1c71d07875ac772",
@@ -3378,7 +3489,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.645
+      "rank": 0.497
     },
     {
       "id": "f891bd93f3d21469",
@@ -3397,7 +3508,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.624
+      "rank": 0.481
     },
     {
       "id": "dca31e1cbc0198f3",
@@ -3416,7 +3527,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.549
+      "rank": 0.423
     },
     {
       "id": "950ac38f23f2d5a7",
@@ -3435,7 +3546,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.529
+      "rank": 0.407
     },
     {
       "id": "87d7014c15ee68a3",
@@ -3454,7 +3565,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.526
+      "rank": 0.405
     },
     {
       "id": "3bc6cdb34c17f840",
@@ -3474,7 +3585,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.524
+      "rank": 0.404
     },
     {
       "id": "7c04761a4076fc82",
@@ -3494,7 +3605,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.524
+      "rank": 0.403
     },
     {
       "id": "83b3b2200438f294",
@@ -3513,7 +3624,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.516
+      "rank": 0.398
     },
     {
       "id": "c650c89a876a2c67",
@@ -3532,7 +3643,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.506
+      "rank": 0.389
     },
     {
       "id": "4b0fc5b701ffd77d",
@@ -3551,7 +3662,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.504
+      "rank": 0.388
     },
     {
       "id": "0bc322583e6f0775",
@@ -3570,7 +3681,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.487
+      "rank": 0.375
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -3589,7 +3700,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.438
+      "rank": 0.337
     },
     {
       "id": "4b4d48f19f03e283",
@@ -3609,7 +3720,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.418
+      "rank": 0.322
     },
     {
       "id": "e3915f7e4cf071c4",
@@ -3628,7 +3739,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.372
+      "rank": 0.286
     },
     {
       "id": "9ae934d441da1a71",
@@ -3648,7 +3759,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.365
+      "rank": 0.281
     },
     {
       "id": "99dbc75c6e3dc5fa",
@@ -3667,7 +3778,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.359
+      "rank": 0.276
     },
     {
       "id": "28631383103972f6",
@@ -3686,7 +3797,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.353
+      "rank": 0.272
     },
     {
       "id": "3ad115755ec36d30",
@@ -3705,7 +3816,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.336
+      "rank": 0.259
     },
     {
       "id": "f047b899004cf10d",
@@ -3724,7 +3835,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.314
+      "rank": 0.242
     },
     {
       "id": "b4260db782b8f2ad",
@@ -3743,7 +3854,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.272
+      "rank": 0.209
     },
     {
       "id": "aa7b1d783c6b1d0c",
@@ -3762,7 +3873,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.244
+      "rank": 0.188
     },
     {
       "id": "43916558be0e93ec",
@@ -3781,7 +3892,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.234
+      "rank": 0.18
     },
     {
       "id": "d9a15b4078d3c98e",
@@ -3800,7 +3911,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.22
+      "rank": 0.169
     },
     {
       "id": "0907fbf8de485d00",
@@ -3819,7 +3930,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.202
+      "rank": 0.156
     },
     {
       "id": "8148552b8a3c54fd",
@@ -3838,7 +3949,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.146
+      "rank": 0.112
     }
   ]
 }
