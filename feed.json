@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T02:18:10.117Z",
+  "generatedAt": "2026-11-20T11:33:42.713Z",
   "items": [
+    {
+      "id": "1177dfbd92c164db",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t",
+      "sources": [
+        "Latent Space"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-20T07:12:24.000Z",
+      "summary": "",
+      "topicHint": "A",
+      "topic": "B",
+      "importance": 10,
+      "relevance": 7,
+      "whyItMatters": "Anthropic's massive public offering reshapes the AI funding landscape and changes infrastructure budgeting across the industry.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-20T11:33:42.713Z",
+      "labels": [
+        "today",
+        "important"
+      ],
+      "rank": 7.76
+    },
     {
       "id": "ed33061e28b05b70",
       "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
@@ -21,7 +44,7 @@
         "today",
         "important"
       ],
-      "rank": 7.583
+      "rank": 5.804
     },
     {
       "id": "4ba1303d2ee21d77",
@@ -44,7 +67,7 @@
         "today",
         "important"
       ],
-      "rank": 7.152
+      "rank": 5.474
     },
     {
       "id": "c7569a295cb76304",
@@ -66,7 +89,7 @@
         "today",
         "important"
       ],
-      "rank": 7.036
+      "rank": 5.385
     },
     {
       "id": "b00f82b6db94c2e5",
@@ -88,7 +111,7 @@
         "today",
         "important"
       ],
-      "rank": 6.609
+      "rank": 5.058
     },
     {
       "id": "d47187ac7d511370",
@@ -109,7 +132,7 @@
       "labels": [
         "today"
       ],
-      "rank": 6.468
+      "rank": 4.95
     },
     {
       "id": "2fc66815c5be68f1",
@@ -131,7 +154,7 @@
         "today",
         "important"
       ],
-      "rank": 6.436
+      "rank": 4.926
     },
     {
       "id": "e2069ba493c3ca46",
@@ -152,7 +175,7 @@
       "labels": [
         "today"
       ],
-      "rank": 6.188
+      "rank": 4.736
     },
     {
       "id": "7e9fc57c134e72d2",
@@ -174,7 +197,7 @@
         "today",
         "important"
       ],
-      "rank": 6.18
+      "rank": 4.73
     },
     {
       "id": "2ed09bbf2a0c5d3c",
@@ -196,7 +219,7 @@
         "today",
         "important"
       ],
-      "rank": 5.96
+      "rank": 4.561
     },
     {
       "id": "b24c1081da702fe8",
@@ -218,7 +241,7 @@
         "today",
         "important"
       ],
-      "rank": 5.918
+      "rank": 4.53
     },
     {
       "id": "ebd75882b3d9e79b",
@@ -240,7 +263,7 @@
         "today",
         "important"
       ],
-      "rank": 5.838
+      "rank": 4.468
     },
     {
       "id": "be373132dcb8b869",
@@ -262,7 +285,7 @@
         "today",
         "important"
       ],
-      "rank": 5.741
+      "rank": 4.394
     },
     {
       "id": "4aacf31011a35eda",
@@ -284,7 +307,29 @@
         "today",
         "important"
       ],
-      "rank": 5.734
+      "rank": 4.388
+    },
+    {
+      "id": "e486efe85b2a356a",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad",
+      "sources": [
+        "Simon Willison"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-20T02:49:57.000Z",
+      "summary": "",
+      "topicHint": "F",
+      "topic": "B",
+      "importance": 6,
+      "relevance": 5,
+      "whyItMatters": "Watch this breakdown to spot emerging prompt injection vulnerabilities targeting production LLM applications.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-20T11:33:42.713Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 4.352
     },
     {
       "id": "97d62433e020c780",
@@ -306,7 +351,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.439
+      "rank": 4.163
     },
     {
       "id": "2174d3373bbd175a",
@@ -328,7 +373,7 @@
         "today",
         "important"
       ],
-      "rank": 5.246
+      "rank": 4.015
     },
     {
       "id": "50979d7393a8f30c",
@@ -349,7 +394,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.173
+      "rank": 3.959
     },
     {
       "id": "7e4679faa3409569",
@@ -370,7 +415,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.155
+      "rank": 3.946
     },
     {
       "id": "58ab887d6a72b8c8",
@@ -392,7 +437,7 @@
         "today",
         "important"
       ],
-      "rank": 5.115
+      "rank": 3.915
     },
     {
       "id": "0f531b5b0f649592",
@@ -413,7 +458,7 @@
       "labels": [
         "today"
       ],
-      "rank": 5.086
+      "rank": 3.893
     },
     {
       "id": "6d6821f501bbce2e",
@@ -435,7 +480,7 @@
         "today",
         "important"
       ],
-      "rank": 5.058
+      "rank": 3.871
     },
     {
       "id": "448d198a6d06442b",
@@ -457,7 +502,7 @@
         "today",
         "important"
       ],
-      "rank": 4.934
+      "rank": 3.776
     },
     {
       "id": "222a3317cded8e05",
@@ -479,7 +524,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.862
+      "rank": 3.721
     },
     {
       "id": "3e5d1a7c85bc41a5",
@@ -501,7 +546,7 @@
         "today",
         "important"
       ],
-      "rank": 4.798
+      "rank": 3.672
     },
     {
       "id": "c554d88a231d4448",
@@ -523,7 +568,28 @@
         "today",
         "important"
       ],
-      "rank": 4.684
+      "rank": 3.585
+    },
+    {
+      "id": "e64effe108042ab8",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-20T05:21:02.000Z",
+      "summary": "",
+      "topic": "F",
+      "importance": 5,
+      "relevance": 3,
+      "whyItMatters": "Android hardware restrictions limit custom ROM flashing and alter low-level device testing for mobile developers.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-20T11:33:42.713Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 3.51
     },
     {
       "id": "e8e0a324c29d2163",
@@ -544,7 +610,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.53
+      "rank": 3.467
     },
     {
       "id": "880dd6c194cf107d",
@@ -566,7 +632,7 @@
         "today",
         "important"
       ],
-      "rank": 4.509
+      "rank": 3.451
     },
     {
       "id": "f0a746966dedf0f1",
@@ -586,10 +652,9 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T11:35:41.148Z",
       "labels": [
-        "today",
         "important"
       ],
-      "rank": 4.368
+      "rank": 3.343
     },
     {
       "id": "97ccf1ecd5ed5546",
@@ -611,7 +676,7 @@
         "today",
         "important"
       ],
-      "rank": 4.346
+      "rank": 3.326
     },
     {
       "id": "824e87dcfa8e13e0",
@@ -633,7 +698,7 @@
         "today",
         "important"
       ],
-      "rank": 4.318
+      "rank": 3.305
     },
     {
       "id": "bab1a902faa13f54",
@@ -655,7 +720,7 @@
         "today",
         "important"
       ],
-      "rank": 4.286
+      "rank": 3.28
     },
     {
       "id": "e71232150b493ed5",
@@ -677,7 +742,7 @@
         "today",
         "important"
       ],
-      "rank": 4.279
+      "rank": 3.275
     },
     {
       "id": "1a26151f67491fea",
@@ -699,7 +764,7 @@
         "today",
         "important"
       ],
-      "rank": 4.264
+      "rank": 3.264
     },
     {
       "id": "00ca2badf798b003",
@@ -720,7 +785,7 @@
       "labels": [
         "today"
       ],
-      "rank": 4.227
+      "rank": 3.236
     },
     {
       "id": "d9d2fba47fd34f0c",
@@ -742,7 +807,7 @@
         "today",
         "important"
       ],
-      "rank": 4.205
+      "rank": 3.219
     },
     {
       "id": "1980ba70462d640e",
@@ -763,7 +828,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.96
+      "rank": 3.031
     },
     {
       "id": "6f8f17530b912bd5",
@@ -784,7 +849,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.927
+      "rank": 3.005
     },
     {
       "id": "9491587c1875ac6b",
@@ -805,7 +870,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.892
+      "rank": 2.978
     },
     {
       "id": "52653ae3ad736466",
@@ -826,7 +891,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.853
+      "rank": 2.949
     },
     {
       "id": "5590d4d47ed2184b",
@@ -847,7 +912,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.823
+      "rank": 2.926
     },
     {
       "id": "6d268a6234bb0021",
@@ -868,7 +933,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.708
+      "rank": 2.838
     },
     {
       "id": "7716f12c064d30ce",
@@ -889,7 +954,28 @@
       "labels": [
         "today"
       ],
-      "rank": 3.677
+      "rank": 2.814
+    },
+    {
+      "id": "93201ff2693e8b93",
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-20T02:44:13.000Z",
+      "summary": "",
+      "topic": "B",
+      "importance": 4,
+      "relevance": 3,
+      "whyItMatters": "Philosophical debates on post-AGI economics offer little practical guidance for your current backend architecture.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-20T11:33:42.713Z",
+      "labels": [
+        "today"
+      ],
+      "rank": 2.79
     },
     {
       "id": "a8eb0ed9ef435798",
@@ -910,7 +996,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.583
+      "rank": 2.743
     },
     {
       "id": "b898a1b2127c5756",
@@ -932,7 +1018,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.576
+      "rank": 2.737
     },
     {
       "id": "8a78f7986a8287e0",
@@ -954,7 +1040,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.539
+      "rank": 2.708
     },
     {
       "id": "6687f7be62c34e4a",
@@ -972,10 +1058,8 @@
       "whyItMatters": "Codex-driven performance pipelines hint at new patterns for automating backend latency optimizations.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T20:32:39.596Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 3.537
+      "labels": [],
+      "rank": 2.707
     },
     {
       "id": "037978009f803b44",
@@ -996,7 +1080,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.33
+      "rank": 2.548
     },
     {
       "id": "724823e096fd2a66",
@@ -1017,7 +1101,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.252
+      "rank": 2.489
     },
     {
       "id": "44013fe75393f221",
@@ -1038,7 +1122,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.249
+      "rank": 2.487
     },
     {
       "id": "c3c7756f62d48d7a",
@@ -1058,7 +1142,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T11:35:41.148Z",
       "labels": [],
-      "rank": 3.18
+      "rank": 2.434
     },
     {
       "id": "25c96fa5a216b598",
@@ -1079,7 +1163,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.136
+      "rank": 2.4
     },
     {
       "id": "8a14aef6a1d309ff",
@@ -1100,7 +1184,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.124
+      "rank": 2.391
     },
     {
       "id": "48cd8de2ceff03b3",
@@ -1121,7 +1205,7 @@
       "labels": [
         "important"
       ],
-      "rank": 3.115
+      "rank": 2.384
     },
     {
       "id": "e22812a5ccc93667",
@@ -1142,7 +1226,7 @@
       "labels": [
         "today"
       ],
-      "rank": 3.093
+      "rank": 2.368
     },
     {
       "id": "59cfeb6a6aabd8c2",
@@ -1161,7 +1245,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.908
+      "rank": 2.226
     },
     {
       "id": "e04b4e930bcdca98",
@@ -1182,7 +1266,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.869
+      "rank": 2.196
     },
     {
       "id": "7cd396eaf07ad715",
@@ -1203,7 +1287,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.86
+      "rank": 2.189
     },
     {
       "id": "4b08ec50268e04a4",
@@ -1222,7 +1306,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-20T02:18:10.117Z",
       "labels": [],
-      "rank": 2.807
+      "rank": 2.148
     },
     {
       "id": "c8a4b2ac137e196f",
@@ -1243,7 +1327,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.77
+      "rank": 2.12
     },
     {
       "id": "75623b38e68bd27d",
@@ -1262,7 +1346,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.745
+      "rank": 2.101
     },
     {
       "id": "f689168723dc030d",
@@ -1283,7 +1367,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.744
+      "rank": 2.1
     },
     {
       "id": "7bedfda97b7a4cef",
@@ -1304,7 +1388,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.723
+      "rank": 2.084
     },
     {
       "id": "7c37480e5f494a78",
@@ -1326,7 +1410,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.71
+      "rank": 2.074
     },
     {
       "id": "11e4ac4d10922d39",
@@ -1347,7 +1431,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.653
+      "rank": 2.03
     },
     {
       "id": "3107113245e39d0c",
@@ -1366,7 +1450,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.627
+      "rank": 2.01
     },
     {
       "id": "766a6d9c43d6f6da",
@@ -1387,7 +1471,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.614
+      "rank": 2.001
     },
     {
       "id": "e7d660e84688e0d1",
@@ -1408,7 +1492,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.611
+      "rank": 1.998
     },
     {
       "id": "21efcf41c872beed",
@@ -1427,7 +1511,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.591
+      "rank": 1.983
     },
     {
       "id": "881783ef802b37af",
@@ -1446,7 +1530,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.59
+      "rank": 1.982
     },
     {
       "id": "bc92b7a6195e0b2b",
@@ -1465,7 +1549,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.553
+      "rank": 1.954
     },
     {
       "id": "eacbd26a911f6855",
@@ -1484,7 +1568,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.55
+      "rank": 1.951
     },
     {
       "id": "50e3ea47cbae988d",
@@ -1505,7 +1589,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.534
+      "rank": 1.94
     },
     {
       "id": "ef341bf9e56e70c7",
@@ -1524,7 +1608,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T11:35:41.148Z",
       "labels": [],
-      "rank": 2.501
+      "rank": 1.914
     },
     {
       "id": "569017a70fd8b933",
@@ -1546,7 +1630,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.449
+      "rank": 1.874
     },
     {
       "id": "ba05f6db61a4ecf7",
@@ -1565,7 +1649,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.418
+      "rank": 1.851
     },
     {
       "id": "b7121aa7617648f3",
@@ -1586,7 +1670,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.397
+      "rank": 1.835
     },
     {
       "id": "dbf7233003822774",
@@ -1605,7 +1689,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.365
+      "rank": 1.81
     },
     {
       "id": "2fc737ddb9957593",
@@ -1626,7 +1710,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.355
+      "rank": 1.803
     },
     {
       "id": "2ab4deb8d86920bc",
@@ -1645,7 +1729,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.349
+      "rank": 1.798
     },
     {
       "id": "66831b4cb9812f3b",
@@ -1664,7 +1748,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.342
+      "rank": 1.792
     },
     {
       "id": "cb99e2baa62e7866",
@@ -1683,7 +1767,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-20T02:18:10.117Z",
       "labels": [],
-      "rank": 2.339
+      "rank": 1.79
     },
     {
       "id": "e29ac258c013c12c",
@@ -1702,7 +1786,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-20T02:18:10.117Z",
       "labels": [],
-      "rank": 2.339
+      "rank": 1.79
     },
     {
       "id": "a2fb00344062975f",
@@ -1721,7 +1805,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-20T02:18:10.117Z",
       "labels": [],
-      "rank": 2.339
+      "rank": 1.79
     },
     {
       "id": "b555cb95b60d6e2b",
@@ -1742,7 +1826,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.314
+      "rank": 1.771
     },
     {
       "id": "bf1424b145e4fc73",
@@ -1761,7 +1845,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.309
+      "rank": 1.767
     },
     {
       "id": "f82d195d3e1b5c14",
@@ -1779,10 +1863,8 @@
       "whyItMatters": "Stock Rails vulnerability reminds you to audit your own backend input sanitization against remote execution vectors.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T11:35:41.148Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.28
+      "labels": [],
+      "rank": 1.745
     },
     {
       "id": "82df8b1098237927",
@@ -1801,7 +1883,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 2.249
+      "rank": 1.722
     },
     {
       "id": "53f2a14376dda94d",
@@ -1822,7 +1904,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.181
+      "rank": 1.669
     },
     {
       "id": "347bf623eecffa75",
@@ -1843,7 +1925,7 @@
       "labels": [
         "today"
       ],
-      "rank": 2.148
+      "rank": 1.644
     },
     {
       "id": "77ff48ef191d0b8f",
@@ -1862,7 +1944,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.145
+      "rank": 1.641
     },
     {
       "id": "9fa731b0ef6c1da9",
@@ -1883,7 +1965,7 @@
       "labels": [
         "important"
       ],
-      "rank": 2.122
+      "rank": 1.624
     },
     {
       "id": "663fa60cff593cd5",
@@ -1902,7 +1984,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 2.062
+      "rank": 1.578
     },
     {
       "id": "2649ff18397f12a8",
@@ -1920,10 +2002,8 @@
       "whyItMatters": "Memory compression techniques could optimize resource usage for your local vector database nodes.",
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T20:32:39.596Z",
-      "labels": [
-        "today"
-      ],
-      "rank": 2.06
+      "labels": [],
+      "rank": 1.576
     },
     {
       "id": "2adef6bfeca022c8",
@@ -1944,7 +2024,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.987
+      "rank": 1.521
     },
     {
       "id": "bfaa144bfebbdf7c",
@@ -1965,7 +2045,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.976
+      "rank": 1.512
     },
     {
       "id": "af1852b4c46dc30e",
@@ -1986,7 +2066,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.965
+      "rank": 1.504
     },
     {
       "id": "2cf389d7c377c9cf",
@@ -2005,7 +2085,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.951
+      "rank": 1.493
     },
     {
       "id": "2f277485244a55e7",
@@ -2024,7 +2104,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.914
+      "rank": 1.465
     },
     {
       "id": "c60558e98558e0e7",
@@ -2046,7 +2126,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.902
+      "rank": 1.456
     },
     {
       "id": "549a77347d5e1e5f",
@@ -2070,7 +2150,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.875
+      "rank": 1.435
     },
     {
       "id": "22c3131e87fdf83a",
@@ -2089,7 +2169,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.832
+      "rank": 1.402
     },
     {
       "id": "2f383f35a9e21175",
@@ -2108,7 +2188,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.808
+      "rank": 1.383
     },
     {
       "id": "358ebcd58de33063",
@@ -2128,7 +2208,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.791
+      "rank": 1.37
     },
     {
       "id": "3bdead74eaa9b1e8",
@@ -2149,7 +2229,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.789
+      "rank": 1.37
     },
     {
       "id": "1796857b9a1b2f79",
@@ -2170,7 +2250,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.735
+      "rank": 1.328
     },
     {
       "id": "3a6ddd65cb94a929",
@@ -2191,7 +2271,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.73
+      "rank": 1.324
     },
     {
       "id": "6e090bb95c89cabb",
@@ -2212,7 +2292,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.686
+      "rank": 1.291
     },
     {
       "id": "88ae40f036329419",
@@ -2233,7 +2313,7 @@
       "labels": [
         "today"
       ],
-      "rank": 1.682
+      "rank": 1.287
     },
     {
       "id": "2c0a64e08e41f662",
@@ -2254,7 +2334,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.669
+      "rank": 1.278
     },
     {
       "id": "acb7f96633bb0398",
@@ -2273,7 +2353,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.635
+      "rank": 1.251
     },
     {
       "id": "206b86c970ea91d6",
@@ -2294,7 +2374,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.617
+      "rank": 1.237
     },
     {
       "id": "8e21326b778b59c3",
@@ -2315,7 +2395,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.596
+      "rank": 1.222
     },
     {
       "id": "0bd7a28301d2f52a",
@@ -2334,7 +2414,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.591
+      "rank": 1.218
     },
     {
       "id": "39e9943447463a62",
@@ -2355,7 +2435,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.56
+      "rank": 1.194
     },
     {
       "id": "8b6ac2940fdc0d0e",
@@ -2374,7 +2454,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.558
+      "rank": 1.192
     },
     {
       "id": "3ede266c56e21b63",
@@ -2393,7 +2473,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 1.48
+      "rank": 1.133
     },
     {
       "id": "6dbfd2c16f1d581a",
@@ -2412,7 +2492,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.469
+      "rank": 1.124
     },
     {
       "id": "14c609265d0e616e",
@@ -2431,7 +2511,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.467
+      "rank": 1.123
     },
     {
       "id": "0f81d901dab588c1",
@@ -2452,7 +2532,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.46
+      "rank": 1.118
     },
     {
       "id": "ea7360a8548b946f",
@@ -2471,7 +2551,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-20T02:18:10.117Z",
       "labels": [],
-      "rank": 1.431
+      "rank": 1.096
     },
     {
       "id": "5e888bac8f86cebe",
@@ -2490,7 +2570,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.43
+      "rank": 1.095
     },
     {
       "id": "fa2d79e8a491ed5a",
@@ -2511,7 +2591,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.415
+      "rank": 1.083
     },
     {
       "id": "6ae82bdc38649050",
@@ -2530,7 +2610,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.397
+      "rank": 1.069
     },
     {
       "id": "5b0b199a3f155cec",
@@ -2551,7 +2631,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.372
+      "rank": 1.05
     },
     {
       "id": "8f07365d378cd3fa",
@@ -2570,7 +2650,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.367
+      "rank": 1.046
     },
     {
       "id": "bdaac6f563ec9175",
@@ -2589,7 +2669,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.361
+      "rank": 1.042
     },
     {
       "id": "069078b2b4e3b49a",
@@ -2610,7 +2690,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.325
+      "rank": 1.014
     },
     {
       "id": "09b6248761ae0d2e",
@@ -2629,7 +2709,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.3
+      "rank": 0.995
     },
     {
       "id": "e0d2ba07cf0f2da7",
@@ -2648,7 +2728,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.297
+      "rank": 0.993
     },
     {
       "id": "b832d435844d4fc4",
@@ -2667,7 +2747,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.288
+      "rank": 0.986
     },
     {
       "id": "23791fed6fa0ce2c",
@@ -2686,7 +2766,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.274
+      "rank": 0.975
     },
     {
       "id": "027b06d66aa2428c",
@@ -2705,7 +2785,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.265
+      "rank": 0.968
     },
     {
       "id": "c7d3ecb006439a13",
@@ -2727,7 +2807,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.263
+      "rank": 0.967
     },
     {
       "id": "d414dc9f436f65c1",
@@ -2746,7 +2826,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.262
+      "rank": 0.966
     },
     {
       "id": "61a25aea71886a4b",
@@ -2765,7 +2845,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.261
+      "rank": 0.965
     },
     {
       "id": "b397f013e77fa481",
@@ -2784,7 +2864,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.254
+      "rank": 0.96
     },
     {
       "id": "2d5a3de817461fab",
@@ -2803,7 +2883,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.222
+      "rank": 0.936
     },
     {
       "id": "692230a9d797ddbd",
@@ -2822,7 +2902,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.221
+      "rank": 0.934
     },
     {
       "id": "dfdee5b6b2fccda4",
@@ -2841,7 +2921,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.208
+      "rank": 0.925
     },
     {
       "id": "d021019fd8304ea4",
@@ -2860,7 +2940,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 1.201
+      "rank": 0.919
     },
     {
       "id": "af19957a97c276aa",
@@ -2882,7 +2962,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.19
+      "rank": 0.911
     },
     {
       "id": "a909c419b8fadbae",
@@ -2904,7 +2984,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.167
+      "rank": 0.893
     },
     {
       "id": "2052af3031ae30d9",
@@ -2923,7 +3003,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.156
+      "rank": 0.885
     },
     {
       "id": "38c4a38bd61908e3",
@@ -2942,7 +3022,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.151
+      "rank": 0.881
     },
     {
       "id": "ed47f6db4915840c",
@@ -2963,7 +3043,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.149
+      "rank": 0.88
     },
     {
       "id": "8239fbdc6243950a",
@@ -2982,7 +3062,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.111
+      "rank": 0.85
     },
     {
       "id": "b20533735bac1c5f",
@@ -3001,7 +3081,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.081
+      "rank": 0.827
     },
     {
       "id": "b8930a9a56df63fc",
@@ -3020,7 +3100,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 1.071
+      "rank": 0.819
     },
     {
       "id": "b527b6f0ddceafec",
@@ -3039,7 +3119,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.061
+      "rank": 0.812
     },
     {
       "id": "e48dfd6c57c460dd",
@@ -3058,7 +3138,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 1.04
+      "rank": 0.796
     },
     {
       "id": "887a9d54e326095b",
@@ -3079,7 +3159,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.02
+      "rank": 0.781
     },
     {
       "id": "74ced337548159bc",
@@ -3098,7 +3178,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.012
+      "rank": 0.775
     },
     {
       "id": "0e23395eb73494cf",
@@ -3117,7 +3197,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 1.008
+      "rank": 0.772
     },
     {
       "id": "ae6cdc6347964b56",
@@ -3139,7 +3219,26 @@
       "labels": [
         "important"
       ],
-      "rank": 1.007
+      "rank": 0.771
+    },
+    {
+      "id": "469964aef4026e8f",
+      "title": "Air Force Maj. Jason Watson has been in solitary confinement for almost 100 days",
+      "url": "https://stripes.com/branches/air_force/2026-11-17/jason-watson-pretrial-hearing-uscmj-charges-23498480.html",
+      "sources": [
+        "Hacker News"
+      ],
+      "bestTier": 2,
+      "publishedAt": "2026-11-19T10:10:20.000Z",
+      "summary": "",
+      "topic": "E",
+      "importance": 2,
+      "relevance": 1,
+      "whyItMatters": "Legal and military news items lack any actionable technical takeaways for your software engineering workflow.",
+      "scoredBy": "llm",
+      "firstSeenAt": "2026-11-20T11:33:42.713Z",
+      "labels": [],
+      "rank": 0.769
     },
     {
       "id": "d4875a92aea85dac",
@@ -3160,7 +3259,7 @@
       "labels": [
         "important"
       ],
-      "rank": 1.004
+      "rank": 0.768
     },
     {
       "id": "6cab9c8cd38347e3",
@@ -3179,7 +3278,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 0.982
+      "rank": 0.752
     },
     {
       "id": "679cee5ea1466f1f",
@@ -3198,7 +3297,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.982
+      "rank": 0.752
     },
     {
       "id": "319e08473b4aa091",
@@ -3217,7 +3316,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.972
+      "rank": 0.744
     },
     {
       "id": "6ab4eb3121ad6e12",
@@ -3236,7 +3335,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.971
+      "rank": 0.743
     },
     {
       "id": "54bca3b9a46d02f4",
@@ -3255,7 +3354,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 0.97
+      "rank": 0.743
     },
     {
       "id": "246fea28a78903d1",
@@ -3274,7 +3373,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T02:33:04.069Z",
       "labels": [],
-      "rank": 0.958
+      "rank": 0.733
     },
     {
       "id": "5b158888670aa71b",
@@ -3294,7 +3393,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.95
+      "rank": 0.727
     },
     {
       "id": "776157cf22e3ea27",
@@ -3313,7 +3412,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.946
+      "rank": 0.724
     },
     {
       "id": "dc5855fecf52785f",
@@ -3332,7 +3431,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.929
+      "rank": 0.711
     },
     {
       "id": "55dde3921be9b1d7",
@@ -3351,7 +3450,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 0.913
+      "rank": 0.699
     },
     {
       "id": "727d955cd223ff9b",
@@ -3370,7 +3469,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.908
+      "rank": 0.695
     },
     {
       "id": "94ec9ff9d4729a9e",
@@ -3391,7 +3490,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.908
+      "rank": 0.695
     },
     {
       "id": "48c46304656078a6",
@@ -3410,7 +3509,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.907
+      "rank": 0.694
     },
     {
       "id": "cdafd8ebe9f4be7a",
@@ -3429,7 +3528,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.899
+      "rank": 0.688
     },
     {
       "id": "9f7286d0bf416b1a",
@@ -3448,7 +3547,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.896
+      "rank": 0.686
     },
     {
       "id": "0488c951c7292232",
@@ -3467,7 +3566,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.89
+      "rank": 0.681
     },
     {
       "id": "9073920a14eae64d",
@@ -3486,7 +3585,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.868
+      "rank": 0.664
     },
     {
       "id": "f8ba41dfccb190fe",
@@ -3505,7 +3604,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.862
+      "rank": 0.66
     },
     {
       "id": "2b699e1f4bac1f07",
@@ -3524,7 +3623,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.853
+      "rank": 0.653
     },
     {
       "id": "8e6075d168e06821",
@@ -3543,7 +3642,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.841
+      "rank": 0.644
     },
     {
       "id": "d218f9a95b85493a",
@@ -3564,7 +3663,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.834
+      "rank": 0.638
     },
     {
       "id": "28fff23dec51a9bb",
@@ -3583,7 +3682,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.834
+      "rank": 0.638
     },
     {
       "id": "5b6a4fa0520d8905",
@@ -3602,7 +3701,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.831
+      "rank": 0.636
     },
     {
       "id": "4b9feb41ff3655d4",
@@ -3621,7 +3720,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.824
+      "rank": 0.631
     },
     {
       "id": "03692ec60cac1bbf",
@@ -3640,7 +3739,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T11:37:30.083Z",
       "labels": [],
-      "rank": 0.82
+      "rank": 0.627
     },
     {
       "id": "9567fc17c1fdcddf",
@@ -3661,7 +3760,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.813
+      "rank": 0.622
     },
     {
       "id": "bc1083d540d97a0c",
@@ -3680,7 +3779,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.787
+      "rank": 0.602
     },
     {
       "id": "a70cae4c16f0fdc6",
@@ -3702,7 +3801,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.782
+      "rank": 0.599
     },
     {
       "id": "3aa0c6065ac07d71",
@@ -3721,7 +3820,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.77
+      "rank": 0.589
     },
     {
       "id": "8c5b4e01285e983d",
@@ -3740,7 +3839,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.769
+      "rank": 0.589
     },
     {
       "id": "e683d40fba103b5f",
@@ -3759,7 +3858,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.749
+      "rank": 0.573
     },
     {
       "id": "0761da68e54fd0db",
@@ -3778,7 +3877,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.748
+      "rank": 0.573
     },
     {
       "id": "7157ce3b54a8a376",
@@ -3799,7 +3898,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.747
+      "rank": 0.572
     },
     {
       "id": "9ce310da3f02e866",
@@ -3818,7 +3917,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T20:32:39.596Z",
       "labels": [],
-      "rank": 0.746
+      "rank": 0.571
     },
     {
       "id": "698ced14e342737d",
@@ -3837,7 +3936,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.742
+      "rank": 0.568
     },
     {
       "id": "7cc4bd0d8db8c788",
@@ -3858,7 +3957,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.741
+      "rank": 0.567
     },
     {
       "id": "1e308b5aafc025fe",
@@ -3877,7 +3976,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.731
+      "rank": 0.559
     },
     {
       "id": "cb1d8f8bc84f7e6a",
@@ -3896,7 +3995,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.726
+      "rank": 0.556
     },
     {
       "id": "3a4b135687e309c5",
@@ -3915,7 +4014,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.725
+      "rank": 0.555
     },
     {
       "id": "7a5b841ecd5649fa",
@@ -3936,7 +4035,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.724
+      "rank": 0.554
     },
     {
       "id": "764198fc49a3e15f",
@@ -3956,7 +4055,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.701
+      "rank": 0.536
     },
     {
       "id": "b4420b34b7621c1f",
@@ -3975,7 +4074,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.687
+      "rank": 0.526
     },
     {
       "id": "de9db64f82da9b0f",
@@ -3994,7 +4093,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.669
+      "rank": 0.512
     },
     {
       "id": "df92921082e9f46d",
@@ -4013,7 +4112,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.649
+      "rank": 0.497
     },
     {
       "id": "01ad01e5cd4126d0",
@@ -4032,7 +4131,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.631
+      "rank": 0.483
     },
     {
       "id": "735df09c2ed1f9d3",
@@ -4052,7 +4151,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.568
+      "rank": 0.435
     },
     {
       "id": "c884230bffc6b158",
@@ -4071,7 +4170,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T20:32:39.596Z",
       "labels": [],
-      "rank": 0.563
+      "rank": 0.431
     },
     {
       "id": "590cb0b9c5dd23f2",
@@ -4090,7 +4189,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.561
+      "rank": 0.43
     },
     {
       "id": "c6c361c53bc4ce2d",
@@ -4109,7 +4208,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.56
+      "rank": 0.429
     },
     {
       "id": "8129f68e260304e7",
@@ -4129,7 +4228,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.532
+      "rank": 0.407
     },
     {
       "id": "b2955c38ff71d9a1",
@@ -4148,7 +4247,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.521
+      "rank": 0.399
     },
     {
       "id": "0604bc2b50fc0c3b",
@@ -4167,7 +4266,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.515
+      "rank": 0.394
     },
     {
       "id": "ae3ee0f483ed9177",
@@ -4187,7 +4286,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.505
+      "rank": 0.386
     },
     {
       "id": "6755813e5cbe36f0",
@@ -4206,7 +4305,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.497
+      "rank": 0.38
     },
     {
       "id": "f054a54f8228cfac",
@@ -4225,7 +4324,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.492
+      "rank": 0.377
     },
     {
       "id": "e9a68a300e49f431",
@@ -4245,7 +4344,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.489
+      "rank": 0.374
     },
     {
       "id": "853b24ff0d6ecd3f",
@@ -4266,7 +4365,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.468
+      "rank": 0.358
     },
     {
       "id": "98ef486c7d4edc83",
@@ -4285,7 +4384,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.464
+      "rank": 0.355
     },
     {
       "id": "cfcc7acb02e9ca79",
@@ -4306,7 +4405,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.459
+      "rank": 0.351
     },
     {
       "id": "b0ded74e06b06613",
@@ -4327,7 +4426,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.459
+      "rank": 0.351
     },
     {
       "id": "a6c7c2ca104f78f1",
@@ -4346,7 +4445,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.447
+      "rank": 0.342
     },
     {
       "id": "b4d0f21c2c604500",
@@ -4365,7 +4464,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.446
+      "rank": 0.341
     },
     {
       "id": "c267813b00db4e00",
@@ -4384,7 +4483,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.435
+      "rank": 0.333
     },
     {
       "id": "ebd9eb94963902d2",
@@ -4406,7 +4505,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.427
+      "rank": 0.327
     },
     {
       "id": "11cf973c0d595b96",
@@ -4425,7 +4524,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.426
+      "rank": 0.326
     },
     {
       "id": "81bd7f76e2a9d5f3",
@@ -4444,7 +4543,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.409
+      "rank": 0.313
     },
     {
       "id": "a7baa208561a2ac2",
@@ -4463,7 +4562,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.402
+      "rank": 0.307
     },
     {
       "id": "f26f2a4dfd6b9b95",
@@ -4482,7 +4581,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.401
+      "rank": 0.307
     },
     {
       "id": "294a13221fad339b",
@@ -4503,7 +4602,7 @@
       "labels": [
         "important"
       ],
-      "rank": 0.399
+      "rank": 0.305
     },
     {
       "id": "479bc4e0e5b12179",
@@ -4523,7 +4622,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T20:28:23.991Z",
       "labels": [],
-      "rank": 0.385
+      "rank": 0.295
     },
     {
       "id": "f378d4ace0f37459",
@@ -4542,7 +4641,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.349
+      "rank": 0.267
     },
     {
       "id": "91e58e2ea930c2fa",
@@ -4561,7 +4660,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.349
+      "rank": 0.267
     },
     {
       "id": "6f099656459b9bfa",
@@ -4580,7 +4679,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.332
+      "rank": 0.254
     },
     {
       "id": "3899b6e8ee3cc1f1",
@@ -4599,7 +4698,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.327
+      "rank": 0.251
     },
     {
       "id": "58da9c66b1456ac9",
@@ -4618,7 +4717,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.327
+      "rank": 0.251
     },
     {
       "id": "b1c71d07875ac772",
@@ -4638,7 +4737,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.325
+      "rank": 0.249
     },
     {
       "id": "f891bd93f3d21469",
@@ -4657,7 +4756,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.314
+      "rank": 0.241
     },
     {
       "id": "dca31e1cbc0198f3",
@@ -4676,7 +4775,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.276
+      "rank": 0.212
     },
     {
       "id": "950ac38f23f2d5a7",
@@ -4695,7 +4794,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.266
+      "rank": 0.204
     },
     {
       "id": "87d7014c15ee68a3",
@@ -4714,7 +4813,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.265
+      "rank": 0.203
     },
     {
       "id": "3bc6cdb34c17f840",
@@ -4734,7 +4833,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.264
+      "rank": 0.202
     },
     {
       "id": "7c04761a4076fc82",
@@ -4754,7 +4853,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.264
+      "rank": 0.202
     },
     {
       "id": "83b3b2200438f294",
@@ -4773,7 +4872,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.26
+      "rank": 0.199
     },
     {
       "id": "c650c89a876a2c67",
@@ -4792,7 +4891,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.255
+      "rank": 0.195
     },
     {
       "id": "4b0fc5b701ffd77d",
@@ -4811,7 +4910,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.254
+      "rank": 0.194
     },
     {
       "id": "0bc322583e6f0775",
@@ -4830,7 +4929,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.245
+      "rank": 0.188
     },
     {
       "id": "9ccf8665576aaeb3",
@@ -4849,7 +4948,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.22
+      "rank": 0.169
     },
     {
       "id": "4b4d48f19f03e283",
@@ -4869,7 +4968,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.21
+      "rank": 0.161
     },
     {
       "id": "12b70a318ffd04f5",
@@ -4888,7 +4987,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-19T20:32:39.596Z",
       "labels": [],
-      "rank": 0.206
+      "rank": 0.158
     },
     {
       "id": "e3915f7e4cf071c4",
@@ -4907,7 +5006,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.187
+      "rank": 0.143
     },
     {
       "id": "9ae934d441da1a71",
@@ -4927,7 +5026,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.184
+      "rank": 0.141
     },
     {
       "id": "99dbc75c6e3dc5fa",
@@ -4946,7 +5045,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.181
+      "rank": 0.138
     },
     {
       "id": "28631383103972f6",
@@ -4965,7 +5064,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.178
+      "rank": 0.136
     },
     {
       "id": "3ad115755ec36d30",
@@ -4984,7 +5083,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.169
+      "rank": 0.129
     },
     {
       "id": "f047b899004cf10d",
@@ -5003,7 +5102,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.158
+      "rank": 0.121
     },
     {
       "id": "b4260db782b8f2ad",
@@ -5022,7 +5121,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.137
+      "rank": 0.105
     },
     {
       "id": "aa7b1d783c6b1d0c",
@@ -5041,7 +5140,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.123
+      "rank": 0.094
     },
     {
       "id": "43916558be0e93ec",
@@ -5060,7 +5159,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.118
+      "rank": 0.09
     },
     {
       "id": "d9a15b4078d3c98e",
@@ -5079,7 +5178,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.111
+      "rank": 0.085
     },
     {
       "id": "0907fbf8de485d00",
@@ -5098,7 +5197,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.102
+      "rank": 0.078
     },
     {
       "id": "8148552b8a3c54fd",
@@ -5117,7 +5216,7 @@
       "scoredBy": "llm",
       "firstSeenAt": "2026-11-18T03:57:25.671Z",
       "labels": [],
-      "rank": 0.074
+      "rank": 0.056
     }
   ]
 }
